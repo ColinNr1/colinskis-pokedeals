@@ -4,6 +4,12 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '15 4,10,16,22 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/normalize_direct_links.py'
+      - 'scripts/update_catalog.py'
+      - '.github/workflows/refresh.yml'
 
 permissions:
   contents: write
@@ -19,17 +25,25 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
           cache: pip
+
       - name: Install scanner dependencies
         run: pip install -r requirements.txt
-      - name: Refresh known listings
+
+      - name: Normalize vendor links to direct product pages
+        run: python scripts/normalize_direct_links.py
+
+      - name: Refresh known direct product listings
         run: python scripts/update_catalog.py
+
       - name: Validate catalog JSON
         run: python -m json.tool data/catalog.json > /dev/null
+
       - name: Commit changed catalog
         run: |
           if git diff --quiet -- data/catalog.json; then
