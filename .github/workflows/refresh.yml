@@ -1,5 +1,5 @@
 name: Refresh Pokemon deals
-# QA trigger: pack-count + allocator verification
+# QA trigger: strict live price/stock verification + store allocator
 
 on:
   workflow_dispatch:
@@ -16,6 +16,7 @@ on:
       - 'scripts/normalize_direct_links.py'
       - 'scripts/update_catalog.py'
       - 'scripts/browser_fallback.py'
+      - 'scripts/prune_unverified_live.py'
       - 'scripts/browser_accessories.py'
       - 'scripts/update_pulls.py'
       - 'scripts/validate_pulls.py'
@@ -50,7 +51,7 @@ jobs:
         run: python -m playwright install --with-deps chromium
       - name: Install verified Top Pulls V2 UI
         run: python scripts/install_top_pulls_ui_v2.py
-      - name: Install Budget Allocator UI
+      - name: Install Budget Allocator V3 UI
         run: python scripts/install_budget_allocator.py
       - name: Normalize vendor links to direct product pages
         run: python scripts/normalize_direct_links.py
@@ -58,6 +59,8 @@ jobs:
         run: python scripts/update_catalog.py
       - name: Browser fallback for blocked vendors
         run: python scripts/browser_fallback.py
+      - name: Hide listings without current verified price and stock
+        run: python scripts/prune_unverified_live.py
       - name: Resolve and verify accessories
         run: python scripts/browser_accessories.py
       - name: Verify booster counts and product contents
