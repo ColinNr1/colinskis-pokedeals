@@ -28,6 +28,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -55,7 +57,7 @@ jobs:
           python -m json.tool data/catalog.json > /dev/null
           python -m json.tool data/pulls.json > /dev/null
 
-      - name: Commit changed site and data
+      - name: Commit changed data
         run: |
           if git diff --quiet -- data/catalog.json data/pulls.json; then
             echo "No data changes"
@@ -65,4 +67,13 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add data/catalog.json data/pulls.json
           git commit -m "chore: refresh PokeDeals data"
-          git push
+
+      - name: Rebase latest main and push
+        run: |
+          if git diff --quiet HEAD origin/main && [ "$(git rev-parse HEAD)" = "$(git rev-parse origin/main)" ]; then
+            echo "Nothing to push"
+            exit 0
+          fi
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
