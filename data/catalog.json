@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T11:16:20+00:00",
+  "generated_at": "2026-08-19T11:46:05+00:00",
   "products": [
     {
       "id": "chaos-half",
@@ -20,25 +20,12 @@
           "ship": "Free delivery over €25",
           "note": "Factory sealed, 18 packs. Page says in stock and ships in 2–4 days.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T11:12:41+00:00",
-          "scan_status": "ok"
-        },
-        {
-          "store": "GamesPlus",
-          "price": 90.0,
-          "url": "https://gamesplusmalta.com/product/pokemon-tcg-chaos-rising-half-booster-box/",
-          "ship": "Free delivery over €50; 2–3 days",
-          "note": "45 units shown in stock when checked; free same-day store pickup.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:16:24+00:00",
-          "scan_status": "browser_ok",
-          "match_scores": {
-            "title": 0.0,
-            "h1": 0.0,
-            "slug": 0.75,
-            "jsonld": 0.0,
-            "body": 0.0
-          }
+          "last_checked": "2026-08-19T11:26:37+00:00",
+          "scan_status": "ok",
+          "live_verified": true,
+          "price_verified": true,
+          "stock_verified": true,
+          "price_source": "jsonld"
         },
         {
           "store": "Gamebreaker",
@@ -47,35 +34,12 @@
           "ship": "Free delivery over €25",
           "note": "Add-to-cart listing; prices include VAT.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T11:12:51+00:00",
-          "scan_status": "ok"
-        },
-        {
-          "store": "PowerPlay",
-          "price": 100.0,
-          "url": "https://www.powerplaymt.com/product-page/chaos-rising-half-booster-box",
-          "ship": "Free delivery over €50",
-          "note": "In-stock local listing.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:12:52+00:00",
-          "scan_status": "ok"
-        },
-        {
-          "store": "Gamers Land",
-          "price": 119.0,
-          "url": "https://gamersland.com.mt/product/pokemon-tcg-mega-evolution-chaos-rising-half-booster-box/",
-          "ship": "Free delivery over €250",
-          "note": "English category; Add to basket when checked.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:16:26+00:00",
-          "scan_status": "browser_ok",
-          "match_scores": {
-            "title": 0.0,
-            "h1": 0.0,
-            "slug": 0.75,
-            "jsonld": 0.0,
-            "body": 0.0
-          }
+          "last_checked": "2026-08-19T11:26:47+00:00",
+          "scan_status": "ok",
+          "live_verified": true,
+          "price_verified": true,
+          "stock_verified": true,
+          "price_source": "jsonld"
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EChaos%20Rising%20Half%20Booster%20Box%20%2818%20Packs%29%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EChaos%20Rising%20%E2%80%A2%20Half%20Booster%20Box%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
@@ -101,42 +65,12 @@
           "ship": "Free delivery over €25",
           "note": "Product block says in stock / ships in 2–4 days, but the FAQ on the same page still describes Pitch Black as delayed preorder. Verify before checkout.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T11:13:01+00:00",
-          "scan_status": "ok"
-        },
-        {
-          "store": "GamesPlus",
-          "price": 90.0,
-          "url": "https://gamesplusmalta.com/product/pokemon-tcg-pitch-black-half-booster-box/",
-          "ship": "Free delivery over €50; 2–3 days",
-          "note": "In stock on the live category page.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:16:28+00:00",
-          "scan_status": "browser_ok",
-          "match_scores": {
-            "title": 0.0,
-            "h1": 0.0,
-            "slug": 0.75,
-            "jsonld": 0.0,
-            "body": 0.0
-          }
-        },
-        {
-          "store": "Gamebreaker",
-          "price": 90.0,
-          "url": "https://gamebreakermalta.com/product/pokemon-tcg-pitch-black-half-booster-box/",
-          "ship": "Free delivery over €25",
-          "note": "Add-to-cart listing when checked.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:16:31+00:00",
-          "scan_status": "browser_ok",
-          "match_scores": {
-            "title": 0.0,
-            "h1": 0.0,
-            "slug": 0.75,
-            "jsonld": 0.0,
-            "body": 0.0
-          }
+          "last_checked": "2026-08-19T11:26:55+00:00",
+          "scan_status": "ok",
+          "live_verified": true,
+          "price_verified": true,
+          "stock_verified": true,
+          "price_source": "jsonld"
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPitch%20Black%20Half%20Booster%20Box%20%2818%20Packs%29%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPitch%20Black%20%E2%80%A2%20Half%20Booster%20Box%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
@@ -162,25 +96,12 @@
           "ship": "Free delivery over €25",
           "note": "Product block says in stock / ships in 2–4 days, but the FAQ on the same page still describes Pitch Black as delayed preorder. Verify before checkout.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T11:13:12+00:00",
-          "scan_status": "ok"
-        },
-        {
-          "store": "GamesPlus",
-          "price": 6.5,
-          "url": "https://gamesplusmalta.com/product/pokemon-tcg-pitch-black-booster-pack-2/",
-          "ship": "Free delivery over €50; 2–3 days",
-          "note": "In stock.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:16:33+00:00",
-          "scan_status": "browser_ok",
-          "match_scores": {
-            "title": 0.0,
-            "h1": 0.0,
-            "slug": 1.0,
-            "jsonld": 0.0,
-            "body": 0.0
-          }
+          "last_checked": "2026-08-19T11:27:05+00:00",
+          "scan_status": "ok",
+          "live_verified": true,
+          "price_verified": true,
+          "stock_verified": true,
+          "price_source": "jsonld"
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPitch%20Black%20Booster%20Pack%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPitch%20Black%20%E2%80%A2%20Booster%20Pack%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
@@ -206,185 +127,16 @@
           "ship": "Free delivery over €25",
           "note": "In stock; ships in 2–4 days.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T11:13:21+00:00",
-          "scan_status": "ok"
-        },
-        {
-          "store": "GamesPlus",
-          "price": 6.5,
-          "url": "https://gamesplusmalta.com/product/pokemon-tcg-chaos-rising-booster-pack/",
-          "ship": "Free delivery over €50; 2–3 days",
-          "note": "In stock.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:16:34+00:00",
-          "scan_status": "browser_ok",
-          "match_scores": {
-            "title": 0.0,
-            "h1": 0.0,
-            "slug": 1.0,
-            "jsonld": 0.0,
-            "body": 0.0
-          }
+          "last_checked": "2026-08-19T11:27:13+00:00",
+          "scan_status": "ok",
+          "live_verified": true,
+          "price_verified": true,
+          "stock_verified": true,
+          "price_source": "jsonld"
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EChaos%20Rising%20Booster%20Pack%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EChaos%20Rising%20%E2%80%A2%20Booster%20Pack%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
       "pack_count": 1,
-      "pack_count_source": "product_type"
-    },
-    {
-      "id": "perfect-pack",
-      "name": "Perfect Order Booster Pack",
-      "set": "Perfect Order",
-      "type": "Booster Pack",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Perfect%20Order%20Booster%20Pack%20product&pid=Api",
-      "cm": 4.87,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Boosters/Perfect-Order-Booster",
-      "potential": 77,
-      "tag": "Watch",
-      "why": "Current Malta shop pricing is above the raw Cardmarket market average, but local convenience and shipping can narrow the real gap.",
-      "listings": [
-        {
-          "store": "GamesPlus",
-          "price": 6.5,
-          "url": "https://gamesplusmalta.com/product/pokemon-tcg-perfect-order-booster-pack/",
-          "ship": "Free delivery over €50; 2–3 days",
-          "note": "In stock.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:16:36+00:00",
-          "scan_status": "browser_ok",
-          "match_scores": {
-            "title": 0.0,
-            "h1": 0.0,
-            "slug": 1.0,
-            "jsonld": 0.0,
-            "body": 0.0
-          }
-        }
-      ],
-      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPerfect%20Order%20Booster%20Pack%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPerfect%20Order%20%E2%80%A2%20Booster%20Pack%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
-      "pack_count": 1,
-      "pack_count_source": "product_type"
-    },
-    {
-      "id": "perfect-half",
-      "name": "Perfect Order Half Booster Box (18 Packs)",
-      "set": "Perfect Order",
-      "type": "Half Booster Box",
-      "img": "https://static.wixstatic.com/media/ff902b_777e3e15e73e4ccd8815ca9c8dac74e6~mv2.webp/v1/fill/w_800,h_800,al_c,q_85/ff902b_777e3e15e73e4ccd8815ca9c8dac74e6~mv2.webp",
-      "cm": 99.8,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Booster-Boxes/Perfect-Order-Booster-Box-18-Boosters",
-      "potential": 87,
-      "tag": "Malta Beats Market",
-      "why": "GamesPlus at €90 is below Cardmarket's current 7-day average before any Cardmarket shipping. One of the clearest local deals in the scan.",
-      "listings": [
-        {
-          "store": "GamesPlus",
-          "price": 90.0,
-          "url": "https://gamesplusmalta.com/product/pokemon-tcg-perfect-order-half-booster-box/",
-          "ship": "Free delivery over €50; 2–3 days",
-          "note": "In stock.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:16:38+00:00",
-          "scan_status": "browser_ok",
-          "match_scores": {
-            "title": 0.0,
-            "h1": 0.0,
-            "slug": 0.75,
-            "jsonld": 0.0,
-            "body": 0.0
-          }
-        },
-        {
-          "store": "PowerPlay",
-          "price": 100.0,
-          "url": "https://www.powerplaymt.com/product-page/perfect-order-half-booster-box",
-          "ship": "Free delivery over €50",
-          "note": "In-stock local listing.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:13:44+00:00",
-          "scan_status": "ok"
-        }
-      ],
-      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPerfect%20Order%20Half%20Booster%20Box%20%2818%20Packs%29%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPerfect%20Order%20%E2%80%A2%20Half%20Booster%20Box%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
-      "pack_count": 18,
-      "pack_count_source": "product_type"
-    },
-    {
-      "id": "pitch-bundle",
-      "name": "Pitch Black Booster Bundle",
-      "set": "Pitch Black",
-      "type": "Booster Bundle",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Pitch%20Black%20Booster%20Bundle%20product&pid=Api",
-      "cm": 38.17,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Booster-Boxes/Pitch-Black-Booster-Bundle",
-      "potential": 84,
-      "tag": "Fair Local",
-      "why": "GamesPlus is within €7 of Cardmarket's 7-day market average and currently shows deep stock across all three stores.",
-      "listings": [
-        {
-          "store": "GamesPlus",
-          "price": 45.0,
-          "url": "https://gamesplusmalta.com/product/pokemon-tcg-pitch-black-booster-bundle-2/",
-          "ship": "Free delivery over €50; 2–3 days",
-          "note": "72 in stock when checked: San Ġwann 25, Tarxien 25, Birkirkara 22. Pickup free.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:16:39+00:00",
-          "scan_status": "browser_ok",
-          "match_scores": {
-            "title": 0.0,
-            "h1": 0.0,
-            "slug": 1.0,
-            "jsonld": 0.0,
-            "body": 0.0
-          }
-        }
-      ],
-      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPitch%20Black%20Booster%20Bundle%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPitch%20Black%20%E2%80%A2%20Booster%20Bundle%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
-      "pack_count": 6,
-      "pack_count_source": "product_type"
-    },
-    {
-      "id": "chaos-bundle",
-      "name": "Chaos Rising Booster Bundle",
-      "set": "Chaos Rising",
-      "type": "Booster Bundle",
-      "img": "https://static.wixstatic.com/media/ff902b_ef63f0f5a9ff4a378e92ec9f9c1216b7~mv2.webp/v1/fill/w_800,h_800,al_c,q_85/ff902b_ef63f0f5a9ff4a378e92ec9f9c1216b7~mv2.webp",
-      "cm": 37.52,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Booster-Boxes/Chaos-Rising-Booster-Bundle",
-      "potential": 80,
-      "tag": "Watch",
-      "why": "GamesPlus at €39 is now materially stronger than the old PowerPlay-only price and sits close enough to the European market to be a serious local option.",
-      "listings": [
-        {
-          "store": "PowerPlay",
-          "price": 55.0,
-          "url": "https://www.powerplaymt.com/product-page/pokemon-tcg-mega-evolution-chaos-rising-booster-bundle",
-          "ship": "Free delivery over €50",
-          "note": "In-stock local listing.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:13:52+00:00",
-          "scan_status": "ok"
-        },
-        {
-          "store": "GamesPlus",
-          "price": 39.0,
-          "url": "https://gamesplusmalta.com/product/pokemon-tcg-chaos-rising-booster-bundle/",
-          "ship": "Free delivery over €50; 2–3 days",
-          "note": "In stock on 19 Aug 2026.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:16:41+00:00",
-          "scan_status": "browser_ok",
-          "match_scores": {
-            "title": 0.0,
-            "h1": 0.0,
-            "slug": 1.0,
-            "jsonld": 0.0,
-            "body": 0.0
-          }
-        }
-      ],
-      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EChaos%20Rising%20Booster%20Bundle%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EChaos%20Rising%20%E2%80%A2%20Booster%20Bundle%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
-      "pack_count": 6,
       "pack_count_source": "product_type"
     },
     {
@@ -406,8 +158,12 @@
           "ship": "Free delivery over €25",
           "note": "Add-to-cart listing when checked.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T11:14:01+00:00",
-          "scan_status": "ok"
+          "last_checked": "2026-08-19T11:27:54+00:00",
+          "scan_status": "ok",
+          "live_verified": true,
+          "price_verified": true,
+          "stock_verified": true,
+          "price_source": "jsonld"
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPitch%20Black%20Elite%20Trainer%20Box%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPitch%20Black%20%E2%80%A2%20Elite%20Trainer%20Box%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
@@ -432,8 +188,12 @@
           "ship": "Free delivery over €250",
           "note": "English; Add to basket.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T11:14:02+00:00",
-          "scan_status": "ok"
+          "last_checked": "2026-08-19T11:27:54+00:00",
+          "scan_status": "ok",
+          "live_verified": true,
+          "price_verified": true,
+          "stock_verified": true,
+          "price_source": "jsonld"
         },
         {
           "store": "Gamebreaker",
@@ -442,18 +202,12 @@
           "ship": "Free delivery over €25",
           "note": "Add to cart.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T11:14:04+00:00",
-          "scan_status": "ok"
-        },
-        {
-          "store": "Exotique",
-          "price": 149.99,
-          "url": "https://exotique.com.mt/product/pokemon-tcg-mega-evolution-perfect-order-elite-trainer-box/",
-          "ship": "Check checkout",
-          "note": "Add to cart on 19 Aug 2026. Category page does not explicitly state language; verify English before buying.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:14:06+00:00",
-          "scan_status": "ok"
+          "last_checked": "2026-08-19T11:27:55+00:00",
+          "scan_status": "ok",
+          "live_verified": true,
+          "price_verified": true,
+          "stock_verified": true,
+          "price_source": "jsonld"
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPerfect%20Order%20Elite%20Trainer%20Box%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPerfect%20Order%20%E2%80%A2%20Elite%20Trainer%20Box%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
@@ -478,80 +232,15 @@
           "ship": "Free delivery over €250",
           "note": "English; Add to basket.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T11:14:07+00:00",
-          "scan_status": "ok"
+          "last_checked": "2026-08-19T11:29:31+00:00",
+          "scan_status": "ok",
+          "live_verified": true,
+          "price_verified": true,
+          "stock_verified": true,
+          "price_source": "jsonld"
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EChaos%20Rising%20Elite%20Trainer%20Box%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EChaos%20Rising%20%E2%80%A2%20Elite%20Trainer%20Box%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
-      "pack_count_source": "unverified"
-    },
-    {
-      "id": "phantasmal-etb",
-      "name": "Phantasmal Flames Elite Trainer Box",
-      "set": "Phantasmal Flames",
-      "type": "Elite Trainer Box",
-      "img": "https://exotique.com.mt/wp-content/uploads/2026/03/Pokemon-TCG-Mega-Evolution-Phantasmal-Flames-Elite-Trainer-Box.jpg",
-      "cm": 80.86,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Elite-Trainer-Boxes/Phantasmal-Flames-Elite-Trainer-Box",
-      "potential": 82,
-      "tag": "Watch",
-      "why": "Gamers Land and Exotique both carry substantial premiums versus the current Cardmarket 7-day market average.",
-      "listings": [
-        {
-          "store": "Exotique",
-          "price": 159.99,
-          "url": "https://exotique.com.mt/product/pokemon-tcg-mega-evolution-phantasmal-flames-elite-trainer-box/",
-          "ship": "Check checkout",
-          "note": "Add-to-cart listing. Exotique does not state product language on the category page; verify English before buying.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:14:09+00:00",
-          "scan_status": "ok"
-        }
-      ],
-      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPhantasmal%20Flames%20Elite%20Trainer%20Box%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPhantasmal%20Flames%20%E2%80%A2%20Elite%20Trainer%20Box%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
-      "pack_count_source": "unverified"
-    },
-    {
-      "id": "mega-zygarde",
-      "name": "Mega Zygarde ex Premium Collection",
-      "set": "Perfect Order",
-      "type": "Premium Collection",
-      "img": "https://static.wixstatic.com/media/ff902b_8f552545b259462ea6883d8738d6f5de~mv2.jpg/v1/fill/w_900,h_700,al_c,q_85/ff902b_8f552545b259462ea6883d8738d6f5de~mv2.jpg",
-      "cm": 44.39,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Box-Sets/Mega-Zygarde-ex-Premium-Collection",
-      "potential": 86,
-      "tag": "Best Local: Tavern",
-      "why": "GamesPlus now has this in stock at €50. Mystical Tavern's former €45 listing is currently out of stock, so €50 is the active Malta reference.",
-      "listings": [
-        {
-          "store": "PowerPlay",
-          "price": 65.0,
-          "url": "https://www.powerplaymt.com/product-page/pokemon-mega-zygarde-ex-premium-collection",
-          "ship": "Free delivery over €50",
-          "note": "In-stock local listing.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:14:09+00:00",
-          "scan_status": "ok"
-        },
-        {
-          "store": "GamesPlus",
-          "price": 50.0,
-          "url": "https://gamesplusmalta.com/product/pokemon-tcg-mega-zygarde-ex-premium-collection/",
-          "ship": "Free delivery over €50; 2–3 days",
-          "note": "In stock on 19 Aug 2026.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:16:43+00:00",
-          "scan_status": "browser_ok",
-          "match_scores": {
-            "title": 0.0,
-            "h1": 0.0,
-            "slug": 1.0,
-            "jsonld": 0.0,
-            "body": 0.0
-          }
-        }
-      ],
-      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EMega%20Zygarde%20ex%20Premium%20Collection%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPerfect%20Order%20%E2%80%A2%20Premium%20Collection%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
       "pack_count_source": "unverified"
     },
     {
@@ -573,7 +262,7 @@
           "ship": "Free delivery over €25",
           "note": "ONE PER PERSON shown directly in the product title.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T11:16:45+00:00",
+          "last_checked": "2026-08-19T11:47:16+00:00",
           "scan_status": "browser_ok",
           "match_scores": {
             "title": 0.0,
@@ -581,244 +270,14 @@
             "slug": 1.0,
             "jsonld": 0.0,
             "body": 0.0
-          }
+          },
+          "live_verified": true,
+          "price_verified": true,
+          "stock_verified": true,
+          "price_source": "page_context"
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EFirst%20Partner%20Illustration%20Collection%20%E2%80%93%20Serie%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EMega%20Evolution%20Products%20%E2%80%A2%20Collection%20Box%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
-      "pack_count_source": "unverified"
-    },
-    {
-      "id": "greninja",
-      "name": "Mega Greninja ex Premium Collection",
-      "set": "Mega Evolution",
-      "type": "Premium Collection",
-      "img": "https://static.wixstatic.com/media/ff902b_3f4e3864e53540df9ef4a1b5c94aeb1b~mv2.jpeg/v1/fill/w_900,h_900,al_c,q_85/ff902b_3f4e3864e53540df9ef4a1b5c94aeb1b~mv2.jpeg",
-      "cm": 43.35,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Box-Sets/Mega-Greninja-ex-Premium-Collection",
-      "potential": 94,
-      "tag": "High Potential",
-      "why": "Greninja gives this collection excellent character demand, but PowerPlay's current price is a meaningful premium to Cardmarket.",
-      "listings": [
-        {
-          "store": "PowerPlay",
-          "price": 70.0,
-          "url": "https://www.powerplaymt.com/product-page/copy-of-cynthia-s-garchomp-ex-premium-collection",
-          "ship": "Free delivery over €50",
-          "note": "In-stock local listing.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:14:20+00:00",
-          "scan_status": "ok"
-        }
-      ],
-      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EMega%20Greninja%20ex%20Premium%20Collection%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EMega%20Evolution%20%E2%80%A2%20Premium%20Collection%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
-      "pack_count_source": "unverified"
-    },
-    {
-      "id": "cynthia",
-      "name": "Cynthia's Garchomp ex Premium Collection",
-      "set": "Destined Rivals",
-      "type": "Premium Collection",
-      "img": "https://static.wixstatic.com/media/ff902b_282a50b52949452083ce7f9ce34c5941~mv2.jpeg/v1/fill/w_900,h_700,al_c,q_85/ff902b_282a50b52949452083ce7f9ce34c5941~mv2.jpeg",
-      "cm": 48.52,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Box-Sets/Cynthias-Garchomp-ex-Premium-Collection",
-      "potential": 93,
-      "tag": "High Potential",
-      "why": "Cynthia + Garchomp is a strong collector combination. The €65 local price is above market, but still interesting rather than simply 'bad'.",
-      "listings": [
-        {
-          "store": "PowerPlay",
-          "price": 65.0,
-          "url": "https://www.powerplaymt.com/product-page/cynthia-s-garchomp-ex-premium-collection",
-          "ship": "Free delivery over €50",
-          "note": "In-stock local listing.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:14:20+00:00",
-          "scan_status": "ok"
-        }
-      ],
-      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3ECynthia%26%23x27%3Bs%20Garchomp%20ex%20Premium%20Collection%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EDestined%20Rivals%20%E2%80%A2%20Premium%20Collection%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
-      "pack_count_source": "unverified"
-    },
-    {
-      "id": "charizard-super",
-      "name": "Charizard ex Super-Premium Collection",
-      "set": "Scarlet & Violet",
-      "type": "Premium Collection",
-      "img": "https://static.wixstatic.com/media/ff902b_32d5c14de0e8468db88a80b658d34b91~mv2.jpg/v1/fill/w_800,h_800,al_c,q_85/ff902b_32d5c14de0e8468db88a80b658d34b91~mv2.jpg",
-      "cm": 81.92,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Box-Sets/Charizard-ex-Super-Premium-Collection",
-      "potential": 95,
-      "tag": "High Potential",
-      "why": "Charizard sealed products deserve a separate potential score. The local premium is real, but collector demand keeps it strategically interesting.",
-      "listings": [
-        {
-          "store": "PowerPlay",
-          "price": 100.0,
-          "url": "https://www.powerplaymt.com/product-page/charizard-premium-collection",
-          "ship": "Free delivery over €50",
-          "note": "In-stock local listing.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:14:21+00:00",
-          "scan_status": "ok"
-        }
-      ],
-      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3ECharizard%20ex%20Super-Premium%20Collection%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EScarlet%20%26amp%3B%20Violet%20%E2%80%A2%20Premium%20Collection%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
-      "pack_count_source": "unverified"
-    },
-    {
-      "id": "armarouge",
-      "name": "Armarouge ex Premium Collection",
-      "set": "Scarlet & Violet",
-      "type": "Premium Collection",
-      "img": "https://static.wixstatic.com/media/ff902b_ab611bfff92f4d859c1884c8a0a0ede7~mv2.jpeg/v1/fill/w_900,h_850,al_c,q_85/ff902b_ab611bfff92f4d859c1884c8a0a0ede7~mv2.jpeg",
-      "cm": 37.64,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Box-Sets/Armarouge-ex-Premium-Collection",
-      "potential": 60,
-      "tag": "Watch",
-      "why": "Not a priority at the current Malta price unless availability tightens or market value rises.",
-      "listings": [
-        {
-          "store": "PowerPlay",
-          "price": 60.0,
-          "url": "https://www.powerplaymt.com/product-page/pokemon-armarouge-premium-collection",
-          "ship": "Free delivery over €50",
-          "note": "In-stock local listing.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:14:21+00:00",
-          "scan_status": "ok"
-        }
-      ],
-      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EArmarouge%20ex%20Premium%20Collection%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EScarlet%20%26amp%3B%20Violet%20%E2%80%A2%20Premium%20Collection%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
-      "pack_count_source": "unverified"
-    },
-    {
-      "id": "feraligatr",
-      "name": "Mega Feraligatr ex Box",
-      "set": "Ascended Heroes",
-      "type": "Collection Box",
-      "img": "https://static.wixstatic.com/media/ff902b_0daf6459d705466c84ab97a899813293~mv2.jpeg/v1/fill/w_850,h_850,al_c,q_85/ff902b_0daf6459d705466c84ab97a899813293~mv2.jpeg",
-      "cm": 42.5,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Box-Sets/Ascended-Heroes-Mega-Feraligatr-ex-Box",
-      "potential": 88,
-      "tag": "High Potential",
-      "why": "Strong starter nostalgia and current-set appeal, but PowerPlay's €75 asks a substantial premium.",
-      "listings": [
-        {
-          "store": "PowerPlay",
-          "price": 75.0,
-          "url": "https://www.powerplaymt.com/product-page/pokemon-heroes-feraligatr-ex-box",
-          "ship": "Free delivery over €50",
-          "note": "In-stock local listing.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:14:21+00:00",
-          "scan_status": "ok"
-        }
-      ],
-      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EMega%20Feraligatr%20ex%20Box%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EAscended%20Heroes%20%E2%80%A2%20Collection%20Box%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
-      "pack_count_source": "unverified"
-    },
-    {
-      "id": "iono",
-      "name": "Iono's Bellibolt ex Premium Collection",
-      "set": "Journey Together",
-      "type": "Premium Collection",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Iono%27s%20Bellibolt%20ex%20Premium%20Collection%20product&pid=Api",
-      "cm": 39.29,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Box-Sets/Ionos-Bellibolt-ex-Premium-Collection",
-      "potential": 78,
-      "tag": "Compare",
-      "why": "Popular trainer/character product. Current Malta pricing is above Cardmarket's product-level market benchmark, but character demand keeps it worth watching.",
-      "listings": [
-        {
-          "store": "Gamebreaker",
-          "price": 59.99,
-          "url": "https://gamebreakermalta.com/product/pokemon-tcg-ionos-bellibolt-ex-premium-collection/",
-          "ship": "Free delivery over €25",
-          "note": "Add to cart.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:16:47+00:00",
-          "scan_status": "browser_ok",
-          "match_scores": {
-            "title": 0.0,
-            "h1": 0.0,
-            "slug": 1.0,
-            "jsonld": 0.0,
-            "body": 0.0
-          }
-        }
-      ],
-      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EIono%26%23x27%3Bs%20Bellibolt%20ex%20Premium%20Collection%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EJourney%20Together%20%E2%80%A2%20Premium%20Collection%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
-      "pack_count_source": "unverified"
-    },
-    {
-      "id": "perfect-3pack",
-      "name": "Perfect Order 3-Pack Blister",
-      "set": "Perfect Order",
-      "type": "Blister",
-      "img": "https://gamebreakermalta.com/wp-content/uploads/2026/05/pokemon-me03-perfect-order-3-booster-blister.png",
-      "cm": 16.15,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Blisters/Perfect-Order-Chikorita-3-Pack-Blister",
-      "potential": 70,
-      "tag": "Compare",
-      "why": "Both Gamebreaker and Mystical Tavern have active listings; prices are effectively identical.",
-      "listings": [
-        {
-          "store": "GamesPlus",
-          "price": 19.99,
-          "url": "https://gamesplusmalta.com/product/pokemon-tcg-perfect-order-3-pack-blister/",
-          "ship": "Free delivery over €50; 2–3 days",
-          "note": "In stock.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:16:49+00:00",
-          "scan_status": "browser_ok",
-          "match_scores": {
-            "title": 0.0,
-            "h1": 0.0,
-            "slug": 1.0,
-            "jsonld": 0.0,
-            "body": 0.0
-          }
-        }
-      ],
-      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPerfect%20Order%203-Pack%20Blister%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPerfect%20Order%20%E2%80%A2%20Blister%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
-      "pack_count": 3,
-      "pack_count_source": "product_type"
-    },
-    {
-      "id": "chaos-check",
-      "name": "Chaos Rising Checklane Blister",
-      "set": "Chaos Rising",
-      "type": "Blister",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Chaos%20Rising%20Checklane%20Blister%20product&pid=Api",
-      "cm": null,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Blisters",
-      "potential": 63,
-      "tag": "Best Local: Tavern",
-      "why": "The Maltese listing does not identify the exact checklane promo. Comparable current Chaos Rising checklane variants sit roughly €8.17–€8.92 on Cardmarket's 7-day market, so the site shows a range rather than guessing.",
-      "listings": [
-        {
-          "store": "GamesPlus",
-          "price": 7.99,
-          "url": "https://gamesplusmalta.com/product/pokemon-tcg-chaos-rising-checklane-blister/",
-          "ship": "Free delivery over €50; 2–3 days",
-          "note": "In stock.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:16:51+00:00",
-          "scan_status": "browser_ok",
-          "match_scores": {
-            "title": 0.0,
-            "h1": 0.0,
-            "slug": 1.0,
-            "jsonld": 0.0,
-            "body": 0.0
-          }
-        }
-      ],
-      "cmrange": [
-        8.17,
-        8.92
-      ],
-      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EChaos%20Rising%20Checklane%20Blister%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EChaos%20Rising%20%E2%80%A2%20Blister%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
       "pack_count_source": "unverified"
     },
     {
@@ -840,35 +299,12 @@
           "ship": "Free delivery over €25",
           "note": "Pawmot premium checklane; Add to cart.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T11:14:41+00:00",
-          "scan_status": "ok"
-        },
-        {
-          "store": "Mystical Tavern",
-          "price": 8.0,
-          "url": "https://mysticaltavern.com/product/pokemon-tcg-mega-evolution-chaos-rising-premium-checklane/",
-          "ship": "Free delivery over €50",
-          "note": "Selectable variants; available listing.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:14:42+00:00",
-          "scan_status": "ok"
-        },
-        {
-          "store": "GamesPlus",
-          "price": 8.99,
-          "url": "https://gamesplusmalta.com/product/pokemon-tcg-chaos-rising-premium-checklane-blister/",
-          "ship": "Free delivery over €50; 2–3 days",
-          "note": "In stock.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:16:52+00:00",
-          "scan_status": "browser_ok",
-          "match_scores": {
-            "title": 0.0,
-            "h1": 0.0,
-            "slug": 1.0,
-            "jsonld": 0.0,
-            "body": 0.0
-          }
+          "last_checked": "2026-08-19T11:31:37+00:00",
+          "scan_status": "ok",
+          "live_verified": true,
+          "price_verified": true,
+          "stock_verified": true,
+          "price_source": "jsonld"
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EChaos%20Rising%20Premium%20Checklane%20Blister%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EChaos%20Rising%20%E2%80%A2%20Blister%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
@@ -893,8 +329,12 @@
           "ship": "Free delivery over €250",
           "note": "English; Add to basket.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T11:14:50+00:00",
-          "scan_status": "ok"
+          "last_checked": "2026-08-19T11:34:51+00:00",
+          "scan_status": "ok",
+          "live_verified": true,
+          "price_verified": true,
+          "stock_verified": true,
+          "price_source": "jsonld"
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EDestined%20Rivals%20Booster%20Pack%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EDestined%20Rivals%20%E2%80%A2%20Booster%20Pack%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
@@ -920,8 +360,12 @@
           "ship": "Free delivery over €250",
           "note": "English; Add to basket.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T11:14:51+00:00",
-          "scan_status": "ok"
+          "last_checked": "2026-08-19T11:34:51+00:00",
+          "scan_status": "ok",
+          "live_verified": true,
+          "price_verified": true,
+          "stock_verified": true,
+          "price_source": "jsonld"
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EDestined%20Rivals%20Half%20Booster%20Box%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EDestined%20Rivals%20%E2%80%A2%20Half%20Booster%20Box%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
@@ -947,45 +391,15 @@
           "ship": "Free delivery over €250",
           "note": "English; Add to basket.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T11:14:51+00:00",
-          "scan_status": "ok"
+          "last_checked": "2026-08-19T11:34:51+00:00",
+          "scan_status": "ok",
+          "live_verified": true,
+          "price_verified": true,
+          "stock_verified": true,
+          "price_source": "jsonld"
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3ELost%20Origin%20Sleeved%20Booster%20Pack%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3ELost%20Origin%20%E2%80%A2%20Booster%20Pack%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
-      "pack_count": 1,
-      "pack_count_source": "product_type"
-    },
-    {
-      "id": "astral-pack",
-      "name": "Astral Radiance Booster Pack",
-      "set": "Astral Radiance",
-      "type": "Booster Pack",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Astral%20Radiance%20Booster%20Pack%20product&pid=Api",
-      "cm": 7.05,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Boosters/Astral-Radiance-Booster",
-      "potential": 82,
-      "tag": "Older Set",
-      "why": "Sword & Shield-era pack with sealed-age appeal. Worth tracking separately from modern pack deals.",
-      "listings": [
-        {
-          "store": "Gamers Land",
-          "price": 14.95,
-          "url": "https://gamersland.com.mt/product/sword-shield-astral-radiance-booster-pack/",
-          "ship": "Free delivery over €250",
-          "note": "English; Add to basket.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:16:55+00:00",
-          "scan_status": "browser_ok",
-          "match_scores": {
-            "title": 0.0,
-            "h1": 0.0,
-            "slug": 1.0,
-            "jsonld": 0.0,
-            "body": 0.0
-          }
-        }
-      ],
-      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EAstral%20Radiance%20Booster%20Pack%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EAstral%20Radiance%20%E2%80%A2%20Booster%20Pack%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
       "pack_count": 1,
       "pack_count_source": "product_type"
     },
@@ -1008,25 +422,12 @@
           "ship": "Free delivery over €25",
           "note": "Add to cart.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T11:15:01+00:00",
-          "scan_status": "ok"
-        },
-        {
-          "store": "GamesPlus",
-          "price": 29.99,
-          "url": "https://gamesplusmalta.com/product/pokemon-tcg-world-championships-deck-2024/",
-          "ship": "Free delivery over €50; 2–3 days",
-          "note": "Generic World Championships Deck 2024 listing; exact deck variant not specified.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:16:56+00:00",
-          "scan_status": "browser_ok",
-          "match_scores": {
-            "title": 0.0,
-            "h1": 0.0,
-            "slug": 1.0,
-            "jsonld": 0.0,
-            "body": 0.0
-          }
+          "last_checked": "2026-08-19T11:35:00+00:00",
+          "scan_status": "ok",
+          "live_verified": true,
+          "price_verified": true,
+          "stock_verified": true,
+          "price_source": "jsonld"
         }
       ],
       "cmrange": [
@@ -1034,360 +435,6 @@
         19.68
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EWorld%20Championships%20Deck%202024%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EWorld%20Championships%20%E2%80%A2%20Battle%20Deck%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
-      "pack_count_source": "unverified"
-    },
-    {
-      "id": "pitch-sleeved",
-      "name": "Pitch Black Sleeved Booster Pack",
-      "set": "Pitch Black",
-      "type": "Sleeved Booster",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon+TCG+Pitch+Black+Sleeved+Booster+Pack&pid=Api",
-      "cm": null,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Boosters",
-      "potential": 84,
-      "tag": "Collector Pack",
-      "why": "Sleeved format carries slightly better sealed-display appeal than a loose booster. Current Malta stock is easy to source.",
-      "listings": [
-        {
-          "store": "GamesPlus",
-          "price": 7.5,
-          "url": "https://gamesplusmalta.com/product/pokemon-tcg-pitch-black-sleeved-booster-pack/",
-          "ship": "Free delivery over €50; 2–3 days",
-          "note": "In stock.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:16:58+00:00",
-          "scan_status": "browser_ok",
-          "match_scores": {
-            "title": 0.0,
-            "h1": 0.0,
-            "slug": 1.0,
-            "jsonld": 0.0,
-            "body": 0.0
-          }
-        }
-      ],
-      "pack_count": 1,
-      "pack_count_source": "product_type"
-    },
-    {
-      "id": "chaos-sleeved",
-      "name": "Chaos Rising Sleeved Booster Pack",
-      "set": "Chaos Rising",
-      "type": "Sleeved Booster",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon+TCG+Chaos+Rising+Sleeved+Booster+Pack&pid=Api",
-      "cm": null,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Boosters",
-      "potential": 78,
-      "tag": "Sleeved",
-      "why": "Current sleeved-pack option at GamesPlus. More display-friendly than loose packs, but not automatically a better value.",
-      "listings": [
-        {
-          "store": "GamesPlus",
-          "price": 6.5,
-          "url": "https://gamesplusmalta.com/product/pokemon-tcg-chaos-rising-sleeved-booster-pack/",
-          "ship": "Free delivery over €50; 2–3 days",
-          "note": "In stock.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:17:00+00:00",
-          "scan_status": "browser_ok",
-          "match_scores": {
-            "title": 0.0,
-            "h1": 0.0,
-            "slug": 1.0,
-            "jsonld": 0.0,
-            "body": 0.0
-          }
-        }
-      ],
-      "pack_count": 1,
-      "pack_count_source": "product_type"
-    },
-    {
-      "id": "perfect-sleeved",
-      "name": "Perfect Order Sleeved Booster Pack",
-      "set": "Perfect Order",
-      "type": "Sleeved Booster",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon+TCG+Perfect+Order+Sleeved+Booster+Pack&pid=Api",
-      "cm": null,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Boosters",
-      "potential": 79,
-      "tag": "Sleeved",
-      "why": "Useful sealed-pack format for collectors; active local stock at GamesPlus.",
-      "listings": [
-        {
-          "store": "GamesPlus",
-          "price": 6.5,
-          "url": "https://gamesplusmalta.com/product/pokemon-tcg-perfect-order-sleeved-booster-pack/",
-          "ship": "Free delivery over €50; 2–3 days",
-          "note": "In stock.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:17:01+00:00",
-          "scan_status": "browser_ok",
-          "match_scores": {
-            "title": 0.0,
-            "h1": 0.0,
-            "slug": 1.0,
-            "jsonld": 0.0,
-            "body": 0.0
-          }
-        }
-      ],
-      "pack_count": 1,
-      "pack_count_source": "product_type"
-    },
-    {
-      "id": "chaos-3pack",
-      "name": "Chaos Rising 3-Booster Blister Pack",
-      "set": "Chaos Rising",
-      "type": "3-Pack Blister",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon+TCG+Chaos+Rising+3+Booster+Blister&pid=Api",
-      "cm": null,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Blisters",
-      "potential": 76,
-      "tag": "Promo Format",
-      "why": "Promo blister format adds sealed/promotional appeal over three loose boosters.",
-      "listings": [
-        {
-          "store": "GamesPlus",
-          "price": 19.99,
-          "url": "https://gamesplusmalta.com/product/pokemon-tcg-chaos-rising-3-booster-blister-pack/",
-          "ship": "Free delivery over €50; 2–3 days",
-          "note": "In stock.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:17:03+00:00",
-          "scan_status": "browser_ok",
-          "match_scores": {
-            "title": 0.0,
-            "h1": 0.0,
-            "slug": 1.0,
-            "jsonld": 0.0,
-            "body": 0.0
-          }
-        }
-      ],
-      "pack_count_source": "unverified"
-    },
-    {
-      "id": "pitch-3pack",
-      "name": "Pitch Black 3-Booster Blister Pack",
-      "set": "Pitch Black",
-      "type": "3-Pack Blister",
-      "img": "https://mysticaltavern.com/wp-content/uploads/POK1010419119_1.webp",
-      "cm": null,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Blisters",
-      "potential": 82,
-      "tag": "Promo Format",
-      "why": "Current-set promo blister. GamesPlus and Mystical Tavern both have active stock around €20.",
-      "listings": [
-        {
-          "store": "GamesPlus",
-          "price": 19.99,
-          "url": "https://gamesplusmalta.com/product/pokemon-tcg-pitch-black-3-booster-blister-pack/",
-          "ship": "Free delivery over €50; 2–3 days",
-          "note": "In stock.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:17:05+00:00",
-          "scan_status": "browser_ok",
-          "match_scores": {
-            "title": 0.0,
-            "h1": 0.0,
-            "slug": 1.0,
-            "jsonld": 0.0,
-            "body": 0.0
-          }
-        },
-        {
-          "store": "Mystical Tavern",
-          "price": 20.0,
-          "url": "https://mysticaltavern.com/product/pokemon-tcg-mega-evolution-pitch-black-3-pack/",
-          "ship": "Free delivery over €50",
-          "note": "Add to cart on 19 Aug 2026.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:15:48+00:00",
-          "scan_status": "ok"
-        }
-      ],
-      "pack_count": 3,
-      "pack_count_source": "vendor_description",
-      "pack_count_source_url": "https://mysticaltavern.com/product/pokemon-tcg-mega-evolution-pitch-black-3-pack/"
-    },
-    {
-      "id": "perfect-checklane",
-      "name": "Perfect Order Checklane Blister",
-      "set": "Perfect Order",
-      "type": "Checklane Blister",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon+TCG+Perfect+Order+Checklane+Blister&pid=Api",
-      "cm": null,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Blisters",
-      "potential": 62,
-      "tag": "Low Entry",
-      "why": "Low-cost current sealed promo format. Better viewed as a fun pickup than an investment target.",
-      "listings": [
-        {
-          "store": "GamesPlus",
-          "price": 7.99,
-          "url": "https://gamesplusmalta.com/product/pokemon-tcg-perfect-order-checklane-blister/",
-          "ship": "Free delivery over €50; 2–3 days",
-          "note": "In stock.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:17:06+00:00",
-          "scan_status": "browser_ok",
-          "match_scores": {
-            "title": 0.0,
-            "h1": 0.0,
-            "slug": 1.0,
-            "jsonld": 0.0,
-            "body": 0.0
-          }
-        }
-      ],
-      "pack_count_source": "unverified"
-    },
-    {
-      "id": "perfect-premcheck",
-      "name": "Perfect Order Premium Checklane Blister",
-      "set": "Perfect Order",
-      "type": "Checklane Blister",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon+TCG+Perfect+Order+Premium+Checklane+Blister&pid=Api",
-      "cm": null,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Blisters",
-      "potential": 64,
-      "tag": "Promo",
-      "why": "Current premium checklane at GamesPlus. Mystical Tavern currently marks its own listing as preorder rather than live stock.",
-      "listings": [
-        {
-          "store": "GamesPlus",
-          "price": 8.99,
-          "url": "https://gamesplusmalta.com/product/pokemon-tcg-perfect-order-premium-checklane-blister/",
-          "ship": "Free delivery over €50; 2–3 days",
-          "note": "In stock.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:17:08+00:00",
-          "scan_status": "browser_ok",
-          "match_scores": {
-            "title": 0.0,
-            "h1": 0.0,
-            "slug": 1.0,
-            "jsonld": 0.0,
-            "body": 0.0
-          }
-        }
-      ],
-      "pack_count_source": "unverified"
-    },
-    {
-      "id": "lucario-league",
-      "name": "Mega Lucario ex League Battle Deck",
-      "set": "Mega Evolution",
-      "type": "Battle Deck",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon+TCG+Mega+Lucario+ex+League+Battle+Deck&pid=Api",
-      "cm": null,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Theme-Decks",
-      "potential": 69,
-      "tag": "Playable",
-      "why": "Competitive/playable product rather than a sealed investment priority. Strong current local availability.",
-      "listings": [
-        {
-          "store": "GamesPlus",
-          "price": 34.99,
-          "url": "https://gamesplusmalta.com/product/pokemon-tcg-mega-lucario-ex-league-battle-deck/",
-          "ship": "Free delivery over €50; 2–3 days",
-          "note": "In stock.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:17:10+00:00",
-          "scan_status": "browser_ok",
-          "match_scores": {
-            "title": 0.0,
-            "h1": 0.0,
-            "slug": 1.0,
-            "jsonld": 0.0,
-            "body": 0.0
-          }
-        }
-      ],
-      "pack_count_source": "unverified"
-    },
-    {
-      "id": "journey-pack",
-      "name": "Journey Together Booster Pack",
-      "set": "Journey Together",
-      "type": "Booster Pack",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon+TCG+Journey+Together+Booster+Pack&pid=Api",
-      "cm": 4.92,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Boosters/Journey-Together-Booster",
-      "potential": 72,
-      "tag": "Available",
-      "why": "GamesPlus has current English stock at €7.99 versus a Cardmarket 7-day market average of €4.92 before shipping.",
-      "listings": [
-        {
-          "store": "GamesPlus",
-          "price": 7.99,
-          "url": "https://gamesplusmalta.com/product/pokemon-tcg-scarlet-violet-9-journey-together-booster-pack/",
-          "ship": "Free delivery over €50; 2–3 days",
-          "note": "In stock.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:17:11+00:00",
-          "scan_status": "browser_ok",
-          "match_scores": {
-            "title": 0.0,
-            "h1": 0.0,
-            "slug": 1.0,
-            "jsonld": 0.0,
-            "body": 0.0
-          }
-        }
-      ],
-      "pack_count": 1,
-      "pack_count_source": "product_type"
-    },
-    {
-      "id": "my-first-battle",
-      "name": "My First Battle – Bulbasaur vs Pikachu / Charmander vs Squirtle",
-      "set": "My First Battle",
-      "type": "Battle Deck",
-      "img": "https://mysticaltavern.com/wp-content/uploads/2023/10/POK87253_1.jpg",
-      "cm": null,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Theme-Decks",
-      "potential": 48,
-      "tag": "Starter",
-      "why": "Entry-level play product. Included for completeness, not as a sealed-investment target.",
-      "listings": [
-        {
-          "store": "Mystical Tavern",
-          "price": 12.99,
-          "url": "https://mysticaltavern.com/product/pokemon-tcg-my-first-battle-bulbasaur-vs-pikachu-charmander-vs-squirtle/",
-          "ship": "Free delivery over €50",
-          "note": "Variants selectable; add to cart.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:16:19+00:00",
-          "scan_status": "ok"
-        }
-      ],
-      "pack_count_source": "unverified"
-    },
-    {
-      "id": "lycanroc-battle",
-      "name": "Lycanroc V Battle Deck",
-      "set": "Battle Deck",
-      "type": "Battle Deck",
-      "img": "https://mysticaltavern.com/wp-content/uploads/unnamed-6-2.png",
-      "cm": null,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Theme-Decks",
-      "potential": 44,
-      "tag": "Playable",
-      "why": "Older playable deck still in stock locally.",
-      "listings": [
-        {
-          "store": "Mystical Tavern",
-          "price": 17.59,
-          "url": "https://mysticaltavern.com/product/pokemon-tcg-lycanroc-v-battle-deck/",
-          "ship": "Free delivery over €50",
-          "note": "Add to cart.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T11:16:19+00:00",
-          "scan_status": "ok"
-        }
-      ],
       "pack_count_source": "unverified"
     }
   ],
@@ -1408,9 +455,13 @@
           "price": 325.0,
           "url": "https://gamersland.com.mt/product/pokemon-tcg-30th-celebration-elite-trainer-box/",
           "note": "1 in stock / guaranteed-delivery listing. Store explicitly warns the current price may be higher than official-release pricing because final allocations are not yet known.",
-          "last_checked": "2026-08-19T11:16:20+00:00",
+          "last_checked": "2026-08-19T11:46:05+00:00",
           "scan_status": "ok",
-          "direct_product_url": true
+          "direct_product_url": true,
+          "live_verified": true,
+          "price_verified": true,
+          "stock_verified": true,
+          "price_source": "jsonld"
         }
       ],
       "why": "The next major anniversary release. Very high collector interest, but the current Malta guaranteed-allocation price is aggressive; this is a preorder to watch rather than chase blindly.",
@@ -1653,7 +704,7 @@
       ],
       "img": "https://static.wixstatic.com/media/ff902b_e2055536c1fc4fbebb6968f66adc3ab4~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EUltra%20Pro%20Pok%C3%A9mon%20Caterpie%20Evolutions%20Stitche%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPlaymat%20%E2%80%A2%20PowerPlay%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
-      "last_checked": "2026-08-19T11:17:16+00:00",
+      "last_checked": "2026-08-19T11:49:18+00:00",
       "scan_status": "browser_ok",
       "direct_product_url": true
     },
@@ -1694,9 +745,10 @@
       ],
       "img": "https://mysticaltavern.com/wp-content/uploads/UPR16658_1.jpg",
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EUltra%20Pro%20Pok%C3%A9mon%20Neon%20Kanto%20Foil%20Playmat%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPlaymat%20%E2%80%A2%20Mystical%20Tavern%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
-      "last_checked": "2026-08-19T11:17:19+00:00",
-      "scan_status": "browser_ok",
-      "direct_product_url": true
+      "last_checked": "2026-08-19T11:49:39+00:00",
+      "scan_status": "browser_error",
+      "direct_product_url": true,
+      "browser_error": "Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://mysticaltavern.com/product/ultra-pro-pokemon-neon-kanto-foil-playmat/\", waiting until "
     },
     {
       "id": "pitch-portfolio",
@@ -1721,7 +773,7 @@
       "imgq": "Ultra Pro Pokemon Charmander 4 Pocket Portfolio",
       "img": "https://gamebreakermalta.com/wp-content/uploads/2026/07/Screenshot-2026-07-25-125254.png",
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EUltra%20Pro%20Pok%C3%A9mon%20Charmander%204-Pocket%20Portfol%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EBinder%20/%20Portfolio%20%E2%80%A2%20Gamebreaker%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
-      "last_checked": "2026-08-19T11:17:24+00:00",
+      "last_checked": "2026-08-19T11:49:44+00:00",
       "scan_status": "browser_ok",
       "direct_product_url": true
     },
@@ -1736,7 +788,7 @@
       "imgq": "Ultra Pro Pokemon Charmander Deck Protector 65",
       "img": "https://gamebreakermalta.com/wp-content/uploads/2026/07/51ZTXVSL0lL._AC_UF8941000_QL80_.jpg",
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EUltra%20Pro%20Charmander%20Deck%20Protector%2065ct%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3ESleeves%20%E2%80%A2%20Gamebreaker%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
-      "last_checked": "2026-08-19T11:17:27+00:00",
+      "last_checked": "2026-08-19T11:49:46+00:00",
       "scan_status": "browser_ok",
       "direct_product_url": true
     },
@@ -1751,7 +803,7 @@
       "imgq": "Pokemon TCG Journey Together Mini Portfolio",
       "img": "https://gamebreakermalta.com/wp-content/uploads/2025/05/mini-portfolio-pokemon-.jpg",
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPok%C3%A9mon%20TCG%20Journey%20Together%20Mini%20Portfolio%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EBinder%20/%20Portfolio%20%E2%80%A2%20Gamebreaker%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
-      "last_checked": "2026-08-19T11:17:29+00:00",
+      "last_checked": "2026-08-19T11:49:49+00:00",
       "scan_status": "browser_ok",
       "direct_product_url": true
     },
@@ -1766,7 +818,7 @@
       "imgq": "Pokemon trading card big album binder",
       "img": "https://gamebreakermalta.com/wp-content/uploads/2026/07/ae8af4d6-f894-43a7-b9c1-1ab19b11be07.jpg",
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPok%C3%A9mon%20Big%20Album%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EBinder%20/%20Album%20%E2%80%A2%20Gamebreaker%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
-      "last_checked": "2026-08-19T11:17:32+00:00",
+      "last_checked": "2026-08-19T11:49:52+00:00",
       "scan_status": "browser_ok",
       "direct_product_url": true
     },
@@ -1781,7 +833,7 @@
       "imgq": "soft card sleeves 100 trading card",
       "img": "https://gamebreakermalta.com/wp-content/uploads/2025/09/SINGLE-CARD-SLEEVE-2-1000x1000h.jpg",
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3ESingle%20Card%20Holder%20Soft%20Sleeves%20100ct%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3ESleeves%20%E2%80%A2%20Gamebreaker%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
-      "last_checked": "2026-08-19T11:17:35+00:00",
+      "last_checked": "2026-08-19T11:49:54+00:00",
       "scan_status": "browser_ok",
       "direct_product_url": true
     },
@@ -1796,7 +848,7 @@
       "imgq": "Pokemon Kalos Alcove Click Deck Box Ultra Pro",
       "img": "https://gamebreakermalta.com/wp-content/uploads/2024/01/ultra-pro-pokemon-alcove-click-deck-box-alola.jpg",
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPok%C3%A9mon%20TCG%20Kalos%20Alcove%20Click%20Deck%20Box%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EDeck%20Box%20%E2%80%A2%20Gamebreaker%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
-      "last_checked": "2026-08-19T11:17:37+00:00",
+      "last_checked": "2026-08-19T11:49:57+00:00",
       "scan_status": "browser_ok",
       "direct_product_url": true
     },
@@ -1856,9 +908,10 @@
       "url": "https://mysticaltavern.com/product/pokemon-mega-charizard-x-65ct-deck-protectors-sleeves/",
       "note": "Add to cart.",
       "img": "https://mysticaltavern.com/wp-content/uploads/UPR16730_1.webp",
-      "last_checked": "2026-08-19T11:17:42+00:00",
-      "scan_status": "browser_ok",
-      "direct_product_url": true
+      "last_checked": "2026-08-19T11:50:19+00:00",
+      "scan_status": "browser_error",
+      "direct_product_url": true,
+      "browser_error": "Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://mysticaltavern.com/product/pokemon-mega-charizard-x-65ct-deck-protectors-sleeves/\", wa"
     },
     {
       "id": "charizard-y-sleeves",
@@ -1869,9 +922,10 @@
       "url": "https://mysticaltavern.com/product/pokemon-mega-charizard-x-65ct-deck-protectors-sleeves/",
       "note": "Add to cart.",
       "img": "https://mysticaltavern.com/wp-content/uploads/UPR16730_1.webp",
-      "last_checked": "2026-08-19T11:17:44+00:00",
-      "scan_status": "browser_ok",
-      "direct_product_url": true
+      "last_checked": "2026-08-19T11:50:39+00:00",
+      "scan_status": "browser_error",
+      "direct_product_url": true,
+      "browser_error": "Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://mysticaltavern.com/product/pokemon-mega-charizard-x-65ct-deck-protectors-sleeves/\", wa"
     },
     {
       "id": "charizard-probinder",
@@ -1882,9 +936,10 @@
       "url": "https://mysticaltavern.com/product/pokemon-mega-charizard-x-and-mega-charizard-y-9-pocket-pro-binder/",
       "note": "Add to cart.",
       "img": "https://mysticaltavern.com/wp-content/uploads/UPR16733_1.webp",
-      "last_checked": "2026-08-19T11:17:46+00:00",
-      "scan_status": "browser_ok",
-      "direct_product_url": true
+      "last_checked": "2026-08-19T11:50:59+00:00",
+      "scan_status": "browser_error",
+      "direct_product_url": true,
+      "browser_error": "Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://mysticaltavern.com/product/pokemon-mega-charizard-x-and-mega-charizard-y-9-pocket-pro-"
     },
     {
       "id": "charizard-playmat",
@@ -1895,9 +950,10 @@
       "url": "https://mysticaltavern.com/product/pokemon-mega-charizard-x-and-mega-charizard-y-playmat/",
       "note": "Add to cart.",
       "img": "https://mysticaltavern.com/wp-content/uploads/UPR16738_1.webp",
-      "last_checked": "2026-08-19T11:17:47+00:00",
-      "scan_status": "browser_ok",
-      "direct_product_url": true
+      "last_checked": "2026-08-19T11:51:19+00:00",
+      "scan_status": "browser_error",
+      "direct_product_url": true,
+      "browser_error": "Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://mysticaltavern.com/product/pokemon-mega-charizard-x-and-mega-charizard-y-playmat/\", wa"
     },
     {
       "id": "togepi-playmat",
@@ -1908,9 +964,10 @@
       "url": "https://mysticaltavern.com/product/pokemon-togepi-evolutions-stitched-playmat/",
       "note": "Add to cart.",
       "img": "https://mysticaltavern.com/wp-content/uploads/UPR16604_1_892de6b8-7fa2-44bb-94d8-21d0a3278d8b.jpg",
-      "last_checked": "2026-08-19T11:17:49+00:00",
-      "scan_status": "browser_ok",
-      "direct_product_url": true
+      "last_checked": "2026-08-19T11:51:39+00:00",
+      "scan_status": "browser_error",
+      "direct_product_url": true,
+      "browser_error": "Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://mysticaltavern.com/product/pokemon-togepi-evolutions-stitched-playmat/\", waiting until"
     },
     {
       "id": "charmander-playmat",
@@ -1921,9 +978,10 @@
       "url": "https://mysticaltavern.com/product/pokemon-charmander-playmat/",
       "note": "Add to cart.",
       "img": "https://mysticaltavern.com/wp-content/uploads/UPR16594_1_80feec0f-7401-4c9c-82d4-cebf52f486ef.webp",
-      "last_checked": "2026-08-19T11:17:51+00:00",
-      "scan_status": "browser_ok",
-      "direct_product_url": true
+      "last_checked": "2026-08-19T11:51:59+00:00",
+      "scan_status": "browser_error",
+      "direct_product_url": true,
+      "browser_error": "Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://mysticaltavern.com/product/pokemon-charmander-playmat/\", waiting until \"domcontentload"
     },
     {
       "id": "gengar-premium-alcove",
@@ -1934,9 +992,10 @@
       "url": "https://mysticaltavern.com/product/pokemon-elite-series-gengar-premium-alcove-flip/",
       "note": "Add to cart.",
       "img": "https://mysticaltavern.com/wp-content/uploads/UPR16609_1_8f300f88-7e53-45c7-b80c-04bfbb8cfafd.jpg",
-      "last_checked": "2026-08-19T11:17:53+00:00",
-      "scan_status": "browser_ok",
-      "direct_product_url": true
+      "last_checked": "2026-08-19T11:52:19+00:00",
+      "scan_status": "browser_error",
+      "direct_product_url": true,
+      "browser_error": "Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://mysticaltavern.com/product/pokemon-elite-series-gengar-premium-alcove-flip/\", waiting "
     },
     {
       "id": "pikachu-12binder",
@@ -1947,9 +1006,10 @@
       "url": "https://mysticaltavern.com/product/pokemon-elite-series-pikachu-12-pocket-zippered-pro-binder/",
       "note": "Add to cart.",
       "img": "https://mysticaltavern.com/wp-content/uploads/Untitled_-_2021-08-17T193200.959__05410.jpg",
-      "last_checked": "2026-08-19T11:17:55+00:00",
-      "scan_status": "browser_ok",
-      "direct_product_url": true
+      "last_checked": "2026-08-19T11:52:40+00:00",
+      "scan_status": "browser_error",
+      "direct_product_url": true,
+      "browser_error": "Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://mysticaltavern.com/product/pokemon-elite-series-pikachu-12-pocket-zippered-pro-binder/"
     },
     {
       "id": "neon-kanto-vault",
@@ -1960,9 +1020,10 @@
       "url": "https://mysticaltavern.com/product/pokemon-neon-kanto-alcove-vault-deck-box/",
       "note": "Add to cart.",
       "img": "https://mysticaltavern.com/wp-content/uploads/UPR16659_1.jpg",
-      "last_checked": "2026-08-19T11:17:56+00:00",
-      "scan_status": "browser_ok",
-      "direct_product_url": true
+      "last_checked": "2026-08-19T11:53:00+00:00",
+      "scan_status": "browser_error",
+      "direct_product_url": true,
+      "browser_error": "Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://mysticaltavern.com/product/pokemon-neon-kanto-alcove-vault-deck-box/\", waiting until \""
     }
   ],
   "vendors": [
@@ -2042,55 +1103,377 @@
   "scan_summary": {
     "checked_listings": 57,
     "changes": [],
-    "scanner_version": "1.2-browser-jsonld-images",
+    "scanner_version": "1.3-strict-live-verification",
     "statuses": {
-      "ok": 30,
-      "fetch_error": 24,
+      "ok": 24,
+      "fetch_error": 30,
       "not_matched": 3
     },
     "browser_fallback": {
-      "attempted": 27,
-      "recovered": 27,
+      "attempted": 33,
+      "recovered": 1,
       "statuses": {
-        "ok": 30,
-        "browser_ok": 27
+        "ok": 24,
+        "browser_ok": 27,
+        "browser_timeout": 6
       },
+      "strict_live_verified": 16,
       "product_bing_images_remaining": 18,
-      "matcher_version": "2.0-multisignal"
+      "matcher_version": "2.1-strict-live"
+    },
+    "strict_live_qa": {
+      "live_listings": 15,
+      "hidden_unverified_listings": 41,
+      "hidden": [
+        {
+          "product": "Chaos Rising Half Booster Box (18 Packs)",
+          "store": "GamesPlus",
+          "status": "browser_ok",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://gamesplusmalta.com/product/pokemon-tcg-chaos-rising-half-booster-box/"
+        },
+        {
+          "product": "Chaos Rising Half Booster Box (18 Packs)",
+          "store": "PowerPlay",
+          "status": "ok",
+          "price_verified": false,
+          "stock_verified": true,
+          "url": "https://www.powerplaymt.com/product-page/chaos-rising-half-booster-box"
+        },
+        {
+          "product": "Chaos Rising Half Booster Box (18 Packs)",
+          "store": "Gamers Land",
+          "status": "browser_ok",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://gamersland.com.mt/product/pokemon-tcg-mega-evolution-chaos-rising-half-booster-box/"
+        },
+        {
+          "product": "Pitch Black Half Booster Box (18 Packs)",
+          "store": "GamesPlus",
+          "status": "browser_ok",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://gamesplusmalta.com/product/pokemon-tcg-pitch-black-half-booster-box/"
+        },
+        {
+          "product": "Pitch Black Half Booster Box (18 Packs)",
+          "store": "Gamebreaker",
+          "status": "browser_ok",
+          "price_verified": false,
+          "stock_verified": true,
+          "url": "https://gamebreakermalta.com/product/pokemon-tcg-pitch-black-half-booster-box/"
+        },
+        {
+          "product": "Pitch Black Booster Pack",
+          "store": "GamesPlus",
+          "status": "browser_ok",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://gamesplusmalta.com/product/pokemon-tcg-pitch-black-booster-pack-2/"
+        },
+        {
+          "product": "Chaos Rising Booster Pack",
+          "store": "GamesPlus",
+          "status": "browser_ok",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://gamesplusmalta.com/product/pokemon-tcg-chaos-rising-booster-pack/"
+        },
+        {
+          "product": "Perfect Order Booster Pack",
+          "store": "GamesPlus",
+          "status": "browser_ok",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://gamesplusmalta.com/product/pokemon-tcg-perfect-order-booster-pack/"
+        },
+        {
+          "product": "Perfect Order Half Booster Box (18 Packs)",
+          "store": "GamesPlus",
+          "status": "browser_ok",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://gamesplusmalta.com/product/pokemon-tcg-perfect-order-half-booster-box/"
+        },
+        {
+          "product": "Perfect Order Half Booster Box (18 Packs)",
+          "store": "PowerPlay",
+          "status": "ok",
+          "price_verified": false,
+          "stock_verified": true,
+          "url": "https://www.powerplaymt.com/product-page/perfect-order-half-booster-box"
+        },
+        {
+          "product": "Pitch Black Booster Bundle",
+          "store": "GamesPlus",
+          "status": "browser_ok",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://gamesplusmalta.com/product/pokemon-tcg-pitch-black-booster-bundle-2/"
+        },
+        {
+          "product": "Chaos Rising Booster Bundle",
+          "store": "PowerPlay",
+          "status": "ok",
+          "price_verified": false,
+          "stock_verified": true,
+          "url": "https://www.powerplaymt.com/product-page/pokemon-tcg-mega-evolution-chaos-rising-booster-bundle"
+        },
+        {
+          "product": "Chaos Rising Booster Bundle",
+          "store": "GamesPlus",
+          "status": "browser_ok",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://gamesplusmalta.com/product/pokemon-tcg-chaos-rising-booster-bundle/"
+        },
+        {
+          "product": "Perfect Order Elite Trainer Box",
+          "store": "Exotique",
+          "status": "browser_timeout",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://exotique.com.mt/product/pokemon-tcg-mega-evolution-perfect-order-elite-trainer-box/"
+        },
+        {
+          "product": "Phantasmal Flames Elite Trainer Box",
+          "store": "Exotique",
+          "status": "browser_timeout",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://exotique.com.mt/product/pokemon-tcg-mega-evolution-phantasmal-flames-elite-trainer-box/"
+        },
+        {
+          "product": "Mega Zygarde ex Premium Collection",
+          "store": "PowerPlay",
+          "status": "ok",
+          "price_verified": false,
+          "stock_verified": true,
+          "url": "https://www.powerplaymt.com/product-page/pokemon-mega-zygarde-ex-premium-collection"
+        },
+        {
+          "product": "Mega Zygarde ex Premium Collection",
+          "store": "GamesPlus",
+          "status": "browser_ok",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://gamesplusmalta.com/product/pokemon-tcg-mega-zygarde-ex-premium-collection/"
+        },
+        {
+          "product": "Mega Greninja ex Premium Collection",
+          "store": "PowerPlay",
+          "status": "ok",
+          "price_verified": false,
+          "stock_verified": true,
+          "url": "https://www.powerplaymt.com/product-page/copy-of-cynthia-s-garchomp-ex-premium-collection"
+        },
+        {
+          "product": "Cynthia's Garchomp ex Premium Collection",
+          "store": "PowerPlay",
+          "status": "ok",
+          "price_verified": false,
+          "stock_verified": true,
+          "url": "https://www.powerplaymt.com/product-page/cynthia-s-garchomp-ex-premium-collection"
+        },
+        {
+          "product": "Charizard ex Super-Premium Collection",
+          "store": "PowerPlay",
+          "status": "ok",
+          "price_verified": false,
+          "stock_verified": true,
+          "url": "https://www.powerplaymt.com/product-page/charizard-premium-collection"
+        },
+        {
+          "product": "Armarouge ex Premium Collection",
+          "store": "PowerPlay",
+          "status": "ok",
+          "price_verified": false,
+          "stock_verified": true,
+          "url": "https://www.powerplaymt.com/product-page/pokemon-armarouge-premium-collection"
+        },
+        {
+          "product": "Mega Feraligatr ex Box",
+          "store": "PowerPlay",
+          "status": "ok",
+          "price_verified": false,
+          "stock_verified": true,
+          "url": "https://www.powerplaymt.com/product-page/pokemon-heroes-feraligatr-ex-box"
+        },
+        {
+          "product": "Iono's Bellibolt ex Premium Collection",
+          "store": "Gamebreaker",
+          "status": "browser_ok",
+          "price_verified": false,
+          "stock_verified": true,
+          "url": "https://gamebreakermalta.com/product/pokemon-tcg-ionos-bellibolt-ex-premium-collection/"
+        },
+        {
+          "product": "Perfect Order 3-Pack Blister",
+          "store": "GamesPlus",
+          "status": "browser_ok",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://gamesplusmalta.com/product/pokemon-tcg-perfect-order-3-pack-blister/"
+        },
+        {
+          "product": "Chaos Rising Checklane Blister",
+          "store": "GamesPlus",
+          "status": "browser_ok",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://gamesplusmalta.com/product/pokemon-tcg-chaos-rising-checklane-blister/"
+        },
+        {
+          "product": "Chaos Rising Premium Checklane Blister",
+          "store": "Mystical Tavern",
+          "status": "browser_timeout",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://mysticaltavern.com/product/pokemon-tcg-mega-evolution-chaos-rising-premium-checklane/"
+        },
+        {
+          "product": "Chaos Rising Premium Checklane Blister",
+          "store": "GamesPlus",
+          "status": "browser_ok",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://gamesplusmalta.com/product/pokemon-tcg-chaos-rising-premium-checklane-blister/"
+        },
+        {
+          "product": "Astral Radiance Booster Pack",
+          "store": "Gamers Land",
+          "status": "browser_ok",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://gamersland.com.mt/product/sword-shield-astral-radiance-booster-pack/"
+        },
+        {
+          "product": "World Championships Deck 2024",
+          "store": "GamesPlus",
+          "status": "browser_ok",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://gamesplusmalta.com/product/pokemon-tcg-world-championships-deck-2024/"
+        },
+        {
+          "product": "Pitch Black Sleeved Booster Pack",
+          "store": "GamesPlus",
+          "status": "browser_ok",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://gamesplusmalta.com/product/pokemon-tcg-pitch-black-sleeved-booster-pack/"
+        },
+        {
+          "product": "Chaos Rising Sleeved Booster Pack",
+          "store": "GamesPlus",
+          "status": "browser_ok",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://gamesplusmalta.com/product/pokemon-tcg-chaos-rising-sleeved-booster-pack/"
+        },
+        {
+          "product": "Perfect Order Sleeved Booster Pack",
+          "store": "GamesPlus",
+          "status": "browser_ok",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://gamesplusmalta.com/product/pokemon-tcg-perfect-order-sleeved-booster-pack/"
+        },
+        {
+          "product": "Chaos Rising 3-Booster Blister Pack",
+          "store": "GamesPlus",
+          "status": "browser_ok",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://gamesplusmalta.com/product/pokemon-tcg-chaos-rising-3-booster-blister-pack/"
+        },
+        {
+          "product": "Pitch Black 3-Booster Blister Pack",
+          "store": "GamesPlus",
+          "status": "browser_ok",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://gamesplusmalta.com/product/pokemon-tcg-pitch-black-3-booster-blister-pack/"
+        },
+        {
+          "product": "Pitch Black 3-Booster Blister Pack",
+          "store": "Mystical Tavern",
+          "status": "browser_timeout",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://mysticaltavern.com/product/pokemon-tcg-mega-evolution-pitch-black-3-pack/"
+        },
+        {
+          "product": "Perfect Order Checklane Blister",
+          "store": "GamesPlus",
+          "status": "browser_ok",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://gamesplusmalta.com/product/pokemon-tcg-perfect-order-checklane-blister/"
+        },
+        {
+          "product": "Perfect Order Premium Checklane Blister",
+          "store": "GamesPlus",
+          "status": "browser_ok",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://gamesplusmalta.com/product/pokemon-tcg-perfect-order-premium-checklane-blister/"
+        },
+        {
+          "product": "Mega Lucario ex League Battle Deck",
+          "store": "GamesPlus",
+          "status": "browser_ok",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://gamesplusmalta.com/product/pokemon-tcg-mega-lucario-ex-league-battle-deck/"
+        },
+        {
+          "product": "Journey Together Booster Pack",
+          "store": "GamesPlus",
+          "status": "browser_ok",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://gamesplusmalta.com/product/pokemon-tcg-scarlet-violet-9-journey-together-booster-pack/"
+        },
+        {
+          "product": "My First Battle – Bulbasaur vs Pikachu / Charmander vs Squirtle",
+          "store": "Mystical Tavern",
+          "status": "browser_timeout",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://mysticaltavern.com/product/pokemon-tcg-my-first-battle-bulbasaur-vs-pikachu-charmander-vs-squirtle/"
+        },
+        {
+          "product": "Lycanroc V Battle Deck",
+          "store": "Mystical Tavern",
+          "status": "browser_timeout",
+          "price_verified": false,
+          "stock_verified": false,
+          "url": "https://mysticaltavern.com/product/pokemon-tcg-lycanroc-v-battle-deck/"
+        }
+      ],
+      "rule": "main catalogue requires direct product match + current verified price + current in-stock evidence"
     },
     "accessories": {
       "total": 36,
       "resolved": 0,
-      "verified": 17,
+      "verified": 7,
       "removed": 0,
       "direct_links": 17,
       "bing_images_remaining": 19
     },
     "pack_counts": {
-      "verified": 18,
-      "unresolved": 26,
+      "verified": 7,
+      "unresolved": 11,
       "unresolved_products": [
         "Pitch Black Elite Trainer Box",
         "Perfect Order Elite Trainer Box",
         "Chaos Rising Elite Trainer Box",
-        "Phantasmal Flames Elite Trainer Box",
-        "Mega Zygarde ex Premium Collection",
         "First Partner Illustration Collection – Series 3",
-        "Mega Greninja ex Premium Collection",
-        "Cynthia's Garchomp ex Premium Collection",
-        "Charizard ex Super-Premium Collection",
-        "Armarouge ex Premium Collection",
-        "Mega Feraligatr ex Box",
-        "Iono's Bellibolt ex Premium Collection",
-        "Chaos Rising Checklane Blister",
         "Chaos Rising Premium Checklane Blister",
         "World Championships Deck 2024",
-        "Chaos Rising 3-Booster Blister Pack",
-        "Perfect Order Checklane Blister",
-        "Perfect Order Premium Checklane Blister",
-        "Mega Lucario ex League Battle Deck",
-        "My First Battle – Bulbasaur vs Pikachu / Charmander vs Squirtle",
-        "Lycanroc V Battle Deck",
         "30th Celebration Elite Trainer Box",
         "30th Celebration Binder Collection",
         "30th Celebration Battle Decks — Espeon ex / Umbreon ex",
