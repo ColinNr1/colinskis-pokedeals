@@ -7,8 +7,10 @@ on:
   push:
     branches: [main]
     paths:
+      - 'requirements.txt'
       - 'scripts/normalize_direct_links.py'
       - 'scripts/update_catalog.py'
+      - 'scripts/browser_fallback.py'
       - 'scripts/update_pulls.py'
       - 'scripts/validate_pulls.py'
       - 'scripts/install_top_pulls_ui_v2.py'
@@ -41,6 +43,9 @@ jobs:
       - name: Install scanner dependencies
         run: pip install -r requirements.txt
 
+      - name: Install Chromium fallback
+        run: python -m playwright install --with-deps chromium
+
       - name: Install verified Top Pulls V2 UI
         run: python scripts/install_top_pulls_ui_v2.py
 
@@ -49,6 +54,9 @@ jobs:
 
       - name: Refresh known direct product listings
         run: python scripts/update_catalog.py
+
+      - name: Browser fallback for blocked vendors
+        run: python scripts/browser_fallback.py
 
       - name: Rebuild exact Top Pulls from TCGdex + Cardmarket AVG7
         run: python scripts/update_pulls.py
