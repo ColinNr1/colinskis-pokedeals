@@ -1,16 +1,117 @@
 {
-  "generated_at": "2026-08-19T09:45:00+02:00",
+  "generated_at": "2026-08-19T08:26:17+00:00",
   "method": "Highest verified current chase card by Cardmarket 7-day average for tracked booster sets. Prices are dynamic.",
   "sets": {
-    "Pitch Black": {"card":"Mega Darkrai ex","number":"PBL 116","rarity":"Special Illustration Rare","price7d":296.39,"url":"https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Mega-Darkrai-ex-V3-PBL116","img":"https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Pitch%20Black%20Mega%20Darkrai%20ex%20116%20card&pid=Api"},
-    "Chaos Rising": {"card":"Mega Greninja ex","number":"CRI 116","rarity":"Special Illustration Rare","price7d":189.48,"url":"https://www.cardmarket.com/en/Pokemon/Products/Singles/Chaos-Rising/Mega-Greninja-ex-V3-CRI116","img":"https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Chaos%20Rising%20Mega%20Greninja%20ex%20116%20card&pid=Api"},
-    "Perfect Order": {"card":"Mega Zygarde ex","number":"POR 124","rarity":"Mega Hyper Rare","price7d":98.69,"url":"https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Mega-Zygarde-ex-V4-POR124","img":"https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Perfect%20Order%20Mega%20Zygarde%20ex%20124%20card&pid=Api"},
-    "Phantasmal Flames": {"card":"Mega Charizard X ex","number":"PFL 125","rarity":"Special Illustration Rare","price7d":1073.50,"url":"https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Mega-Charizard-X-ex-V3-PFL125","img":"https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Phantasmal%20Flames%20Mega%20Charizard%20X%20ex%20125%20card&pid=Api"},
-    "Destined Rivals": {"card":"Team Rocket's Mewtwo ex","number":"DRI 231","rarity":"Special Illustration Rare","price7d":576.78,"url":"https://www.cardmarket.com/en/Pokemon/Products/Singles/Destined-Rivals/Team-Rockets-Mewtwo-ex-V3-DRI231","img":"https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Destined%20Rivals%20Team%20Rocket%20Mewtwo%20ex%20231%20card&pid=Api"},
-    "Journey Together": {"card":"Lillie's Clefairy ex","number":"JTG 184","rarity":"Special Illustration Rare","price7d":101.93,"url":"https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Lillies-Clefairy-ex-V3-JTG184","img":"https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Journey%20Together%20Lillies%20Clefairy%20ex%20184%20card&pid=Api"},
-    "Lost Origin": {"card":"Giratina V","number":"LOR 186","rarity":"Alternate Art Secret Rare","price7d":695.50,"url":"https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Origin/Giratina-V-V3-LOR186","img":"https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Lost%20Origin%20Giratina%20V%20186%20card&pid=Api"},
-    "Astral Radiance": {"card":"Machamp V","number":"ASR 172","rarity":"Alternate Art Ultra Rare","price7d":169.98,"url":"https://www.cardmarket.com/en/Pokemon/Products/Singles/Astral-Radiance/Machamp-V-V3-ASR172","img":"https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Astral%20Radiance%20Machamp%20V%20172%20card&pid=Api"},
-    "Ascended Heroes": {"card":"Mega Gengar ex","number":"ASC 284","rarity":"Mega Attack Rare","price7d":790.87,"url":"https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Mega-Gengar-ex-V3-ASC284","img":"https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Ascended%20Heroes%20Mega%20Gengar%20ex%20284%20card&pid=Api"},
-    "Shrouded Fable": {"card":"Fezandipiti ex","number":"SFA 092","rarity":"Special Illustration Rare","price7d":27.37,"url":"https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Fezandipiti-ex-V3-SFA092","img":"https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Shrouded%20Fable%20Fezandipiti%20ex%20092%20card&pid=Api"}
-  }
+    "Pitch Black": {
+      "card": "Mega Darkrai ex",
+      "number": "PBL 116",
+      "rarity": "Special Illustration Rare",
+      "price7d": 296.39,
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Mega-Darkrai-ex-V3-PBL116",
+      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Pitch%20Black%20Mega%20Darkrai%20ex%20116%20card&pid=Api",
+      "last_checked": "2026-08-19T08:26:17+00:00",
+      "scan_status": "error",
+      "scan_error": "403 Client Error: Forbidden for url: https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Mega-Darkrai-ex-V3-PBL116"
+    },
+    "Chaos Rising": {
+      "card": "Mega Greninja ex",
+      "number": "CRI 116",
+      "rarity": "Special Illustration Rare",
+      "price7d": 189.48,
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Chaos-Rising/Mega-Greninja-ex-V3-CRI116",
+      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Chaos%20Rising%20Mega%20Greninja%20ex%20116%20card&pid=Api",
+      "last_checked": "2026-08-19T08:26:17+00:00",
+      "scan_status": "error",
+      "scan_error": "403 Client Error: Forbidden for url: https://www.cardmarket.com/en/Pokemon/Products/Singles/Chaos-Rising/Mega-Greninja-ex-V3-CRI116"
+    },
+    "Perfect Order": {
+      "card": "Mega Zygarde ex",
+      "number": "POR 124",
+      "rarity": "Mega Hyper Rare",
+      "price7d": 98.69,
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Mega-Zygarde-ex-V4-POR124",
+      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Perfect%20Order%20Mega%20Zygarde%20ex%20124%20card&pid=Api",
+      "last_checked": "2026-08-19T08:26:17+00:00",
+      "scan_status": "error",
+      "scan_error": "403 Client Error: Forbidden for url: https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Mega-Zygarde-ex-V4-POR124"
+    },
+    "Phantasmal Flames": {
+      "card": "Mega Charizard X ex",
+      "number": "PFL 125",
+      "rarity": "Special Illustration Rare",
+      "price7d": 1073.5,
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Mega-Charizard-X-ex-V3-PFL125",
+      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Phantasmal%20Flames%20Mega%20Charizard%20X%20ex%20125%20card&pid=Api",
+      "last_checked": "2026-08-19T08:26:17+00:00",
+      "scan_status": "error",
+      "scan_error": "403 Client Error: Forbidden for url: https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Mega-Charizard-X-ex-V3-PFL125"
+    },
+    "Destined Rivals": {
+      "card": "Team Rocket's Mewtwo ex",
+      "number": "DRI 231",
+      "rarity": "Special Illustration Rare",
+      "price7d": 576.78,
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Destined-Rivals/Team-Rockets-Mewtwo-ex-V3-DRI231",
+      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Destined%20Rivals%20Team%20Rocket%20Mewtwo%20ex%20231%20card&pid=Api",
+      "last_checked": "2026-08-19T08:26:17+00:00",
+      "scan_status": "error",
+      "scan_error": "403 Client Error: Forbidden for url: https://www.cardmarket.com/en/Pokemon/Products/Singles/Destined-Rivals/Team-Rockets-Mewtwo-ex-V3-DRI231"
+    },
+    "Journey Together": {
+      "card": "Lillie's Clefairy ex",
+      "number": "JTG 184",
+      "rarity": "Special Illustration Rare",
+      "price7d": 101.93,
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Lillies-Clefairy-ex-V3-JTG184",
+      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Journey%20Together%20Lillies%20Clefairy%20ex%20184%20card&pid=Api",
+      "last_checked": "2026-08-19T08:26:17+00:00",
+      "scan_status": "error",
+      "scan_error": "403 Client Error: Forbidden for url: https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Lillies-Clefairy-ex-V3-JTG184"
+    },
+    "Lost Origin": {
+      "card": "Giratina V",
+      "number": "LOR 186",
+      "rarity": "Alternate Art Secret Rare",
+      "price7d": 695.5,
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Origin/Giratina-V-V3-LOR186",
+      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Lost%20Origin%20Giratina%20V%20186%20card&pid=Api",
+      "last_checked": "2026-08-19T08:26:17+00:00",
+      "scan_status": "error",
+      "scan_error": "403 Client Error: Forbidden for url: https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Origin/Giratina-V-V3-LOR186"
+    },
+    "Astral Radiance": {
+      "card": "Machamp V",
+      "number": "ASR 172",
+      "rarity": "Alternate Art Ultra Rare",
+      "price7d": 169.98,
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Astral-Radiance/Machamp-V-V3-ASR172",
+      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Astral%20Radiance%20Machamp%20V%20172%20card&pid=Api",
+      "last_checked": "2026-08-19T08:26:17+00:00",
+      "scan_status": "error",
+      "scan_error": "403 Client Error: Forbidden for url: https://www.cardmarket.com/en/Pokemon/Products/Singles/Astral-Radiance/Machamp-V-V3-ASR172"
+    },
+    "Ascended Heroes": {
+      "card": "Mega Gengar ex",
+      "number": "ASC 284",
+      "rarity": "Mega Attack Rare",
+      "price7d": 790.87,
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Mega-Gengar-ex-V3-ASC284",
+      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Ascended%20Heroes%20Mega%20Gengar%20ex%20284%20card&pid=Api",
+      "last_checked": "2026-08-19T08:26:17+00:00",
+      "scan_status": "error",
+      "scan_error": "403 Client Error: Forbidden for url: https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Mega-Gengar-ex-V3-ASC284"
+    },
+    "Shrouded Fable": {
+      "card": "Fezandipiti ex",
+      "number": "SFA 092",
+      "rarity": "Special Illustration Rare",
+      "price7d": 27.37,
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Fezandipiti-ex-V3-SFA092",
+      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Shrouded%20Fable%20Fezandipiti%20ex%20092%20card&pid=Api",
+      "last_checked": "2026-08-19T08:26:17+00:00",
+      "scan_status": "error",
+      "scan_error": "403 Client Error: Forbidden for url: https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Fezandipiti-ex-V3-SFA092"
+    }
+  },
+  "changes": []
 }
