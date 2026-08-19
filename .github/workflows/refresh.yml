@@ -8,6 +8,9 @@ on:
     branches: [main]
     paths:
       - 'requirements.txt'
+      - 'budget.js'
+      - 'budget.css'
+      - 'scripts/install_budget_allocator.py'
       - 'scripts/normalize_direct_links.py'
       - 'scripts/update_catalog.py'
       - 'scripts/browser_fallback.py'
@@ -49,6 +52,9 @@ jobs:
 
       - name: Install verified Top Pulls V2 UI
         run: python scripts/install_top_pulls_ui_v2.py
+
+      - name: Install Budget Allocator UI
+        run: python scripts/install_budget_allocator.py
 
       - name: Normalize vendor links to direct product pages
         run: python scripts/normalize_direct_links.py
