@@ -11,6 +11,7 @@ on:
       - 'scripts/normalize_direct_links.py'
       - 'scripts/update_catalog.py'
       - 'scripts/browser_fallback.py'
+      - 'scripts/browser_accessories.py'
       - 'scripts/update_pulls.py'
       - 'scripts/validate_pulls.py'
       - 'scripts/install_top_pulls_ui_v2.py'
@@ -27,7 +28,7 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -57,6 +58,9 @@ jobs:
 
       - name: Browser fallback for blocked vendors
         run: python scripts/browser_fallback.py
+
+      - name: Resolve and verify accessories
+        run: python scripts/browser_accessories.py
 
       - name: Rebuild exact Top Pulls from TCGdex + Cardmarket AVG7
         run: python scripts/update_pulls.py
