@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T09:57:35+00:00",
+  "generated_at": "2026-08-19T10:04:29+00:00",
   "products": [
     {
       "id": "chaos-half",
@@ -20,7 +20,7 @@
           "ship": "Free delivery over €25",
           "note": "Factory sealed, 18 packs. Page says in stock and ships in 2–4 days.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:56:13+00:00",
+          "last_checked": "2026-08-19T10:00:52+00:00",
           "scan_status": "ok"
         },
         {
@@ -30,7 +30,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "45 units shown in stock when checked; free same-day store pickup.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:56:13+00:00",
+          "last_checked": "2026-08-19T10:01:00+00:00",
           "scan_status": "fetch_error"
         },
         {
@@ -40,7 +40,7 @@
           "ship": "Free delivery over €25",
           "note": "Add-to-cart listing; prices include VAT.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:56:15+00:00",
+          "last_checked": "2026-08-19T10:01:02+00:00",
           "scan_status": "ok"
         },
         {
@@ -50,7 +50,7 @@
           "ship": "Free delivery over €50",
           "note": "In-stock local listing.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:56:16+00:00",
+          "last_checked": "2026-08-19T10:01:02+00:00",
           "scan_status": "ok"
         },
         {
@@ -60,7 +60,7 @@
           "ship": "Free delivery over €250",
           "note": "English category; Add to basket when checked.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:56:18+00:00",
+          "last_checked": "2026-08-19T10:01:09+00:00",
           "scan_status": "fetch_error"
         }
       ],
@@ -71,7 +71,7 @@
       "name": "Pitch Black Half Booster Box (18 Packs)",
       "set": "Pitch Black",
       "type": "Half Booster Box",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Pitch%20Black%20Half%20Booster%20Box%20%2818%20Packs%29%20product&pid=Api",
+      "img": "https://agendabookshop.com/cdn/shop/files/pitch-black-booster-pack_3edb4e57-f0e3-48a7-881c-e_2.jpg?v=1785417676&width=1920",
       "cm": 85.18,
       "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Booster-Boxes/Pitch-Black-Booster-Box-18-Boosters",
       "potential": 91,
@@ -85,7 +85,7 @@
           "ship": "Free delivery over €25",
           "note": "Product block says in stock / ships in 2–4 days, but the FAQ on the same page still describes Pitch Black as delayed preorder. Verify before checkout.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:56:19+00:00",
+          "last_checked": "2026-08-19T10:01:10+00:00",
           "scan_status": "ok"
         },
         {
@@ -95,7 +95,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock on the live category page.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:56:19+00:00",
+          "last_checked": "2026-08-19T10:01:17+00:00",
           "scan_status": "fetch_error"
         },
         {
@@ -105,8 +105,8 @@
           "ship": "Free delivery over €25",
           "note": "Add-to-cart listing when checked.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:56:20+00:00",
-          "scan_status": "fetch_error"
+          "last_checked": "2026-08-19T10:01:20+00:00",
+          "scan_status": "not_matched"
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPitch%20Black%20Half%20Booster%20Box%20%2818%20Packs%29%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPitch%20Black%20%E2%80%A2%20Half%20Booster%20Box%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
@@ -116,7 +116,7 @@
       "name": "Pitch Black Booster Pack",
       "set": "Pitch Black",
       "type": "Booster Pack",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Pitch%20Black%20Booster%20Pack%20product&pid=Api",
+      "img": "https://agendabookshop.com/cdn/shop/files/pitch-black-booster-pack_3edb4e57-f0e3-48a7-881c-e_1.jpg?v=1785416823&width=1920",
       "cm": 4.98,
       "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Boosters/Pitch-Black-Booster",
       "potential": 82,
@@ -130,7 +130,7 @@
           "ship": "Free delivery over €25",
           "note": "Product block says in stock / ships in 2–4 days, but the FAQ on the same page still describes Pitch Black as delayed preorder. Verify before checkout.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:56:21+00:00",
+          "last_checked": "2026-08-19T10:01:21+00:00",
           "scan_status": "ok"
         },
         {
@@ -140,7 +140,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:56:21+00:00",
+          "last_checked": "2026-08-19T10:01:28+00:00",
           "scan_status": "fetch_error"
         }
       ],
@@ -151,7 +151,7 @@
       "name": "Chaos Rising Booster Pack",
       "set": "Chaos Rising",
       "type": "Booster Pack",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Chaos%20Rising%20Booster%20Pack%20product&pid=Api",
+      "img": "https://agendabookshop.com/cdn/shop/files/Single_booster_packs.webp?v=1779983152&width=1920",
       "cm": 4.86,
       "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Boosters/Chaos-Rising-Booster",
       "potential": 76,
@@ -165,7 +165,7 @@
           "ship": "Free delivery over €25",
           "note": "In stock; ships in 2–4 days.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:56:21+00:00",
+          "last_checked": "2026-08-19T10:01:29+00:00",
           "scan_status": "ok"
         },
         {
@@ -175,7 +175,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:56:22+00:00",
+          "last_checked": "2026-08-19T10:01:36+00:00",
           "scan_status": "fetch_error"
         }
       ],
@@ -200,7 +200,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:56:22+00:00",
+          "last_checked": "2026-08-19T10:01:44+00:00",
           "scan_status": "fetch_error"
         }
       ],
@@ -225,7 +225,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:56:22+00:00",
+          "last_checked": "2026-08-19T10:01:52+00:00",
           "scan_status": "fetch_error"
         },
         {
@@ -235,7 +235,7 @@
           "ship": "Free delivery over €50",
           "note": "In-stock local listing.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:56:22+00:00",
+          "last_checked": "2026-08-19T10:01:52+00:00",
           "scan_status": "ok"
         }
       ],
@@ -260,7 +260,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "72 in stock when checked: San Ġwann 25, Tarxien 25, Birkirkara 22. Pickup free.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:56:22+00:00",
+          "last_checked": "2026-08-19T10:02:00+00:00",
           "scan_status": "fetch_error"
         }
       ],
@@ -285,7 +285,7 @@
           "ship": "Free delivery over €50",
           "note": "In-stock local listing.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:56:23+00:00",
+          "last_checked": "2026-08-19T10:02:00+00:00",
           "scan_status": "ok"
         },
         {
@@ -295,7 +295,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock on 19 Aug 2026.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:56:23+00:00",
+          "last_checked": "2026-08-19T10:02:08+00:00",
           "scan_status": "fetch_error"
         }
       ],
@@ -306,7 +306,7 @@
       "name": "Pitch Black Elite Trainer Box",
       "set": "Pitch Black",
       "type": "Elite Trainer Box",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Pitch%20Black%20Elite%20Trainer%20Box%20product&pid=Api",
+      "img": "https://gamebreakermalta.com/wp-content/uploads/2026/08/111111111111111.jpeg",
       "cm": 64.76,
       "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Elite-Trainer-Boxes/Pitch-Black-Elite-Trainer-Box",
       "potential": 90,
@@ -320,7 +320,7 @@
           "ship": "Free delivery over €25",
           "note": "Add-to-cart listing when checked.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:56:24+00:00",
+          "last_checked": "2026-08-19T10:02:10+00:00",
           "scan_status": "ok"
         }
       ],
@@ -331,7 +331,7 @@
       "name": "Perfect Order Elite Trainer Box",
       "set": "Perfect Order",
       "type": "Elite Trainer Box",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Perfect%20Order%20Elite%20Trainer%20Box%20product&pid=Api",
+      "img": "https://gamersland.com.mt/wp-content/uploads/2026/03/000000-perfect-order-etb.jpg",
       "cm": 59.33,
       "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Elite-Trainer-Boxes/Perfect-Order-Elite-Trainer-Box",
       "potential": 83,
@@ -345,7 +345,7 @@
           "ship": "Free delivery over €250",
           "note": "English; Add to basket.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:56:25+00:00",
+          "last_checked": "2026-08-19T10:02:10+00:00",
           "scan_status": "ok"
         },
         {
@@ -355,7 +355,7 @@
           "ship": "Free delivery over €25",
           "note": "Add to cart.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:56:26+00:00",
+          "last_checked": "2026-08-19T10:02:12+00:00",
           "scan_status": "ok"
         },
         {
@@ -365,8 +365,8 @@
           "ship": "Check checkout",
           "note": "Add to cart on 19 Aug 2026. Category page does not explicitly state language; verify English before buying.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:56:52+00:00",
-          "scan_status": "fetch_error"
+          "last_checked": "2026-08-19T10:02:16+00:00",
+          "scan_status": "ok"
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPerfect%20Order%20Elite%20Trainer%20Box%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPerfect%20Order%20%E2%80%A2%20Elite%20Trainer%20Box%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
@@ -376,7 +376,7 @@
       "name": "Chaos Rising Elite Trainer Box",
       "set": "Chaos Rising",
       "type": "Elite Trainer Box",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Chaos%20Rising%20Elite%20Trainer%20Box%20product&pid=Api",
+      "img": "https://gamersland.com.mt/wp-content/uploads/2026/05/Pokemon-TCG-Mega-Evolution—Chaos-Rising-Elite-Trainer-Box-ETB.webp",
       "cm": 60.91,
       "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Elite-Trainer-Boxes/Chaos-Rising-Elite-Trainer-Box",
       "potential": 85,
@@ -390,7 +390,7 @@
           "ship": "Free delivery over €250",
           "note": "English; Add to basket.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:56:52+00:00",
+          "last_checked": "2026-08-19T10:02:17+00:00",
           "scan_status": "ok"
         }
       ],
@@ -401,7 +401,7 @@
       "name": "Phantasmal Flames Elite Trainer Box",
       "set": "Phantasmal Flames",
       "type": "Elite Trainer Box",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Phantasmal%20Flames%20Elite%20Trainer%20Box%20product&pid=Api",
+      "img": "https://exotique.com.mt/wp-content/uploads/2026/03/Pokemon-TCG-Mega-Evolution-Phantasmal-Flames-Elite-Trainer-Box.jpg",
       "cm": 80.86,
       "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Elite-Trainer-Boxes/Phantasmal-Flames-Elite-Trainer-Box",
       "potential": 82,
@@ -415,8 +415,8 @@
           "ship": "Check checkout",
           "note": "Add-to-cart listing. Exotique does not state product language on the category page; verify English before buying.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:18+00:00",
-          "scan_status": "fetch_error"
+          "last_checked": "2026-08-19T10:02:18+00:00",
+          "scan_status": "ok"
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPhantasmal%20Flames%20Elite%20Trainer%20Box%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPhantasmal%20Flames%20%E2%80%A2%20Elite%20Trainer%20Box%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
@@ -440,7 +440,7 @@
           "ship": "Free delivery over €50",
           "note": "In-stock local listing.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:18+00:00",
+          "last_checked": "2026-08-19T10:02:18+00:00",
           "scan_status": "ok"
         },
         {
@@ -450,7 +450,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock on 19 Aug 2026.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:18+00:00",
+          "last_checked": "2026-08-19T10:02:26+00:00",
           "scan_status": "fetch_error"
         }
       ],
@@ -475,8 +475,8 @@
           "ship": "Free delivery over €25",
           "note": "ONE PER PERSON shown directly in the product title.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:20+00:00",
-          "scan_status": "fetch_error"
+          "last_checked": "2026-08-19T10:02:29+00:00",
+          "scan_status": "not_matched"
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EFirst%20Partner%20Illustration%20Collection%20%E2%80%93%20Serie%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EMega%20Evolution%20Products%20%E2%80%A2%20Collection%20Box%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
@@ -500,7 +500,7 @@
           "ship": "Free delivery over €50",
           "note": "In-stock local listing.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:20+00:00",
+          "last_checked": "2026-08-19T10:02:29+00:00",
           "scan_status": "ok"
         }
       ],
@@ -525,7 +525,7 @@
           "ship": "Free delivery over €50",
           "note": "In-stock local listing.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:21+00:00",
+          "last_checked": "2026-08-19T10:02:29+00:00",
           "scan_status": "ok"
         }
       ],
@@ -550,7 +550,7 @@
           "ship": "Free delivery over €50",
           "note": "In-stock local listing.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:21+00:00",
+          "last_checked": "2026-08-19T10:02:30+00:00",
           "scan_status": "ok"
         }
       ],
@@ -575,7 +575,7 @@
           "ship": "Free delivery over €50",
           "note": "In-stock local listing.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:21+00:00",
+          "last_checked": "2026-08-19T10:02:30+00:00",
           "scan_status": "ok"
         }
       ],
@@ -600,8 +600,8 @@
           "ship": "Free delivery over €50",
           "note": "In-stock local listing.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:22+00:00",
-          "scan_status": "not_matched"
+          "last_checked": "2026-08-19T10:02:30+00:00",
+          "scan_status": "ok"
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EMega%20Feraligatr%20ex%20Box%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EAscended%20Heroes%20%E2%80%A2%20Collection%20Box%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
@@ -625,8 +625,8 @@
           "ship": "Free delivery over €25",
           "note": "Add to cart.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:23+00:00",
-          "scan_status": "fetch_error"
+          "last_checked": "2026-08-19T10:02:33+00:00",
+          "scan_status": "not_matched"
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EIono%26%23x27%3Bs%20Bellibolt%20ex%20Premium%20Collection%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EJourney%20Together%20%E2%80%A2%20Premium%20Collection%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
@@ -636,7 +636,7 @@
       "name": "Perfect Order 3-Pack Blister",
       "set": "Perfect Order",
       "type": "Blister",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Perfect%20Order%203-Pack%20Blister%20product&pid=Api",
+      "img": "https://gamebreakermalta.com/wp-content/uploads/2026/05/pokemon-me03-perfect-order-3-booster-blister.png",
       "cm": 16.15,
       "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Blisters/Perfect-Order-Chikorita-3-Pack-Blister",
       "potential": 70,
@@ -644,23 +644,13 @@
       "why": "Both Gamebreaker and Mystical Tavern have active listings; prices are effectively identical.",
       "listings": [
         {
-          "store": "Gamebreaker",
-          "price": 19.99,
-          "url": "https://gamebreakermalta.com/product/pokemon-tcg-perfect-order-3-pack-blister/",
-          "ship": "Free delivery over €25",
-          "note": "Add to cart.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:24+00:00",
-          "scan_status": "ok"
-        },
-        {
           "store": "GamesPlus",
           "price": 19.99,
           "url": "https://gamesplusmalta.com/product/pokemon-tcg-perfect-order-3-pack-blister/",
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:24+00:00",
+          "last_checked": "2026-08-19T10:02:42+00:00",
           "scan_status": "fetch_error"
         }
       ],
@@ -685,7 +675,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:25+00:00",
+          "last_checked": "2026-08-19T10:02:49+00:00",
           "scan_status": "fetch_error"
         }
       ],
@@ -700,7 +690,7 @@
       "name": "Chaos Rising Premium Checklane Blister",
       "set": "Chaos Rising",
       "type": "Blister",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Chaos%20Rising%20Premium%20Checklane%20Blister%20product&pid=Api",
+      "img": "https://gamebreakermalta.com/wp-content/uploads/2026/05/Pawmot.webp",
       "cm": 8.57,
       "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Blisters/Chaos-Rising-Pawmot-Premium-Checklane-Blister",
       "potential": 66,
@@ -714,7 +704,7 @@
           "ship": "Free delivery over €25",
           "note": "Pawmot premium checklane; Add to cart.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:26+00:00",
+          "last_checked": "2026-08-19T10:02:52+00:00",
           "scan_status": "ok"
         },
         {
@@ -724,7 +714,7 @@
           "ship": "Free delivery over €50",
           "note": "Selectable variants; available listing.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:27+00:00",
+          "last_checked": "2026-08-19T10:02:52+00:00",
           "scan_status": "ok"
         },
         {
@@ -734,7 +724,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:27+00:00",
+          "last_checked": "2026-08-19T10:03:00+00:00",
           "scan_status": "fetch_error"
         }
       ],
@@ -745,7 +735,7 @@
       "name": "Destined Rivals Booster Pack",
       "set": "Destined Rivals",
       "type": "Booster Pack",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Destined%20Rivals%20Booster%20Pack%20product&pid=Api",
+      "img": "https://gamersland.com.mt/wp-content/uploads/2025/09/Untitled-1-43.png",
       "cm": 7.13,
       "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Boosters/Destined-Rivals-Booster",
       "potential": 88,
@@ -759,7 +749,7 @@
           "ship": "Free delivery over €250",
           "note": "English; Add to basket.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:27+00:00",
+          "last_checked": "2026-08-19T10:03:00+00:00",
           "scan_status": "ok"
         }
       ],
@@ -770,7 +760,7 @@
       "name": "Destined Rivals Half Booster Box",
       "set": "Destined Rivals",
       "type": "Half Booster Box",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Destined%20Rivals%20Half%20Booster%20Box%20product&pid=Api",
+      "img": "https://gamersland.com.mt/wp-content/uploads/2025/09/Untitled-1-53.png",
       "cm": 130.51,
       "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Booster-Boxes/Destined-Rivals-Booster-Box-18-Boosters",
       "potential": 91,
@@ -784,7 +774,7 @@
           "ship": "Free delivery over €250",
           "note": "English; Add to basket.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:28+00:00",
+          "last_checked": "2026-08-19T10:03:01+00:00",
           "scan_status": "ok"
         }
       ],
@@ -795,7 +785,7 @@
       "name": "Lost Origin Sleeved Booster Pack",
       "set": "Lost Origin",
       "type": "Booster Pack",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Lost%20Origin%20Sleeved%20Booster%20Pack%20product&pid=Api",
+      "img": "https://gamersland.com.mt/wp-content/uploads/2025/09/Untitled-1-68.png",
       "cm": 17.58,
       "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Boosters/Lost-Origin-Sleeved-Booster",
       "potential": 90,
@@ -809,7 +799,7 @@
           "ship": "Free delivery over €250",
           "note": "English; Add to basket.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:28+00:00",
+          "last_checked": "2026-08-19T10:03:01+00:00",
           "scan_status": "ok"
         }
       ],
@@ -834,7 +824,7 @@
           "ship": "Free delivery over €250",
           "note": "English; Add to basket.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:30+00:00",
+          "last_checked": "2026-08-19T10:03:09+00:00",
           "scan_status": "fetch_error"
         }
       ],
@@ -845,7 +835,7 @@
       "name": "World Championships Deck 2024",
       "set": "World Championships",
       "type": "Battle Deck",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20World%20Championships%20Deck%202024%20product&pid=Api",
+      "img": "https://gamebreakermalta.com/wp-content/uploads/2026/08/86da6df5c3a1e2002ca373f8ffd79721-3.jpg",
       "cm": null,
       "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Theme-Decks",
       "potential": 55,
@@ -859,7 +849,7 @@
           "ship": "Free delivery over €25",
           "note": "Add to cart.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:32+00:00",
+          "last_checked": "2026-08-19T10:03:10+00:00",
           "scan_status": "ok"
         },
         {
@@ -869,7 +859,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "Generic World Championships Deck 2024 listing; exact deck variant not specified.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:32+00:00",
+          "last_checked": "2026-08-19T10:03:18+00:00",
           "scan_status": "fetch_error"
         }
       ],
@@ -898,7 +888,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:32+00:00",
+          "last_checked": "2026-08-19T10:03:25+00:00",
           "scan_status": "fetch_error"
         }
       ]
@@ -922,7 +912,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:32+00:00",
+          "last_checked": "2026-08-19T10:03:33+00:00",
           "scan_status": "fetch_error"
         }
       ]
@@ -946,7 +936,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:32+00:00",
+          "last_checked": "2026-08-19T10:03:41+00:00",
           "scan_status": "fetch_error"
         }
       ]
@@ -970,7 +960,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:33+00:00",
+          "last_checked": "2026-08-19T10:03:48+00:00",
           "scan_status": "fetch_error"
         }
       ]
@@ -980,7 +970,7 @@
       "name": "Pitch Black 3-Booster Blister Pack",
       "set": "Pitch Black",
       "type": "3-Pack Blister",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon+TCG+Pitch+Black+3+Booster+Blister&pid=Api",
+      "img": "https://mysticaltavern.com/wp-content/uploads/POK1010419119_1.webp",
       "cm": null,
       "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Blisters",
       "potential": 82,
@@ -994,7 +984,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:33+00:00",
+          "last_checked": "2026-08-19T10:03:56+00:00",
           "scan_status": "fetch_error"
         },
         {
@@ -1004,7 +994,7 @@
           "ship": "Free delivery over €50",
           "note": "Add to cart on 19 Aug 2026.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:33+00:00",
+          "last_checked": "2026-08-19T10:03:56+00:00",
           "scan_status": "ok"
         }
       ]
@@ -1028,7 +1018,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:33+00:00",
+          "last_checked": "2026-08-19T10:04:04+00:00",
           "scan_status": "fetch_error"
         }
       ]
@@ -1052,7 +1042,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:33+00:00",
+          "last_checked": "2026-08-19T10:04:12+00:00",
           "scan_status": "fetch_error"
         }
       ]
@@ -1076,7 +1066,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:34+00:00",
+          "last_checked": "2026-08-19T10:04:19+00:00",
           "scan_status": "fetch_error"
         }
       ]
@@ -1100,32 +1090,8 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:34+00:00",
+          "last_checked": "2026-08-19T10:04:27+00:00",
           "scan_status": "fetch_error"
-        }
-      ]
-    },
-    {
-      "id": "moonlit-tin",
-      "name": "Mega Moonlit Tin",
-      "set": "Mega Evolution",
-      "type": "Tin",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon+TCG+Mega+Moonlit+Tin&pid=Api",
-      "cm": null,
-      "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Tins",
-      "potential": 86,
-      "tag": "High Potential",
-      "why": "Current Mystical Tavern stock with selectable variants. Character-driven tin formats can have strong sealed collector appeal.",
-      "listings": [
-        {
-          "store": "Mystical Tavern",
-          "price": 34.99,
-          "url": "https://mysticaltavern.com/product/pokemon-tcg-mega-moonlit-tins/",
-          "ship": "Free delivery over €50",
-          "note": "Selectable variants; add to cart.",
-          "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:34+00:00",
-          "scan_status": "ok"
         }
       ]
     },
@@ -1134,7 +1100,7 @@
       "name": "My First Battle – Bulbasaur vs Pikachu / Charmander vs Squirtle",
       "set": "My First Battle",
       "type": "Battle Deck",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon+TCG+My+First+Battle+Bulbasaur+Pikachu&pid=Api",
+      "img": "https://mysticaltavern.com/wp-content/uploads/2023/10/POK87253_1.jpg",
       "cm": null,
       "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Theme-Decks",
       "potential": 48,
@@ -1148,7 +1114,7 @@
           "ship": "Free delivery over €50",
           "note": "Variants selectable; add to cart.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:34+00:00",
+          "last_checked": "2026-08-19T10:04:28+00:00",
           "scan_status": "ok"
         }
       ]
@@ -1158,7 +1124,7 @@
       "name": "Lycanroc V Battle Deck",
       "set": "Battle Deck",
       "type": "Battle Deck",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon+TCG+Lycanroc+V+Battle+Deck&pid=Api",
+      "img": "https://mysticaltavern.com/wp-content/uploads/unnamed-6-2.png",
       "cm": null,
       "cmurl": "https://www.cardmarket.com/en/Pokemon/Products/Theme-Decks",
       "potential": 44,
@@ -1172,7 +1138,7 @@
           "ship": "Free delivery over €50",
           "note": "Add to cart.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T09:57:35+00:00",
+          "last_checked": "2026-08-19T10:04:28+00:00",
           "scan_status": "ok"
         }
       ]
@@ -1187,7 +1153,7 @@
       "release": "16 Sep 2026",
       "potential": 99,
       "interest": "Must Watch",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%2030th%20Celebration%20Elite%20Trainer%20Box%20product&pid=Api",
+      "img": "https://gamersland.com.mt/wp-content/uploads/2026/07/etb-celebrations.webp",
       "official": "https://www.pokemon.com/us/pokemon-tcg/product-gallery/30th-celebration-elite-trainer-box",
       "listings": [
         {
@@ -1195,7 +1161,7 @@
           "price": 325.0,
           "url": "https://gamersland.com.mt/product/pokemon-tcg-30th-celebration-elite-trainer-box/",
           "note": "1 in stock / guaranteed-delivery listing. Store explicitly warns the current price may be higher than official-release pricing because final allocations are not yet known.",
-          "last_checked": "2026-08-19T09:57:35+00:00",
+          "last_checked": "2026-08-19T10:04:29+00:00",
           "scan_status": "ok",
           "direct_product_url": true
         }
@@ -1772,7 +1738,33 @@
   ],
   "scan_summary": {
     "checked_listings": 59,
-    "changes": [],
-    "scanner_version": "1.1-direct-links"
+    "changes": [
+      "Pitch Black Half Booster Box (18 Packs): replaced placeholder/search image with vendor product image",
+      "Pitch Black Booster Pack: replaced placeholder/search image with vendor product image",
+      "Chaos Rising Booster Pack: replaced placeholder/search image with vendor product image",
+      "Pitch Black Elite Trainer Box: replaced placeholder/search image with vendor product image",
+      "Perfect Order Elite Trainer Box: replaced placeholder/search image with vendor product image",
+      "Chaos Rising Elite Trainer Box: replaced placeholder/search image with vendor product image",
+      "Phantasmal Flames Elite Trainer Box: replaced placeholder/search image with vendor product image",
+      "Perfect Order 3-Pack Blister / Gamebreaker: removed (out of stock)",
+      "Perfect Order 3-Pack Blister: replaced placeholder/search image with vendor product image",
+      "Chaos Rising Premium Checklane Blister: replaced placeholder/search image with vendor product image",
+      "Destined Rivals Booster Pack: replaced placeholder/search image with vendor product image",
+      "Destined Rivals Half Booster Box: replaced placeholder/search image with vendor product image",
+      "Lost Origin Sleeved Booster Pack: replaced placeholder/search image with vendor product image",
+      "World Championships Deck 2024: replaced placeholder/search image with vendor product image",
+      "Pitch Black 3-Booster Blister Pack: replaced placeholder/search image with vendor product image",
+      "Mega Moonlit Tin / Mystical Tavern: removed (out of stock)",
+      "Mega Moonlit Tin: replaced placeholder/search image with vendor product image",
+      "My First Battle – Bulbasaur vs Pikachu / Charmander vs Squirtle: replaced placeholder/search image with vendor product image",
+      "Lycanroc V Battle Deck: replaced placeholder/search image with vendor product image",
+      "30th Celebration Elite Trainer Box: replaced placeholder/search image with vendor product image"
+    ],
+    "scanner_version": "1.2-browser-jsonld-images",
+    "statuses": {
+      "ok": 30,
+      "fetch_error": 24,
+      "not_matched": 3
+    }
   }
 }
