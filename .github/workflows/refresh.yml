@@ -11,6 +11,7 @@ on:
       - 'scripts/update_catalog.py'
       - 'scripts/update_pulls.py'
       - 'scripts/validate_pulls.py'
+      - 'scripts/install_top_pulls_ui_v2.py'
       - 'data/pulls.json'
       - '.github/workflows/refresh.yml'
 
@@ -40,6 +41,9 @@ jobs:
       - name: Install scanner dependencies
         run: pip install -r requirements.txt
 
+      - name: Install verified Top Pulls V2 UI
+        run: python scripts/install_top_pulls_ui_v2.py
+
       - name: Normalize vendor links to direct product pages
         run: python scripts/normalize_direct_links.py
 
@@ -57,23 +61,23 @@ jobs:
           python -m json.tool data/catalog.json > /dev/null
           python -m json.tool data/pulls.json > /dev/null
 
-      - name: Commit changed data
+      - name: Commit changed site and data
         run: |
-          if git diff --quiet -- data/catalog.json data/pulls.json; then
-            echo "No data changes"
+          if git diff --quiet -- index.html data/catalog.json data/pulls.json; then
+            echo "No site/data changes"
             exit 0
           fi
           git config user.name "Colinskis PokeDeals Bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/catalog.json data/pulls.json
-          git commit -m "chore: refresh PokeDeals data"
+          git add index.html data/catalog.json data/pulls.json
+          git commit -m "chore: refresh PokeDeals site and data"
 
       - name: Rebase latest main and push
         run: |
-          if git diff --quiet HEAD origin/main && [ "$(git rev-parse HEAD)" = "$(git rev-parse origin/main)" ]; then
+          git fetch origin main
+          if [ "$(git rev-parse HEAD)" = "$(git rev-parse origin/main)" ]; then
             echo "Nothing to push"
             exit 0
           fi
-          git fetch origin main
           git rebase origin/main
           git push origin HEAD:main
