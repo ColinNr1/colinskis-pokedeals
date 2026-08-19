@@ -73,22 +73,25 @@ jobs:
         run: |
           python -m json.tool data/catalog.json > /dev/null
           python -m json.tool data/pulls.json > /dev/null
-      - name: Commit changed site and data
+      - name: Save generated output
         run: |
+          mkdir -p /tmp/pokedeals-generated/data
+          cp index.html /tmp/pokedeals-generated/index.html
+          cp data/catalog.json /tmp/pokedeals-generated/data/catalog.json
+          cp data/pulls.json /tmp/pokedeals-generated/data/pulls.json
+      - name: Sync latest main and commit generated output
+        run: |
+          git config user.name "Colinskis PokeDeals Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git fetch origin main
+          git reset --hard origin/main
+          cp /tmp/pokedeals-generated/index.html index.html
+          cp /tmp/pokedeals-generated/data/catalog.json data/catalog.json
+          cp /tmp/pokedeals-generated/data/pulls.json data/pulls.json
           if git diff --quiet -- index.html data/catalog.json data/pulls.json; then
             echo "No site/data changes"
             exit 0
           fi
-          git config user.name "Colinskis PokeDeals Bot"
-          git config user.email "actions@users.noreply.github.com"
           git add index.html data/catalog.json data/pulls.json
           git commit -m "chore: refresh PokeDeals site and data"
-      - name: Rebase latest main and push
-        run: |
-          git fetch origin main
-          if [ "$(git rev-parse HEAD)" = "$(git rev-parse origin/main)" ]; then
-            echo "Nothing to push"
-            exit 0
-          fi
-          git rebase origin/main
           git push origin HEAD:main
