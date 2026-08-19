@@ -26,7 +26,6 @@ DIRECT = {
  ('chaos-etb','Gamers Land'): 'https://gamersland.com.mt/product/pokemon-tcg-mega-evolution-chaos-rising-elite-trainer-box-etb/',
  ('phantasmal-etb','Exotique'): 'https://exotique.com.mt/product/pokemon-tcg-mega-evolution-phantasmal-flames-elite-trainer-box/',
  ('mega-zygarde','GamesPlus'): 'https://gamesplusmalta.com/product/pokemon-tcg-mega-zygarde-ex-premium-collection/',
- ('first-partner-s3','Gamebreaker'): 'https://gamebreakermalta.com/product/pokemon-tcg-first-partner-illustration-collection-series-3/',
  ('iono','Gamebreaker'): 'https://gamebreakermalta.com/product/pokemon-tcg-ionos-bellibolt-ex-premium-collection/',
  ('iono','PowerPlay'): 'https://www.powerplaymt.com/product-page/iono-s-bellibolt-ex',
  ('perfect-3pack','Gamebreaker'): 'https://gamebreakermalta.com/product/pokemon-tcg-perfect-order-3-pack-blister/',
@@ -62,6 +61,7 @@ REMOVE = {
  ('meganium','PowerPlay'),
  ('emboar','PowerPlay'),
  ('kingambit','PowerPlay'),
+ ('first-partner-s3','Gamebreaker'),
 }
 
 def main():
