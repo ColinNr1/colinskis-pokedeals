@@ -11,6 +11,7 @@ on:
       - 'budget.js'
       - 'budget.css'
       - 'scripts/install_budget_allocator.py'
+      - 'scripts/enrich_pack_counts.py'
       - 'scripts/normalize_direct_links.py'
       - 'scripts/update_catalog.py'
       - 'scripts/browser_fallback.py'
@@ -31,54 +32,43 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 35
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
           cache: pip
-
       - name: Install scanner dependencies
         run: pip install -r requirements.txt
-
       - name: Install Chromium fallback
         run: python -m playwright install --with-deps chromium
-
       - name: Install verified Top Pulls V2 UI
         run: python scripts/install_top_pulls_ui_v2.py
-
       - name: Install Budget Allocator UI
         run: python scripts/install_budget_allocator.py
-
       - name: Normalize vendor links to direct product pages
         run: python scripts/normalize_direct_links.py
-
       - name: Refresh known direct product listings
         run: python scripts/update_catalog.py
-
       - name: Browser fallback for blocked vendors
         run: python scripts/browser_fallback.py
-
       - name: Resolve and verify accessories
         run: python scripts/browser_accessories.py
-
+      - name: Verify booster counts and product contents
+        run: python scripts/enrich_pack_counts.py
       - name: Rebuild exact Top Pulls from TCGdex + Cardmarket AVG7
         run: python scripts/update_pulls.py
-
       - name: Validate pull prices, ranks and exact card images
         run: python scripts/validate_pulls.py
-
       - name: Validate JSON
         run: |
           python -m json.tool data/catalog.json > /dev/null
           python -m json.tool data/pulls.json > /dev/null
-
       - name: Commit changed site and data
         run: |
           if git diff --quiet -- index.html data/catalog.json data/pulls.json; then
@@ -89,7 +79,6 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add index.html data/catalog.json data/pulls.json
           git commit -m "chore: refresh PokeDeals site and data"
-
       - name: Rebase latest main and push
         run: |
           git fetch origin main
