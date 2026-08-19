@@ -11,7 +11,6 @@ on:
       - 'scripts/update_catalog.py'
       - 'scripts/update_pulls.py'
       - 'scripts/validate_pulls.py'
-      - 'scripts/upgrade_top_pulls_ui.py'
       - 'data/pulls.json'
       - '.github/workflows/refresh.yml'
 
@@ -39,9 +38,6 @@ jobs:
       - name: Install scanner dependencies
         run: pip install -r requirements.txt
 
-      - name: Install ranked Top Pulls UI
-        run: python scripts/upgrade_top_pulls_ui.py
-
       - name: Normalize vendor links to direct product pages
         run: python scripts/normalize_direct_links.py
 
@@ -61,12 +57,12 @@ jobs:
 
       - name: Commit changed site and data
         run: |
-          if git diff --quiet -- index.html data/catalog.json data/pulls.json; then
-            echo "No site/data changes"
+          if git diff --quiet -- data/catalog.json data/pulls.json; then
+            echo "No data changes"
             exit 0
           fi
           git config user.name "Colinskis PokeDeals Bot"
           git config user.email "actions@users.noreply.github.com"
-          git add index.html data/catalog.json data/pulls.json
-          git commit -m "chore: refresh PokeDeals site and data"
+          git add data/catalog.json data/pulls.json
+          git commit -m "chore: refresh PokeDeals data"
           git push
