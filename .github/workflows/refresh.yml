@@ -10,6 +10,7 @@ on:
       - 'scripts/normalize_direct_links.py'
       - 'scripts/update_catalog.py'
       - 'scripts/update_pulls.py'
+      - 'scripts/upgrade_top_pulls_ui.py'
       - 'data/pulls.json'
       - '.github/workflows/refresh.yml'
 
@@ -37,13 +38,16 @@ jobs:
       - name: Install scanner dependencies
         run: pip install -r requirements.txt
 
+      - name: Install ranked Top Pulls UI
+        run: python scripts/upgrade_top_pulls_ui.py
+
       - name: Normalize vendor links to direct product pages
         run: python scripts/normalize_direct_links.py
 
       - name: Refresh known direct product listings
         run: python scripts/update_catalog.py
 
-      - name: Refresh best-pull Cardmarket values
+      - name: Refresh ranked chase-card values
         run: python scripts/update_pulls.py
 
       - name: Validate JSON
@@ -51,14 +55,14 @@ jobs:
           python -m json.tool data/catalog.json > /dev/null
           python -m json.tool data/pulls.json > /dev/null
 
-      - name: Commit changed data
+      - name: Commit changed site and data
         run: |
-          if git diff --quiet -- data/catalog.json data/pulls.json; then
-            echo "No data changes"
+          if git diff --quiet -- index.html data/catalog.json data/pulls.json; then
+            echo "No site/data changes"
             exit 0
           fi
           git config user.name "Colinskis PokeDeals Bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/catalog.json data/pulls.json
-          git commit -m "chore: refresh Pokemon deal and pull data"
+          git add index.html data/catalog.json data/pulls.json
+          git commit -m "chore: refresh PokeDeals site and data"
           git push
