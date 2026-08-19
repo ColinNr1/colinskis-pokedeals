@@ -1,0 +1,34 @@
+name: Upgrade Top Pulls UI
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/upgrade_top_pulls_ui.py'
+      - '.github/workflows/upgrade-top-pulls-ui.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  upgrade:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install Top Pulls UI
+        run: python scripts/upgrade_top_pulls_ui.py
+      - name: Commit frontend upgrade
+        run: |
+          if git diff --quiet -- index.html; then
+            echo "No frontend changes"
+            exit 0
+          fi
+          git config user.name "Colinskis PokeDeals Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add index.html
+          git commit -m "feat: show ranked Top Pulls on product cards"
+          git push
