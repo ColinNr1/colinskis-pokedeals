@@ -9,6 +9,8 @@ on:
     paths:
       - 'scripts/normalize_direct_links.py'
       - 'scripts/update_catalog.py'
+      - 'scripts/update_pulls.py'
+      - 'data/pulls.json'
       - '.github/workflows/refresh.yml'
 
 permissions:
@@ -41,17 +43,22 @@ jobs:
       - name: Refresh known direct product listings
         run: python scripts/update_catalog.py
 
-      - name: Validate catalog JSON
-        run: python -m json.tool data/catalog.json > /dev/null
+      - name: Refresh best-pull Cardmarket values
+        run: python scripts/update_pulls.py
 
-      - name: Commit changed catalog
+      - name: Validate JSON
         run: |
-          if git diff --quiet -- data/catalog.json; then
-            echo "No catalog changes"
+          python -m json.tool data/catalog.json > /dev/null
+          python -m json.tool data/pulls.json > /dev/null
+
+      - name: Commit changed data
+        run: |
+          if git diff --quiet -- data/catalog.json data/pulls.json; then
+            echo "No data changes"
             exit 0
           fi
           git config user.name "Colinskis PokeDeals Bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/catalog.json
-          git commit -m "chore: refresh Pokemon deal data"
+          git add data/catalog.json data/pulls.json
+          git commit -m "chore: refresh Pokemon deal and pull data"
           git push
