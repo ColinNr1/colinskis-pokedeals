@@ -10,6 +10,7 @@ on:
       - 'scripts/normalize_direct_links.py'
       - 'scripts/update_catalog.py'
       - 'scripts/update_pulls.py'
+      - 'scripts/validate_pulls.py'
       - 'scripts/upgrade_top_pulls_ui.py'
       - 'data/pulls.json'
       - '.github/workflows/refresh.yml'
@@ -47,8 +48,11 @@ jobs:
       - name: Refresh known direct product listings
         run: python scripts/update_catalog.py
 
-      - name: Refresh ranked chase-card values
+      - name: Rebuild exact Top Pulls from TCGdex + Cardmarket AVG7
         run: python scripts/update_pulls.py
+
+      - name: Validate pull prices, ranks and exact card images
+        run: python scripts/validate_pulls.py
 
       - name: Validate JSON
         run: |
