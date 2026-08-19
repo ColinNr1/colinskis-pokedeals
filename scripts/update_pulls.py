@@ -1,80 +1,163 @@
 #!/usr/bin/env python3
-import json, re
+import json, re, unicodedata
 from pathlib import Path
 from datetime import datetime, timezone
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from urllib.parse import quote_plus
 import requests
-from bs4 import BeautifulSoup
 
 ROOT=Path(__file__).resolve().parents[1]
+CATALOG=ROOT/'data'/'catalog.json'
 PULLS=ROOT/'data'/'pulls.json'
+BASE='https://api.tcgdex.net/v2/en'
 TIMEOUT=25
+WORKERS=16
 session=requests.Session()
-session.headers.update({
-    'User-Agent':'ColinskisPokeDeals/1.1 (+GitHub Pages pull-price monitor)',
-    'Accept-Language':'en-GB,en;q=0.9'
-})
+session.headers.update({'User-Agent':'ColinskisPokeDeals/2.0','Accept':'application/json'})
 
-def parse_eur(raw):
-    s=raw.strip().replace('\xa0','').replace('€','').replace(' ','')
-    if ',' in s:
-        s=s.replace('.','').replace(',','.')
-    elif s.count('.')>1:
-        parts=s.split('.')
-        s=''.join(parts[:-1])+'.'+parts[-1]
-    return float(s)
+# Products whose set field represents a booster expansion.
+PACK_TYPES={
+    'Booster Pack','Sleeved Booster','Half Booster Box','Booster Box','Booster Bundle',
+    'Elite Trainer Box','3-Pack Blister','Checklane Blister','Blister'
+}
 
-def fetch_7d(url):
-    r=session.get(url,timeout=TIMEOUT,allow_redirects=True)
+ALIASES={
+    # Kept explicit only where catalogue naming may differ from TCGdex naming.
+    'Shrouded Fable':'Shrouded Fable',
+    'Journey Together':'Journey Together',
+    'Destined Rivals':'Destined Rivals',
+    'Astral Radiance':'Astral Radiance',
+    'Lost Origin':'Lost Origin',
+    'Phantasmal Flames':'Phantasmal Flames',
+    'Perfect Order':'Perfect Order',
+    'Chaos Rising':'Chaos Rising',
+    'Pitch Black':'Pitch Black',
+    'Ascended Heroes':'Ascended Heroes',
+}
+
+def norm(s):
+    s=unicodedata.normalize('NFKD',s or '').encode('ascii','ignore').decode().lower()
+    s=s.replace('mega evolution',' ')
+    return re.sub(r'[^a-z0-9]+',' ',s).strip()
+
+def get_json(url):
+    r=session.get(url,timeout=TIMEOUT)
     r.raise_for_status()
-    text=' '.join(BeautifulSoup(r.text,'html.parser').stripped_strings)
-    for pat in (
-        r'7-days average price\s*([0-9][0-9.,]*)\s*€',
-        r'7-day average price\s*([0-9][0-9.,]*)\s*€',
-        r'7-Tages-Durchschnitt\s*([0-9][0-9.,]*)\s*€'
-    ):
-        m=re.search(pat,text,re.I)
-        if m:
-            return parse_eur(m.group(1))
-    raise ValueError('7-day average not found')
+    return r.json()
 
-def check_card(set_name,card,changes):
-    old=float(card.get('price7d') or 0)
+def image_url(base):
+    if not base:return None
+    return base.rstrip('/')+'/high.webp'
+
+def cardmarket_avg7(card):
+    cm=((card.get('pricing') or {}).get('cardmarket') or {})
+    variants=card.get('variants') or {}
+    normal=bool(variants.get('normal'))
+    holo=bool(variants.get('holo'))
+    # Use the price for the printing that actually exists. For holo-only chase cards,
+    # holo AVG7 is the correct comparison; otherwise standard AVG7 is preferred.
+    keys=['avg7-holo','avg7'] if holo and not normal else ['avg7','avg7-holo']
+    for key in keys:
+        v=cm.get(key)
+        if isinstance(v,(int,float)) and v>0:
+            return round(float(v),2),key,cm.get('updated')
+    return None,None,cm.get('updated')
+
+def fetch_card(card_id):
     try:
-        new=round(fetch_7d(card['url']),2)
-        if old and not (old*.30 <= new <= old*3.0):
-            raise ValueError(f'suspicious value {new}')
-        card['last_checked']=datetime.now(timezone.utc).isoformat(timespec='seconds')
-        card['scan_status']='ok'
-        card.pop('scan_error',None)
-        if old != new:
-            changes.append(f"{set_name} / {card.get('card')}: €{old:.2f} -> €{new:.2f}")
-            card['price7d']=new
+        c=get_json(f'{BASE}/cards/{card_id}')
+        price,field,updated=cardmarket_avg7(c)
+        if price is None:return None
+        img=image_url(c.get('image'))
+        if not img:return None
+        set_obj=c.get('set') or {}
+        return {
+            'tcgdex_id':c.get('id'),
+            'card':c.get('name'),
+            'number':str(c.get('localId')),
+            'rarity':c.get('rarity') or 'Unknown rarity',
+            'price7d':price,
+            'price_field':field,
+            'pricing_updated':updated,
+            'img':img,
+            'set_id':set_obj.get('id'),
+            'set_name':set_obj.get('name'),
+            'url':'https://www.cardmarket.com/en/Pokemon/Products/Search?searchString='+quote_plus(f"{c.get('name','')} {c.get('localId','')}"),
+            'data_source':f'{BASE}/cards/{card_id}'
+        }
     except Exception as e:
-        card['last_checked']=datetime.now(timezone.utc).isoformat(timespec='seconds')
-        card['scan_status']='blocked' if '403' in str(e) else 'error'
-        card['scan_error']=str(e)[:180]
+        return {'_error':f'{card_id}: {e}'}
+
+def find_set(set_name,sets):
+    wanted=norm(ALIASES.get(set_name,set_name))
+    exact=[s for s in sets if norm(s.get('name'))==wanted]
+    if len(exact)==1:return exact[0]
+    # Conservative fallback: require every significant token and choose unique match.
+    toks=[t for t in wanted.split() if len(t)>2]
+    matches=[s for s in sets if all(t in norm(s.get('name')) for t in toks)]
+    return matches[0] if len(matches)==1 else None
+
+def tracked_sets():
+    cat=json.loads(CATALOG.read_text(encoding='utf-8'))
+    names=[]
+    for p in cat.get('products',[]):
+        if p.get('type') in PACK_TYPES and p.get('set'):
+            names.append(p['set'])
+    # Preserve already tracked sets too, so useful older sets do not vanish just because
+    # one local product temporarily sells out.
+    if PULLS.exists():
+        try:names += list(json.loads(PULLS.read_text(encoding='utf-8')).get('sets',{}).keys())
+        except Exception:pass
+    return sorted(set(names))
+
+def rebuild_set(set_name,set_brief):
+    full=get_json(f"{BASE}/sets/{set_brief['id']}")
+    briefs=full.get('cards') or []
+    rows=[]; errors=[]
+    with ThreadPoolExecutor(max_workers=WORKERS) as ex:
+        futures={ex.submit(fetch_card,c['id']):c['id'] for c in briefs if c.get('id')}
+        for fut in as_completed(futures):
+            row=fut.result()
+            if not row:continue
+            if row.get('_error'):errors.append(row['_error']);continue
+            # Reject cross-set mismatches absolutely.
+            if row.get('set_id')!=set_brief['id']:continue
+            rows.append(row)
+    rows.sort(key=lambda x:x['price7d'],reverse=True)
+    top=rows[:5]
+    for i,c in enumerate(top,1):c['rank']=i
+    if not top:
+        return None,errors
+    best=top[0]
+    return {
+        'card':best['card'],'number':best['number'],'rarity':best['rarity'],
+        'price7d':best['price7d'],'url':best['url'],'img':best['img'],
+        'topCards':top,'coverage':len(top),'set_id':set_brief['id'],
+        'price_source':'TCGdex Cardmarket AVG7','image_source':'TCGdex exact card asset',
+        'pricing_updated':best.get('pricing_updated'),'scan_status':'ok'
+    },errors
 
 def main():
-    data=json.loads(PULLS.read_text(encoding='utf-8'))
-    changes=[]
-    checked=0
-    for set_name,item in data.get('sets',{}).items():
-        cards=item.get('topCards') or [item]
-        for card in cards:
-            check_card(set_name,card,changes)
-            checked+=1
-        if cards:
-            best=cards[0]
-            for k in ('card','number','rarity','price7d','url','img','last_checked','scan_status','scan_error'):
-                if k in best:
-                    item[k]=best[k]
-            item['coverage']=len(cards)
-    data['generated_at']=datetime.now(timezone.utc).isoformat(timespec='seconds')
-    data['changes']=changes[:100]
-    PULLS.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-    print(f'Checked {checked} chase cards; {len(changes)} price changes')
-    if any((c.get('scan_status')=='blocked') for item in data.get('sets',{}).values() for c in (item.get('topCards') or [item])):
-        print('Cardmarket blocked one or more direct requests; previous verified prices were preserved.')
+    now=datetime.now(timezone.utc).isoformat(timespec='seconds')
+    sets=get_json(f'{BASE}/sets')
+    wanted=tracked_sets()
+    result={'generated_at':now,'method':'Top pulls rebuilt from exact TCGdex card IDs. Prices use Cardmarket AVG7 from each exact card response; images use the exact TCGdex card asset.','sets':{},'unmatched_sets':[],'errors':[]}
+    for name in wanted:
+        s=find_set(name,sets)
+        if not s:
+            result['unmatched_sets'].append(name);continue
+        try:
+            item,errs=rebuild_set(name,s)
+            if item:result['sets'][name]=item
+            else:result['unmatched_sets'].append(name)
+            result['errors'] += errs[:10]
+            print(f"{name}: {item['coverage'] if item else 0} ranked pulls")
+        except Exception as e:
+            result['errors'].append(f'{name}: {e}')
+            result['unmatched_sets'].append(name)
+    PULLS.write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+    print(f"Rebuilt {len(result['sets'])} sets; unmatched={len(result['unmatched_sets'])}; errors={len(result['errors'])}")
+    if not result['sets']:
+        raise SystemExit('No pull sets rebuilt')
 
-if __name__=='__main__':
-    main()
+if __name__=='__main__':main()
