@@ -56,6 +56,7 @@ details{margin-top:10px;border:1px solid #293b54;border-radius:10px;overflow:hid
 .pullinfo b{display:block;font-size:9px}.pullinfo span{display:block;font-size:7px;color:#8fa0b6;margin-top:2px}
 .pullprice{text-align:right}.pullprice b{display:block;color:#f6d56d;font-size:11px}.pullprice a{display:block!important;background:transparent!important;border:0!important;padding:0!important;color:#82b8ff!important;font-size:7px!important;margin-top:2px!important;text-align:right!important}
 </style>
+<link rel="stylesheet" href="budget.css?v=1">
 </head>
 <body>
 <div class="app"><aside class="sidebar"><div class="logo"><strong><b>COLINSKIS</b> PokeDeals</strong><small>Malta TCG intelligence</small></div><div class="navlabel">Catalogue</div><div class="nav" id="sideNav"></div><div class="navlabel">Rules</div><div class="sidefoot">English products only.<br>Live stock only in the main catalogue.<br>Preorders stay separate.<br>Cardmarket uses product-level market benchmarks, not invented Malta-landed checkout prices.</div></aside>
@@ -82,4 +83,5 @@ function render(){quickStats();let arr=[];if(view==='Preorders / Upcoming'){arr=
 window.toggleSave=id=>{saved.has(id)?saved.delete(id):saved.add(id);localStorage.setItem('colinskiSavedDesktop',JSON.stringify([...saved]));buildNav();render();};document.getElementById('search').addEventListener('input',render);document.getElementById('sort').addEventListener('change',render);document.getElementById('vendorFilter').addEventListener('change',render);
 async function boot(){try{const [res,pullRes]=await Promise.all([fetch('data/catalog.json?v='+Date.now(),{cache:'no-store'}),fetch('data/pulls.json?v='+Date.now(),{cache:'no-store'})]);if(!res.ok) throw new Error('Catalog HTTP '+res.status);const data=await res.json();if(pullRes.ok){const pd=await pullRes.json();pulls=pd.sets||{};}products=data.products||[];preorders=data.preorders||[];accessories=data.accessories||[];vendors=data.vendors||[];catalogGeneratedAt=data.generated_at||null;buildVendors();buildNav();render();}catch(err){document.getElementById('grid').innerHTML='<div class="empty">Catalog data could not be loaded. Refresh the page or check GitHub Pages deployment.</div>';console.error(err);}}
 boot();
-</script></body></html>
+</script><script src="budget.js?v=1"></script>
+</body></html>
