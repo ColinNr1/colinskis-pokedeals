@@ -19,6 +19,7 @@ session.headers.update({
 PRICE_RE=re.compile(r'(?:€\s*([0-9][0-9.,]*)|(?:EUR|Euro)\s*([0-9][0-9.,]*))',re.I)
 OUT_WORDS=('out of stock','sold out','currently unavailable','unavailable')
 IN_WORDS=('in stock','add to cart','add to basket','available','buy now')
+SOFT404_WORDS=('404','page not found','product not found','nothing found','we could not find')
 
 def norm(s):return re.sub(r'[^a-z0-9]+',' ',(s or '').lower()).strip()
 def tokens(name):
@@ -97,6 +98,11 @@ def extract_structured_price_stock(soup, product_name):
     if 'instock' in avail:stock='in_stock'
     elif 'outofstock' in avail or 'soldout' in avail:stock='out_of_stock'
     return price,stock
+def looks_soft_404(soup,text):
+    title=(soup.title.get_text(' ',strip=True) if soup.title else '').lower()
+    head=' '.join(x.get_text(' ',strip=True) for x in soup.find_all(['h1','h2'])[:5]).lower()
+    blob=(title+' '+head+' '+text[:2500].lower())
+    return any(w in blob for w in SOFT404_WORDS)
 def inspect_listing(listing,product_name):
     url=listing.get('url','')
     if not url:return {'status':'no_url'}
@@ -105,7 +111,8 @@ def inspect_listing(listing,product_name):
     except Exception as e:return {'status':'fetch_error','error':str(e)[:180]}
     if not is_direct_product_url(final):return {'status':'redirected_non_product_url','final_url':final}
     soup=BeautifulSoup(html,'html.parser');text=' '.join(soup.stripped_strings);page_title=(soup.title.get_text(' ',strip=True) if soup.title else '')
-    near=find_near_text(text,product_name);title_match=match_ratio(product_name,page_title)
+    if looks_soft_404(soup,text):return {'status':'soft_404','final_url':final}
+    near=find_near_text(text,product_name);title_match=match_ratio(product_name,page_title);product_json=extract_jsonld_product(soup,product_name)
     if not near and title_match<.35:return {'status':'not_matched','final_url':final,'image':extract_image(soup,final,product_name)}
     scoped=near or norm(text[:6000]);lower=scoped.lower();stock='unknown'
     if any(w in lower for w in IN_WORDS):stock='in_stock'
@@ -117,11 +124,15 @@ def inspect_listing(listing,product_name):
         val=parse_price(m.group(1) or m.group(2))
         if val and .5<=val<=5000:candidates.append(val)
     old=float(listing.get('price',0) or 0);price=None;price_source=None
+    host=urlparse(final).netloc.lower()
     if structured_price and .5<=structured_price<=5000:
         price=structured_price;price_source='jsonld'
-    elif candidates:
+    elif 'gamebreakermalta.com' not in host and candidates:
         price=min(candidates,key=lambda x:abs(x-old)) if old else min(candidates);price_source='page_context'
         if old and not (old*.45<=price<=old*2.25):price=None;price_source=None
+    # Gamebreaker has a €25 free-delivery threshold on generic/404 pages; never treat that as product price.
+    if 'gamebreakermalta.com' in host and product_json is None:
+        return {'status':'not_matched','final_url':final,'image':extract_image(soup,final,product_name)}
     return {'status':'ok','stock':stock,'price':price,'price_source':price_source,'final_url':final,'direct_url':True,'image':extract_image(soup,final,product_name)}
 def bad_image(url):
     u=(url or '').lower();return (not u) or 'bing.net' in u or u.startswith('data:image/svg+xml')
@@ -160,7 +171,7 @@ def main():
         for item in data.get(group,[]):
             for listing in item.get('listings') or []:
                 s=listing.get('scan_status','unknown');statuses[s]=statuses.get(s,0)+1
-    data['scan_summary']={'checked_listings':total,'changes':all_changes[:150],'scanner_version':'1.3-strict-live-verification','statuses':statuses}
+    data['scan_summary']={'checked_listings':total,'changes':all_changes[:150],'scanner_version':'1.4-soft404-jsonld-guard','statuses':statuses}
     data['products']=[p for p in data.get('products',[]) if p.get('listings')];validate_direct_links(data)
     CATALOG.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     print(f'Checked {total} direct product listings; {len(all_changes)} changes; statuses={statuses}')
