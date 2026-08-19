@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T10:13:10+00:00",
+  "generated_at": "2026-08-19T10:25:47+00:00",
   "products": [
     {
       "id": "chaos-half",
@@ -20,7 +20,7 @@
           "ship": "Free delivery over €25",
           "note": "Factory sealed, 18 packs. Page says in stock and ships in 2–4 days.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:09:34+00:00",
+          "last_checked": "2026-08-19T10:22:10+00:00",
           "scan_status": "ok"
         },
         {
@@ -30,8 +30,15 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "45 units shown in stock when checked; free same-day store pickup.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:13+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:25:52+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 0.75,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         },
         {
           "store": "Gamebreaker",
@@ -40,7 +47,7 @@
           "ship": "Free delivery over €25",
           "note": "Add-to-cart listing; prices include VAT.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:09:43+00:00",
+          "last_checked": "2026-08-19T10:22:19+00:00",
           "scan_status": "ok"
         },
         {
@@ -50,7 +57,7 @@
           "ship": "Free delivery over €50",
           "note": "In-stock local listing.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:09:43+00:00",
+          "last_checked": "2026-08-19T10:22:19+00:00",
           "scan_status": "ok"
         },
         {
@@ -60,8 +67,15 @@
           "ship": "Free delivery over €250",
           "note": "English category; Add to basket when checked.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:15+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:25:54+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 0.75,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EChaos%20Rising%20Half%20Booster%20Box%20%2818%20Packs%29%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EChaos%20Rising%20%E2%80%A2%20Half%20Booster%20Box%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
@@ -85,7 +99,7 @@
           "ship": "Free delivery over €25",
           "note": "Product block says in stock / ships in 2–4 days, but the FAQ on the same page still describes Pitch Black as delayed preorder. Verify before checkout.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:09:51+00:00",
+          "last_checked": "2026-08-19T10:22:27+00:00",
           "scan_status": "ok"
         },
         {
@@ -95,8 +109,15 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock on the live category page.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:17+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:25:55+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 0.75,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         },
         {
           "store": "Gamebreaker",
@@ -105,8 +126,15 @@
           "ship": "Free delivery over €25",
           "note": "Add-to-cart listing when checked.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:20+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:25:58+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 0.75,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPitch%20Black%20Half%20Booster%20Box%20%2818%20Packs%29%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPitch%20Black%20%E2%80%A2%20Half%20Booster%20Box%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
@@ -130,7 +158,7 @@
           "ship": "Free delivery over €25",
           "note": "Product block says in stock / ships in 2–4 days, but the FAQ on the same page still describes Pitch Black as delayed preorder. Verify before checkout.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:10:02+00:00",
+          "last_checked": "2026-08-19T10:22:38+00:00",
           "scan_status": "ok"
         },
         {
@@ -140,8 +168,15 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:21+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:25:59+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 1.0,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPitch%20Black%20Booster%20Pack%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPitch%20Black%20%E2%80%A2%20Booster%20Pack%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
@@ -165,7 +200,7 @@
           "ship": "Free delivery over €25",
           "note": "In stock; ships in 2–4 days.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:10:10+00:00",
+          "last_checked": "2026-08-19T10:22:45+00:00",
           "scan_status": "ok"
         },
         {
@@ -175,8 +210,15 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:22+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:26:01+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 1.0,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EChaos%20Rising%20Booster%20Pack%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EChaos%20Rising%20%E2%80%A2%20Booster%20Pack%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
@@ -200,8 +242,15 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:24+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:26:03+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 1.0,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPerfect%20Order%20Booster%20Pack%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPerfect%20Order%20%E2%80%A2%20Booster%20Pack%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
@@ -225,8 +274,15 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:25+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:26:04+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 0.75,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         },
         {
           "store": "PowerPlay",
@@ -235,7 +291,7 @@
           "ship": "Free delivery over €50",
           "note": "In-stock local listing.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:10:33+00:00",
+          "last_checked": "2026-08-19T10:23:09+00:00",
           "scan_status": "ok"
         }
       ],
@@ -260,8 +316,15 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "72 in stock when checked: San Ġwann 25, Tarxien 25, Birkirkara 22. Pickup free.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:26+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:26:06+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 1.0,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPitch%20Black%20Booster%20Bundle%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPitch%20Black%20%E2%80%A2%20Booster%20Bundle%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
@@ -285,7 +348,7 @@
           "ship": "Free delivery over €50",
           "note": "In-stock local listing.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:10:41+00:00",
+          "last_checked": "2026-08-19T10:23:18+00:00",
           "scan_status": "ok"
         },
         {
@@ -295,8 +358,15 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock on 19 Aug 2026.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:27+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:26:08+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 1.0,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EChaos%20Rising%20Booster%20Bundle%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EChaos%20Rising%20%E2%80%A2%20Booster%20Bundle%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
@@ -320,7 +390,7 @@
           "ship": "Free delivery over €25",
           "note": "Add-to-cart listing when checked.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:10:50+00:00",
+          "last_checked": "2026-08-19T10:23:27+00:00",
           "scan_status": "ok"
         }
       ],
@@ -345,7 +415,7 @@
           "ship": "Free delivery over €250",
           "note": "English; Add to basket.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:10:53+00:00",
+          "last_checked": "2026-08-19T10:23:28+00:00",
           "scan_status": "ok"
         },
         {
@@ -355,7 +425,7 @@
           "ship": "Free delivery over €25",
           "note": "Add to cart.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:10:54+00:00",
+          "last_checked": "2026-08-19T10:23:29+00:00",
           "scan_status": "ok"
         },
         {
@@ -365,8 +435,8 @@
           "ship": "Check checkout",
           "note": "Add to cart on 19 Aug 2026. Category page does not explicitly state language; verify English before buying.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:29+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:23:32+00:00",
+          "scan_status": "ok"
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPerfect%20Order%20Elite%20Trainer%20Box%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPerfect%20Order%20%E2%80%A2%20Elite%20Trainer%20Box%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
@@ -390,7 +460,7 @@
           "ship": "Free delivery over €250",
           "note": "English; Add to basket.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:10:57+00:00",
+          "last_checked": "2026-08-19T10:23:33+00:00",
           "scan_status": "ok"
         }
       ],
@@ -415,8 +485,8 @@
           "ship": "Check checkout",
           "note": "Add-to-cart listing. Exotique does not state product language on the category page; verify English before buying.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:31+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:23:34+00:00",
+          "scan_status": "ok"
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPhantasmal%20Flames%20Elite%20Trainer%20Box%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPhantasmal%20Flames%20%E2%80%A2%20Elite%20Trainer%20Box%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
@@ -440,7 +510,7 @@
           "ship": "Free delivery over €50",
           "note": "In-stock local listing.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:10:57+00:00",
+          "last_checked": "2026-08-19T10:23:34+00:00",
           "scan_status": "ok"
         },
         {
@@ -450,8 +520,15 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock on 19 Aug 2026.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:32+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:26:09+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 1.0,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EMega%20Zygarde%20ex%20Premium%20Collection%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPerfect%20Order%20%E2%80%A2%20Premium%20Collection%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
@@ -470,13 +547,20 @@
       "listings": [
         {
           "store": "Gamebreaker",
-          "price": 49.99,
+          "price": 25.0,
           "url": "https://gamebreakermalta.com/product/pokemon-tcg-first-partner-illustration-collection-series-3/",
           "ship": "Free delivery over €25",
           "note": "ONE PER PERSON shown directly in the product title.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:35+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:26:13+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 1.0,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EFirst%20Partner%20Illustration%20Collection%20%E2%80%93%20Serie%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EMega%20Evolution%20Products%20%E2%80%A2%20Collection%20Box%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
@@ -500,7 +584,7 @@
           "ship": "Free delivery over €50",
           "note": "In-stock local listing.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:11:08+00:00",
+          "last_checked": "2026-08-19T10:23:45+00:00",
           "scan_status": "ok"
         }
       ],
@@ -525,7 +609,7 @@
           "ship": "Free delivery over €50",
           "note": "In-stock local listing.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:11:08+00:00",
+          "last_checked": "2026-08-19T10:23:45+00:00",
           "scan_status": "ok"
         }
       ],
@@ -550,7 +634,7 @@
           "ship": "Free delivery over €50",
           "note": "In-stock local listing.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:11:08+00:00",
+          "last_checked": "2026-08-19T10:23:46+00:00",
           "scan_status": "ok"
         }
       ],
@@ -575,7 +659,7 @@
           "ship": "Free delivery over €50",
           "note": "In-stock local listing.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:11:08+00:00",
+          "last_checked": "2026-08-19T10:23:47+00:00",
           "scan_status": "ok"
         }
       ],
@@ -600,7 +684,7 @@
           "ship": "Free delivery over €50",
           "note": "In-stock local listing.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:11:09+00:00",
+          "last_checked": "2026-08-19T10:23:47+00:00",
           "scan_status": "ok"
         }
       ],
@@ -625,8 +709,15 @@
           "ship": "Free delivery over €25",
           "note": "Add to cart.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:37+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:26:15+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 1.0,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EIono%26%23x27%3Bs%20Bellibolt%20ex%20Premium%20Collection%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EJourney%20Together%20%E2%80%A2%20Premium%20Collection%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
@@ -650,8 +741,15 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:39+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:26:17+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 1.0,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPerfect%20Order%203-Pack%20Blister%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPerfect%20Order%20%E2%80%A2%20Blister%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
@@ -675,8 +773,15 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:40+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:26:19+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 1.0,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         }
       ],
       "cmrange": [
@@ -704,7 +809,7 @@
           "ship": "Free delivery over €25",
           "note": "Pawmot premium checklane; Add to cart.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:11:28+00:00",
+          "last_checked": "2026-08-19T10:24:06+00:00",
           "scan_status": "ok"
         },
         {
@@ -714,7 +819,7 @@
           "ship": "Free delivery over €50",
           "note": "Selectable variants; available listing.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:11:28+00:00",
+          "last_checked": "2026-08-19T10:24:06+00:00",
           "scan_status": "ok"
         },
         {
@@ -724,8 +829,15 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:41+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:26:20+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 1.0,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EChaos%20Rising%20Premium%20Checklane%20Blister%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EChaos%20Rising%20%E2%80%A2%20Blister%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
@@ -749,7 +861,7 @@
           "ship": "Free delivery over €250",
           "note": "English; Add to basket.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:11:38+00:00",
+          "last_checked": "2026-08-19T10:24:14+00:00",
           "scan_status": "ok"
         }
       ],
@@ -774,7 +886,7 @@
           "ship": "Free delivery over €250",
           "note": "English; Add to basket.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:11:40+00:00",
+          "last_checked": "2026-08-19T10:24:15+00:00",
           "scan_status": "ok"
         }
       ],
@@ -799,7 +911,7 @@
           "ship": "Free delivery over €250",
           "note": "English; Add to basket.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:11:42+00:00",
+          "last_checked": "2026-08-19T10:24:15+00:00",
           "scan_status": "ok"
         }
       ],
@@ -824,8 +936,15 @@
           "ship": "Free delivery over €250",
           "note": "English; Add to basket.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:43+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:26:22+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 1.0,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EAstral%20Radiance%20Booster%20Pack%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EAstral%20Radiance%20%E2%80%A2%20Booster%20Pack%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
@@ -849,7 +968,7 @@
           "ship": "Free delivery over €25",
           "note": "Add to cart.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:11:51+00:00",
+          "last_checked": "2026-08-19T10:24:24+00:00",
           "scan_status": "ok"
         },
         {
@@ -859,8 +978,15 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "Generic World Championships Deck 2024 listing; exact deck variant not specified.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:44+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:26:24+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 1.0,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         }
       ],
       "cmrange": [
@@ -888,8 +1014,15 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:45+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:26:26+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 1.0,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         }
       ]
     },
@@ -912,8 +1045,15 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:47+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:26:27+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 1.0,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         }
       ]
     },
@@ -936,8 +1076,15 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:48+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:26:29+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 1.0,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         }
       ]
     },
@@ -960,8 +1107,15 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:49+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:26:31+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 1.0,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         }
       ]
     },
@@ -984,8 +1138,15 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:51+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:26:32+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 1.0,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         },
         {
           "store": "Mystical Tavern",
@@ -994,7 +1155,7 @@
           "ship": "Free delivery over €50",
           "note": "Add to cart on 19 Aug 2026.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:12:37+00:00",
+          "last_checked": "2026-08-19T10:25:11+00:00",
           "scan_status": "ok"
         }
       ]
@@ -1018,8 +1179,15 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:52+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:26:34+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 1.0,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         }
       ]
     },
@@ -1042,8 +1210,15 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:53+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:26:36+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 1.0,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         }
       ]
     },
@@ -1066,8 +1241,15 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:54+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:26:37+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 1.0,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         }
       ]
     },
@@ -1090,8 +1272,15 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:56+00:00",
-          "scan_status": "browser_not_matched"
+          "last_checked": "2026-08-19T10:26:39+00:00",
+          "scan_status": "browser_ok",
+          "match_scores": {
+            "title": 0.0,
+            "h1": 0.0,
+            "slug": 1.0,
+            "jsonld": 0.0,
+            "body": 0.0
+          }
         }
       ]
     },
@@ -1114,7 +1303,7 @@
           "ship": "Free delivery over €50",
           "note": "Variants selectable; add to cart.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:08+00:00",
+          "last_checked": "2026-08-19T10:25:44+00:00",
           "scan_status": "ok"
         }
       ]
@@ -1138,7 +1327,7 @@
           "ship": "Free delivery over €50",
           "note": "Add to cart.",
           "direct_product_url": true,
-          "last_checked": "2026-08-19T10:13:08+00:00",
+          "last_checked": "2026-08-19T10:25:47+00:00",
           "scan_status": "ok"
         }
       ]
@@ -1161,7 +1350,7 @@
           "price": 325.0,
           "url": "https://gamersland.com.mt/product/pokemon-tcg-30th-celebration-elite-trainer-box/",
           "note": "1 in stock / guaranteed-delivery listing. Store explicitly warns the current price may be higher than official-release pricing because final allocations are not yet known.",
-          "last_checked": "2026-08-19T10:13:10+00:00",
+          "last_checked": "2026-08-19T10:25:47+00:00",
           "scan_status": "ok",
           "direct_product_url": true
         }
@@ -1389,7 +1578,7 @@
       "type": "Playmat",
       "price": 21.99,
       "store": "PowerPlay",
-      "url": "https://www.powerplaymt.com/category/merchandise",
+      "url": "https://www.powerplaymt.com/product-page/ultra-pro-caterpie-evolutions-stitches-playmat-for-pokemon",
       "note": "In stock at PowerPlay. GamesPlus also lists the same playmat at €24.99.",
       "imgq": "Ultra Pro Pokemon Caterpie Evolutions Stitched Playmat",
       "other": [
@@ -1399,8 +1588,11 @@
           "url": "https://gamesplusmalta.com/product-category/tcg-accessories/page/3/"
         }
       ],
-      "img": "https://tse4.mm.bing.net/th?q=Ultra%20Pro%20Pokemon%20Caterpie%20Evolutions%20Stitched%20Playmat&pid=Api",
-      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EUltra%20Pro%20Pok%C3%A9mon%20Caterpie%20Evolutions%20Stitche%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPlaymat%20%E2%80%A2%20PowerPlay%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
+      "img": "https://static.wixstatic.com/media/ff902b_e2055536c1fc4fbebb6968f66adc3ab4~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EUltra%20Pro%20Pok%C3%A9mon%20Caterpie%20Evolutions%20Stitche%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPlaymat%20%E2%80%A2%20PowerPlay%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
+      "last_checked": "2026-08-19T10:26:48+00:00",
+      "scan_status": "browser_ok",
+      "direct_product_url": true
     },
     {
       "id": "neon-kanto-edge",
@@ -1427,7 +1619,7 @@
       "type": "Playmat",
       "price": 34.99,
       "store": "Mystical Tavern",
-      "url": "https://mysticaltavern.com/product-category/trading-card-games/pokemon/",
+      "url": "https://mysticaltavern.com/product/ultra-pro-pokemon-neon-kanto-foil-playmat/",
       "note": "In stock. GamesPlus lists it at €35.00.",
       "imgq": "Ultra Pro Pokemon Neon Kanto Foil Playmat",
       "other": [
@@ -1437,8 +1629,11 @@
           "url": "https://gamesplusmalta.com/product-category/trading-card-games/tcg-accessories/page/11/"
         }
       ],
-      "img": "https://tse4.mm.bing.net/th?q=Ultra%20Pro%20Pokemon%20Neon%20Kanto%20Foil%20Playmat&pid=Api",
-      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EUltra%20Pro%20Pok%C3%A9mon%20Neon%20Kanto%20Foil%20Playmat%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPlaymat%20%E2%80%A2%20Mystical%20Tavern%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
+      "img": "https://mysticaltavern.com/wp-content/uploads/UPR16658_1.jpg",
+      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EUltra%20Pro%20Pok%C3%A9mon%20Neon%20Kanto%20Foil%20Playmat%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPlaymat%20%E2%80%A2%20Mystical%20Tavern%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
+      "last_checked": "2026-08-19T10:26:56+00:00",
+      "scan_status": "browser_ok",
+      "direct_product_url": true
     },
     {
       "id": "pitch-portfolio",
@@ -1458,11 +1653,14 @@
       "type": "Binder / Portfolio",
       "price": 9.99,
       "store": "Gamebreaker",
-      "url": "https://gamebreakermalta.com/product-category/toys/brand-collections/trading-card-games/pokemon-trading-cards/",
+      "url": "https://gamebreakermalta.com/product/ultra-pro-pokemon-trading-card-game-charmander-4-pocket/",
       "note": "Add to cart.",
       "imgq": "Ultra Pro Pokemon Charmander 4 Pocket Portfolio",
-      "img": "https://tse4.mm.bing.net/th?q=Ultra%20Pro%20Pokemon%20Charmander%204%20Pocket%20Portfolio&pid=Api",
-      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EUltra%20Pro%20Pok%C3%A9mon%20Charmander%204-Pocket%20Portfol%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EBinder%20/%20Portfolio%20%E2%80%A2%20Gamebreaker%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
+      "img": "https://gamebreakermalta.com/wp-content/uploads/2026/07/Screenshot-2026-07-25-125254.png",
+      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EUltra%20Pro%20Pok%C3%A9mon%20Charmander%204-Pocket%20Portfol%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EBinder%20/%20Portfolio%20%E2%80%A2%20Gamebreaker%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
+      "last_checked": "2026-08-19T10:27:04+00:00",
+      "scan_status": "browser_ok",
+      "direct_product_url": true
     },
     {
       "id": "charmander-sleeves",
@@ -1470,11 +1668,14 @@
       "type": "Sleeves",
       "price": 9.99,
       "store": "Gamebreaker",
-      "url": "https://gamebreakermalta.com/product-category/toys/brand-collections/trading-card-games/pokemon-trading-cards/",
+      "url": "https://gamebreakermalta.com/product/ultra-pro-charmander-65ct-deck-protector/",
       "note": "Add to cart.",
       "imgq": "Ultra Pro Pokemon Charmander Deck Protector 65",
-      "img": "https://tse4.mm.bing.net/th?q=Ultra%20Pro%20Pokemon%20Charmander%20Deck%20Protector%2065&pid=Api",
-      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EUltra%20Pro%20Charmander%20Deck%20Protector%2065ct%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3ESleeves%20%E2%80%A2%20Gamebreaker%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
+      "img": "https://gamebreakermalta.com/wp-content/uploads/2026/07/51ZTXVSL0lL._AC_UF8941000_QL80_.jpg",
+      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EUltra%20Pro%20Charmander%20Deck%20Protector%2065ct%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3ESleeves%20%E2%80%A2%20Gamebreaker%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
+      "last_checked": "2026-08-19T10:27:06+00:00",
+      "scan_status": "browser_ok",
+      "direct_product_url": true
     },
     {
       "id": "jt-miniportfolio",
@@ -1482,11 +1683,14 @@
       "type": "Binder / Portfolio",
       "price": 2.99,
       "store": "Gamebreaker",
-      "url": "https://gamebreakermalta.com/product-category/toys/brand-collections/trading-card-games/pokemon-trading-cards/page/2/",
+      "url": "https://gamebreakermalta.com/product/pokemon-tcg-scarlet-violet-9-journey-together-booster-pack-mini-portfolio-bundle/",
       "note": "Portfolio-only product; add to cart.",
       "imgq": "Pokemon TCG Journey Together Mini Portfolio",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20TCG%20Journey%20Together%20Mini%20Portfolio&pid=Api",
-      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPok%C3%A9mon%20TCG%20Journey%20Together%20Mini%20Portfolio%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EBinder%20/%20Portfolio%20%E2%80%A2%20Gamebreaker%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
+      "img": "https://gamebreakermalta.com/wp-content/uploads/2025/05/mini-portfolio-pokemon-.jpg",
+      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPok%C3%A9mon%20TCG%20Journey%20Together%20Mini%20Portfolio%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EBinder%20/%20Portfolio%20%E2%80%A2%20Gamebreaker%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
+      "last_checked": "2026-08-19T10:27:12+00:00",
+      "scan_status": "browser_ok",
+      "direct_product_url": true
     },
     {
       "id": "big-album",
@@ -1494,11 +1698,14 @@
       "type": "Binder / Album",
       "price": 19.99,
       "store": "Gamebreaker",
-      "url": "https://gamebreakermalta.com/product-category/toys/brand-collections/trading-card-games/pokemon-trading-cards/",
+      "url": "https://gamebreakermalta.com/product/pokemon-big-albums/",
       "note": "Generic Pokémon album listing; add to cart.",
       "imgq": "Pokemon trading card big album binder",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20trading%20card%20big%20album%20binder&pid=Api",
-      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPok%C3%A9mon%20Big%20Album%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EBinder%20/%20Album%20%E2%80%A2%20Gamebreaker%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
+      "img": "https://gamebreakermalta.com/wp-content/uploads/2026/07/ae8af4d6-f894-43a7-b9c1-1ab19b11be07.jpg",
+      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPok%C3%A9mon%20Big%20Album%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EBinder%20/%20Album%20%E2%80%A2%20Gamebreaker%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
+      "last_checked": "2026-08-19T10:27:15+00:00",
+      "scan_status": "browser_ok",
+      "direct_product_url": true
     },
     {
       "id": "soft-sleeves",
@@ -1509,8 +1716,11 @@
       "url": "https://gamebreakermalta.com/product/single-card-holder-soft-sleeves-100ct/",
       "note": "Generic TCG penny sleeves suitable for Pokémon; in stock.",
       "imgq": "soft card sleeves 100 trading card",
-      "img": "https://tse4.mm.bing.net/th?q=soft%20card%20sleeves%20100%20trading%20card&pid=Api",
-      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3ESingle%20Card%20Holder%20Soft%20Sleeves%20100ct%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3ESleeves%20%E2%80%A2%20Gamebreaker%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
+      "img": "https://gamebreakermalta.com/wp-content/uploads/2025/09/SINGLE-CARD-SLEEVE-2-1000x1000h.jpg",
+      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3ESingle%20Card%20Holder%20Soft%20Sleeves%20100ct%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3ESleeves%20%E2%80%A2%20Gamebreaker%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
+      "last_checked": "2026-08-19T10:27:17+00:00",
+      "scan_status": "browser_ok",
+      "direct_product_url": true
     },
     {
       "id": "kalos-alcove",
@@ -1518,11 +1728,14 @@
       "type": "Deck Box",
       "price": 34.99,
       "store": "Gamebreaker",
-      "url": "https://gamebreakermalta.com/product-category/toys/brand-collections/trading-card-games/page/25/",
+      "url": "https://gamebreakermalta.com/product/pokemon-tcg-kalos-alcove-click-deck-box/",
       "note": "Add to cart.",
       "imgq": "Pokemon Kalos Alcove Click Deck Box Ultra Pro",
-      "img": "https://tse4.mm.bing.net/th?q=Pokemon%20Kalos%20Alcove%20Click%20Deck%20Box%20Ultra%20Pro&pid=Api",
-      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPok%C3%A9mon%20TCG%20Kalos%20Alcove%20Click%20Deck%20Box%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EDeck%20Box%20%E2%80%A2%20Gamebreaker%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
+      "img": "https://gamebreakermalta.com/wp-content/uploads/2024/01/ultra-pro-pokemon-alcove-click-deck-box-alola.jpg",
+      "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPok%C3%A9mon%20TCG%20Kalos%20Alcove%20Click%20Deck%20Box%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EDeck%20Box%20%E2%80%A2%20Gamebreaker%3C/text%3E%0A%20%20%20%20%3C/svg%3E",
+      "last_checked": "2026-08-19T10:27:23+00:00",
+      "scan_status": "browser_ok",
+      "direct_product_url": true
     },
     {
       "id": "pitch-9portfolio",
@@ -1577,9 +1790,12 @@
       "type": "Sleeves",
       "price": 10.0,
       "store": "Mystical Tavern",
-      "url": "https://mysticaltavern.com/product-category/trading-card-games/pokemon/",
+      "url": "https://mysticaltavern.com/product/pokemon-mega-charizard-x-65ct-deck-protectors-sleeves/",
       "note": "Add to cart.",
-      "img": "https://tse4.mm.bing.net/th?q=Ultra+Pro+Pokemon+Mega+Charizard+X+Deck+Protector+Sleeves&pid=Api"
+      "img": "https://mysticaltavern.com/wp-content/uploads/UPR16730_1.webp",
+      "last_checked": "2026-08-19T10:27:27+00:00",
+      "scan_status": "browser_ok",
+      "direct_product_url": true
     },
     {
       "id": "charizard-y-sleeves",
@@ -1587,9 +1803,12 @@
       "type": "Sleeves",
       "price": 10.0,
       "store": "Mystical Tavern",
-      "url": "https://mysticaltavern.com/product-category/trading-card-games/pokemon/",
+      "url": "https://mysticaltavern.com/product/pokemon-mega-charizard-x-65ct-deck-protectors-sleeves/",
       "note": "Add to cart.",
-      "img": "https://tse4.mm.bing.net/th?q=Ultra+Pro+Pokemon+Mega+Charizard+Y+Deck+Protector+Sleeves&pid=Api"
+      "img": "https://mysticaltavern.com/wp-content/uploads/UPR16730_1.webp",
+      "last_checked": "2026-08-19T10:27:29+00:00",
+      "scan_status": "browser_ok",
+      "direct_product_url": true
     },
     {
       "id": "charizard-probinder",
@@ -1597,9 +1816,12 @@
       "type": "Binder",
       "price": 28.0,
       "store": "Mystical Tavern",
-      "url": "https://mysticaltavern.com/product-category/trading-card-games/pokemon/",
+      "url": "https://mysticaltavern.com/product/pokemon-mega-charizard-x-and-mega-charizard-y-9-pocket-pro-binder/",
       "note": "Add to cart.",
-      "img": "https://tse4.mm.bing.net/th?q=Ultra+Pro+Pokemon+Mega+Charizard+X+Y+9+Pocket+Pro+Binder&pid=Api"
+      "img": "https://mysticaltavern.com/wp-content/uploads/UPR16733_1.webp",
+      "last_checked": "2026-08-19T10:27:31+00:00",
+      "scan_status": "browser_ok",
+      "direct_product_url": true
     },
     {
       "id": "charizard-playmat",
@@ -1607,9 +1829,12 @@
       "type": "Playmat",
       "price": 22.0,
       "store": "Mystical Tavern",
-      "url": "https://mysticaltavern.com/product-category/trading-card-games/pokemon/",
+      "url": "https://mysticaltavern.com/product/pokemon-mega-charizard-x-and-mega-charizard-y-playmat/",
       "note": "Add to cart.",
-      "img": "https://tse4.mm.bing.net/th?q=Ultra+Pro+Pokemon+Mega+Charizard+X+Y+Playmat&pid=Api"
+      "img": "https://mysticaltavern.com/wp-content/uploads/UPR16738_1.webp",
+      "last_checked": "2026-08-19T10:27:33+00:00",
+      "scan_status": "browser_ok",
+      "direct_product_url": true
     },
     {
       "id": "togepi-playmat",
@@ -1617,9 +1842,12 @@
       "type": "Playmat",
       "price": 25.0,
       "store": "Mystical Tavern",
-      "url": "https://mysticaltavern.com/product-category/trading-card-games/pokemon/",
+      "url": "https://mysticaltavern.com/product/pokemon-togepi-evolutions-stitched-playmat/",
       "note": "Add to cart.",
-      "img": "https://tse4.mm.bing.net/th?q=Ultra+Pro+Pokemon+Togepi+Evolutions+Stitched+Playmat&pid=Api"
+      "img": "https://mysticaltavern.com/wp-content/uploads/UPR16604_1_892de6b8-7fa2-44bb-94d8-21d0a3278d8b.jpg",
+      "last_checked": "2026-08-19T10:27:35+00:00",
+      "scan_status": "browser_ok",
+      "direct_product_url": true
     },
     {
       "id": "charmander-playmat",
@@ -1627,9 +1855,12 @@
       "type": "Playmat",
       "price": 25.0,
       "store": "Mystical Tavern",
-      "url": "https://mysticaltavern.com/product-category/trading-card-games/pokemon/",
+      "url": "https://mysticaltavern.com/product/pokemon-charmander-playmat/",
       "note": "Add to cart.",
-      "img": "https://tse4.mm.bing.net/th?q=Ultra+Pro+Pokemon+Charmander+Playmat&pid=Api"
+      "img": "https://mysticaltavern.com/wp-content/uploads/UPR16594_1_80feec0f-7401-4c9c-82d4-cebf52f486ef.webp",
+      "last_checked": "2026-08-19T10:27:37+00:00",
+      "scan_status": "browser_ok",
+      "direct_product_url": true
     },
     {
       "id": "gengar-premium-alcove",
@@ -1637,9 +1868,12 @@
       "type": "Deck Box",
       "price": 25.0,
       "store": "Mystical Tavern",
-      "url": "https://mysticaltavern.com/product-category/trading-card-games/pokemon/",
+      "url": "https://mysticaltavern.com/product/pokemon-elite-series-gengar-premium-alcove-flip/",
       "note": "Add to cart.",
-      "img": "https://tse4.mm.bing.net/th?q=Ultra+Pro+Pokemon+Gengar+Premium+Alcove+Flip&pid=Api"
+      "img": "https://mysticaltavern.com/wp-content/uploads/UPR16609_1_8f300f88-7e53-45c7-b80c-04bfbb8cfafd.jpg",
+      "last_checked": "2026-08-19T10:27:39+00:00",
+      "scan_status": "browser_ok",
+      "direct_product_url": true
     },
     {
       "id": "pikachu-12binder",
@@ -1647,9 +1881,12 @@
       "type": "Binder",
       "price": 44.99,
       "store": "Mystical Tavern",
-      "url": "https://mysticaltavern.com/product-category/trading-card-games/pokemon/",
+      "url": "https://mysticaltavern.com/product/pokemon-elite-series-pikachu-12-pocket-zippered-pro-binder/",
       "note": "Add to cart.",
-      "img": "https://tse4.mm.bing.net/th?q=Ultra+Pro+Pokemon+Pikachu+12+Pocket+Zippered+Pro+Binder&pid=Api"
+      "img": "https://mysticaltavern.com/wp-content/uploads/Untitled_-_2021-08-17T193200.959__05410.jpg",
+      "last_checked": "2026-08-19T10:27:41+00:00",
+      "scan_status": "browser_ok",
+      "direct_product_url": true
     },
     {
       "id": "neon-kanto-vault",
@@ -1657,9 +1894,12 @@
       "type": "Deck Box",
       "price": 57.99,
       "store": "Mystical Tavern",
-      "url": "https://mysticaltavern.com/product-category/trading-card-games/pokemon/",
+      "url": "https://mysticaltavern.com/product/pokemon-neon-kanto-alcove-vault-deck-box/",
       "note": "Add to cart.",
-      "img": "https://tse4.mm.bing.net/th?q=Ultra+Pro+Pokemon+Neon+Kanto+Alcove+Vault+Deck+Box&pid=Api"
+      "img": "https://mysticaltavern.com/wp-content/uploads/UPR16659_1.jpg",
+      "last_checked": "2026-08-19T10:27:43+00:00",
+      "scan_status": "browser_ok",
+      "direct_product_url": true
     }
   ],
   "vendors": [
@@ -1738,20 +1978,65 @@
   ],
   "scan_summary": {
     "checked_listings": 57,
-    "changes": [],
+    "changes": [
+      "First Partner Illustration Collection – Series 3 / Gamebreaker: €49.99 -> €25.0 (browser)",
+      "Ultra Pro Pokémon Caterpie Evolutions Stitched Playmat: resolved direct product link",
+      "Ultra Pro Pokémon Caterpie Evolutions Stitched Playmat: installed vendor product image",
+      "Ultra Pro Pokémon Neon Kanto Foil Playmat: resolved direct product link",
+      "Ultra Pro Pokémon Neon Kanto Foil Playmat: installed vendor product image",
+      "Ultra Pro Pokémon Charmander 4-Pocket Portfolio: resolved direct product link",
+      "Ultra Pro Pokémon Charmander 4-Pocket Portfolio: installed vendor product image",
+      "Ultra Pro Charmander Deck Protector 65ct: resolved direct product link",
+      "Ultra Pro Charmander Deck Protector 65ct: installed vendor product image",
+      "Pokémon TCG Journey Together Mini Portfolio: resolved direct product link",
+      "Pokémon TCG Journey Together Mini Portfolio: installed vendor product image",
+      "Pokémon Big Album: resolved direct product link",
+      "Pokémon Big Album: installed vendor product image",
+      "Single Card Holder Soft Sleeves 100ct: installed vendor product image",
+      "Pokémon TCG Kalos Alcove Click Deck Box: resolved direct product link",
+      "Pokémon TCG Kalos Alcove Click Deck Box: installed vendor product image",
+      "Ultra Pro Pokémon Mega Charizard X 65ct Deck Protector Sleeves: resolved direct product link",
+      "Ultra Pro Pokémon Mega Charizard X 65ct Deck Protector Sleeves: installed vendor product image",
+      "Ultra Pro Pokémon Mega Charizard Y 65ct Deck Protector Sleeves: resolved direct product link",
+      "Ultra Pro Pokémon Mega Charizard Y 65ct Deck Protector Sleeves: installed vendor product image",
+      "Ultra Pro Pokémon Mega Charizard X & Y 9-Pocket PRO-Binder: resolved direct product link",
+      "Ultra Pro Pokémon Mega Charizard X & Y 9-Pocket PRO-Binder: installed vendor product image",
+      "Ultra Pro Pokémon Mega Charizard X & Y Playmat: resolved direct product link",
+      "Ultra Pro Pokémon Mega Charizard X & Y Playmat: installed vendor product image",
+      "Ultra Pro Pokémon Togepi Evolutions Stitched Playmat: resolved direct product link",
+      "Ultra Pro Pokémon Togepi Evolutions Stitched Playmat: installed vendor product image",
+      "Ultra Pro Pokémon Charmander Playmat: resolved direct product link",
+      "Ultra Pro Pokémon Charmander Playmat: installed vendor product image",
+      "Ultra Pro Pokémon Elite Series Gengar Premium Alcove Flip: resolved direct product link",
+      "Ultra Pro Pokémon Elite Series Gengar Premium Alcove Flip: installed vendor product image",
+      "Ultra Pro Pokémon Elite Series Pikachu 12-Pocket Zippered PRO-Binder: resolved direct product link",
+      "Ultra Pro Pokémon Elite Series Pikachu 12-Pocket Zippered PRO-Binder: installed vendor product image",
+      "Ultra Pro Pokémon Neon Kanto Alcove Vault Deck Box: resolved direct product link",
+      "Ultra Pro Pokémon Neon Kanto Alcove Vault Deck Box: installed vendor product image"
+    ],
     "scanner_version": "1.2-browser-jsonld-images",
     "statuses": {
-      "ok": 28,
+      "ok": 30,
       "fetch_error": 24,
-      "not_matched": 5
+      "not_matched": 3
     },
     "browser_fallback": {
-      "attempted": 29,
-      "recovered": 0,
+      "attempted": 27,
+      "recovered": 27,
       "statuses": {
-        "ok": 28,
-        "browser_not_matched": 29
-      }
+        "ok": 30,
+        "browser_ok": 27
+      },
+      "product_bing_images_remaining": 18,
+      "matcher_version": "2.0-multisignal"
+    },
+    "accessories": {
+      "total": 36,
+      "resolved": 16,
+      "verified": 17,
+      "removed": 0,
+      "direct_links": 17,
+      "bing_images_remaining": 19
     }
   }
 }
