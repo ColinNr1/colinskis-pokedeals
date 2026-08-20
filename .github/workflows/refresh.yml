@@ -1,5 +1,5 @@
 name: Refresh Pokemon deals
-# QA trigger: strict live price/stock verification + store allocator
+# QA trigger: strict live price/stock verification + store allocator + PriceCharting graded pulls
 
 on:
   workflow_dispatch:
@@ -13,6 +13,7 @@ on:
       - 'budget.css'
       - 'scripts/install_budget_allocator.py'
       - 'scripts/enrich_pack_counts.py'
+      - 'scripts/enrich_pricecharting.py'
       - 'scripts/normalize_direct_links.py'
       - 'scripts/update_catalog.py'
       - 'scripts/browser_fallback.py'
@@ -67,8 +68,12 @@ jobs:
         run: python scripts/enrich_pack_counts.py
       - name: Rebuild exact Top Pulls from TCGdex + Cardmarket AVG7
         run: python scripts/update_pulls.py
-      - name: Validate pull prices, ranks and exact card images
+      - name: Validate pull identities, ranks and exact card images
         run: python scripts/validate_pulls.py
+      - name: Enrich pulls with PriceCharting raw and graded prices
+        env:
+          PRICECHARTING_TOKEN: ${{ secrets.PRICECHARTING_TOKEN }}
+        run: python scripts/enrich_pricecharting.py
       - name: Validate JSON
         run: |
           python -m json.tool data/catalog.json > /dev/null
