@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T04:55:52+00:00",
+  "generated_at": "2026-08-20T06:04:29+00:00",
   "method": "Top pulls rebuilt from exact TCGdex card IDs. Prices use Cardmarket AVG7 from each exact card response; images use the exact TCGdex card asset.",
   "sets": {
     "Astral Radiance": {
@@ -17,13 +17,18 @@
           "rarity": "Ultra Rare",
           "price7d": 151.99,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/swsh/swsh10/172/high.webp",
           "set_id": "swsh10",
           "set_name": "Astral Radiance",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Machamp+V+172",
           "data_source": "https://api.tcgdex.net/v2/en/cards/swsh10-172",
-          "rank": 1
+          "rank": 1,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Machamp V #172 Pokemon Astral Radiance",
+            "search_url": "https://www.pricecharting.com/search-products?q=Machamp+V+%23172+Pokemon+Astral+Radiance&type=prices"
+          }
         },
         {
           "tcgdex_id": "swsh10-167",
@@ -32,13 +37,18 @@
           "rarity": "Ultra Rare",
           "price7d": 80.33,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/swsh/swsh10/167/high.webp",
           "set_id": "swsh10",
           "set_name": "Astral Radiance",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Origin+Forme+Palkia+V+167",
           "data_source": "https://api.tcgdex.net/v2/en/cards/swsh10-167",
-          "rank": 2
+          "rank": 2,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Origin Forme Palkia V #167 Pokemon Astral Radiance",
+            "search_url": "https://www.pricecharting.com/search-products?q=Origin+Forme+Palkia+V+%23167+Pokemon+Astral+Radiance&type=prices"
+          }
         },
         {
           "tcgdex_id": "swsh10-161",
@@ -47,13 +57,18 @@
           "rarity": "Ultra Rare",
           "price7d": 63.03,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/swsh/swsh10/161/high.webp",
           "set_id": "swsh10",
           "set_name": "Astral Radiance",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Beedrill+V+161",
           "data_source": "https://api.tcgdex.net/v2/en/cards/swsh10-161",
-          "rank": 3
+          "rank": 3,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Beedrill V #161 Pokemon Astral Radiance",
+            "search_url": "https://www.pricecharting.com/search-products?q=Beedrill+V+%23161+Pokemon+Astral+Radiance&type=prices"
+          }
         },
         {
           "tcgdex_id": "swsh10-177",
@@ -62,13 +77,18 @@
           "rarity": "Ultra Rare",
           "price7d": 47.16,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/swsh/swsh10/177/high.webp",
           "set_id": "swsh10",
           "set_name": "Astral Radiance",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Origin+Forme+Dialga+V+177",
           "data_source": "https://api.tcgdex.net/v2/en/cards/swsh10-177",
-          "rank": 4
+          "rank": 4,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Origin Forme Dialga V #177 Pokemon Astral Radiance",
+            "search_url": "https://www.pricecharting.com/search-products?q=Origin+Forme+Dialga+V+%23177+Pokemon+Astral+Radiance&type=prices"
+          }
         },
         {
           "tcgdex_id": "swsh10-175",
@@ -77,21 +97,31 @@
           "rarity": "Ultra Rare",
           "price7d": 38.07,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/swsh/swsh10/175/high.webp",
           "set_id": "swsh10",
           "set_name": "Astral Radiance",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Hisuian+Sneasler+V+175",
           "data_source": "https://api.tcgdex.net/v2/en/cards/swsh10-175",
-          "rank": 5
+          "rank": 5,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Hisuian Sneasler V #175 Pokemon Astral Radiance",
+            "search_url": "https://www.pricecharting.com/search-products?q=Hisuian+Sneasler+V+%23175+Pokemon+Astral+Radiance&type=prices"
+          }
         }
       ],
       "coverage": 5,
       "set_id": "swsh10",
       "price_source": "TCGdex Cardmarket AVG7",
       "image_source": "TCGdex exact card asset",
-      "pricing_updated": "2026-08-19T08:02:25.615Z",
-      "scan_status": "ok"
+      "pricing_updated": "2026-08-19T08:02:24.851Z",
+      "scan_status": "ok",
+      "pricecharting": {
+        "status": "pending_api",
+        "query": "Machamp V #172 Pokemon Astral Radiance",
+        "search_url": "https://www.pricecharting.com/search-products?q=Machamp+V+%23172+Pokemon+Astral+Radiance&type=prices"
+      }
     },
     "Chaos Rising": {
       "card": "Mega Greninja ex",
@@ -108,13 +138,18 @@
           "rarity": "Special illustration rare",
           "price7d": 188.78,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.457Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/me/me04/116/high.webp",
           "set_id": "me04",
           "set_name": "Chaos Rising",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Mega+Greninja+ex+116",
           "data_source": "https://api.tcgdex.net/v2/en/cards/me04-116",
-          "rank": 1
+          "rank": 1,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Mega Greninja ex #116 Pokemon Chaos Rising",
+            "search_url": "https://www.pricecharting.com/search-products?q=Mega+Greninja+ex+%23116+Pokemon+Chaos+Rising&type=prices"
+          }
         },
         {
           "tcgdex_id": "me04-122",
@@ -123,13 +158,18 @@
           "rarity": "Mega Hyper Rare",
           "price7d": 149.49,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.457Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/me/me04/122/high.webp",
           "set_id": "me04",
           "set_name": "Chaos Rising",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Mega+Greninja+ex+122",
           "data_source": "https://api.tcgdex.net/v2/en/cards/me04-122",
-          "rank": 2
+          "rank": 2,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Mega Greninja ex #122 Pokemon Chaos Rising",
+            "search_url": "https://www.pricecharting.com/search-products?q=Mega+Greninja+ex+%23122+Pokemon+Chaos+Rising&type=prices"
+          }
         },
         {
           "tcgdex_id": "me04-119",
@@ -138,13 +178,18 @@
           "rarity": "Special illustration rare",
           "price7d": 46.57,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.457Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/me/me04/119/high.webp",
           "set_id": "me04",
           "set_name": "Chaos Rising",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Cinccino+ex+119",
           "data_source": "https://api.tcgdex.net/v2/en/cards/me04-119",
-          "rank": 3
+          "rank": 3,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Cinccino ex #119 Pokemon Chaos Rising",
+            "search_url": "https://www.pricecharting.com/search-products?q=Cinccino+ex+%23119+Pokemon+Chaos+Rising&type=prices"
+          }
         },
         {
           "tcgdex_id": "me04-118",
@@ -153,13 +198,18 @@
           "rarity": "Special illustration rare",
           "price7d": 35.34,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.457Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/me/me04/118/high.webp",
           "set_id": "me04",
           "set_name": "Chaos Rising",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Mega+Dragalge+ex+118",
           "data_source": "https://api.tcgdex.net/v2/en/cards/me04-118",
-          "rank": 4
+          "rank": 4,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Mega Dragalge ex #118 Pokemon Chaos Rising",
+            "search_url": "https://www.pricecharting.com/search-products?q=Mega+Dragalge+ex+%23118+Pokemon+Chaos+Rising&type=prices"
+          }
         },
         {
           "tcgdex_id": "me04-117",
@@ -168,21 +218,31 @@
           "rarity": "Special illustration rare",
           "price7d": 30.96,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.457Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/me/me04/117/high.webp",
           "set_id": "me04",
           "set_name": "Chaos Rising",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Mega+Floette+ex+117",
           "data_source": "https://api.tcgdex.net/v2/en/cards/me04-117",
-          "rank": 5
+          "rank": 5,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Mega Floette ex #117 Pokemon Chaos Rising",
+            "search_url": "https://www.pricecharting.com/search-products?q=Mega+Floette+ex+%23117+Pokemon+Chaos+Rising&type=prices"
+          }
         }
       ],
       "coverage": 5,
       "set_id": "me04",
       "price_source": "TCGdex Cardmarket AVG7",
       "image_source": "TCGdex exact card asset",
-      "pricing_updated": "2026-08-19T08:02:25.457Z",
-      "scan_status": "ok"
+      "pricing_updated": "2026-08-19T08:02:24.851Z",
+      "scan_status": "ok",
+      "pricecharting": {
+        "status": "pending_api",
+        "query": "Mega Greninja ex #116 Pokemon Chaos Rising",
+        "search_url": "https://www.pricecharting.com/search-products?q=Mega+Greninja+ex+%23116+Pokemon+Chaos+Rising&type=prices"
+      }
     },
     "Destined Rivals": {
       "card": "Team Rocket's Mewtwo ex",
@@ -199,13 +259,18 @@
           "rarity": "Special illustration rare",
           "price7d": 580.19,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/sv/sv10/231/high.webp",
           "set_id": "sv10",
           "set_name": "Destined Rivals",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Team+Rocket%27s+Mewtwo+ex+231",
           "data_source": "https://api.tcgdex.net/v2/en/cards/sv10-231",
-          "rank": 1
+          "rank": 1,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Team Rocket's Mewtwo ex #231 Pokemon Destined Rivals",
+            "search_url": "https://www.pricecharting.com/search-products?q=Team+Rocket%27s+Mewtwo+ex+%23231+Pokemon+Destined+Rivals&type=prices"
+          }
         },
         {
           "tcgdex_id": "sv10-232",
@@ -214,13 +279,18 @@
           "rarity": "Special illustration rare",
           "price7d": 211.29,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/sv/sv10/232/high.webp",
           "set_id": "sv10",
           "set_name": "Destined Rivals",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Cynthia%27s+Garchomp+ex+232",
           "data_source": "https://api.tcgdex.net/v2/en/cards/sv10-232",
-          "rank": 2
+          "rank": 2,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Cynthia's Garchomp ex #232 Pokemon Destined Rivals",
+            "search_url": "https://www.pricecharting.com/search-products?q=Cynthia%27s+Garchomp+ex+%23232+Pokemon+Destined+Rivals&type=prices"
+          }
         },
         {
           "tcgdex_id": "sv10-230",
@@ -229,13 +299,18 @@
           "rarity": "Special illustration rare",
           "price7d": 207.96,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/sv/sv10/230/high.webp",
           "set_id": "sv10",
           "set_name": "Destined Rivals",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Ethan%27s+Ho-Oh+ex+230",
           "data_source": "https://api.tcgdex.net/v2/en/cards/sv10-230",
-          "rank": 3
+          "rank": 3,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Ethan's Ho-Oh ex #230 Pokemon Destined Rivals",
+            "search_url": "https://www.pricecharting.com/search-products?q=Ethan%27s+Ho-Oh+ex+%23230+Pokemon+Destined+Rivals&type=prices"
+          }
         },
         {
           "tcgdex_id": "sv10-229",
@@ -244,13 +319,18 @@
           "rarity": "Special illustration rare",
           "price7d": 156.7,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/sv/sv10/229/high.webp",
           "set_id": "sv10",
           "set_name": "Destined Rivals",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Team+Rocket%27s+Moltres+ex+229",
           "data_source": "https://api.tcgdex.net/v2/en/cards/sv10-229",
-          "rank": 4
+          "rank": 4,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Team Rocket's Moltres ex #229 Pokemon Destined Rivals",
+            "search_url": "https://www.pricecharting.com/search-products?q=Team+Rocket%27s+Moltres+ex+%23229+Pokemon+Destined+Rivals&type=prices"
+          }
         },
         {
           "tcgdex_id": "sv10-233",
@@ -259,21 +339,31 @@
           "rarity": "Special illustration rare",
           "price7d": 128.99,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/sv/sv10/233/high.webp",
           "set_id": "sv10",
           "set_name": "Destined Rivals",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Team+Rocket%27s+Nidoking+ex+233",
           "data_source": "https://api.tcgdex.net/v2/en/cards/sv10-233",
-          "rank": 5
+          "rank": 5,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Team Rocket's Nidoking ex #233 Pokemon Destined Rivals",
+            "search_url": "https://www.pricecharting.com/search-products?q=Team+Rocket%27s+Nidoking+ex+%23233+Pokemon+Destined+Rivals&type=prices"
+          }
         }
       ],
       "coverage": 5,
       "set_id": "sv10",
       "price_source": "TCGdex Cardmarket AVG7",
       "image_source": "TCGdex exact card asset",
-      "pricing_updated": "2026-08-19T08:02:25.615Z",
-      "scan_status": "ok"
+      "pricing_updated": "2026-08-19T08:02:24.851Z",
+      "scan_status": "ok",
+      "pricecharting": {
+        "status": "pending_api",
+        "query": "Team Rocket's Mewtwo ex #231 Pokemon Destined Rivals",
+        "search_url": "https://www.pricecharting.com/search-products?q=Team+Rocket%27s+Mewtwo+ex+%23231+Pokemon+Destined+Rivals&type=prices"
+      }
     },
     "Journey Together": {
       "card": "Lillie's Clefairy ex",
@@ -290,13 +380,18 @@
           "rarity": "Special illustration rare",
           "price7d": 107.69,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/sv/sv09/184/high.webp",
           "set_id": "sv09",
           "set_name": "Journey Together",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Lillie%27s+Clefairy+ex+184",
           "data_source": "https://api.tcgdex.net/v2/en/cards/sv09-184",
-          "rank": 1
+          "rank": 1,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Lillie's Clefairy ex #184 Pokemon Journey Together",
+            "search_url": "https://www.pricecharting.com/search-products?q=Lillie%27s+Clefairy+ex+%23184+Pokemon+Journey+Together&type=prices"
+          }
         },
         {
           "tcgdex_id": "sv09-187",
@@ -305,13 +400,18 @@
           "rarity": "Special illustration rare",
           "price7d": 66.18,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/sv/sv09/187/high.webp",
           "set_id": "sv09",
           "set_name": "Journey Together",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Salamence+ex+187",
           "data_source": "https://api.tcgdex.net/v2/en/cards/sv09-187",
-          "rank": 2
+          "rank": 2,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Salamence ex #187 Pokemon Journey Together",
+            "search_url": "https://www.pricecharting.com/search-products?q=Salamence+ex+%23187+Pokemon+Journey+Together&type=prices"
+          }
         },
         {
           "tcgdex_id": "sv09-185",
@@ -320,13 +420,18 @@
           "rarity": "Special illustration rare",
           "price7d": 52.95,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/sv/sv09/185/high.webp",
           "set_id": "sv09",
           "set_name": "Journey Together",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=N%27s+Zoroark+ex+185",
           "data_source": "https://api.tcgdex.net/v2/en/cards/sv09-185",
-          "rank": 3
+          "rank": 3,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "N's Zoroark ex #185 Pokemon Journey Together",
+            "search_url": "https://www.pricecharting.com/search-products?q=N%27s+Zoroark+ex+%23185+Pokemon+Journey+Together&type=prices"
+          }
         },
         {
           "tcgdex_id": "sv09-183",
@@ -335,13 +440,18 @@
           "rarity": "Special illustration rare",
           "price7d": 41.87,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/sv/sv09/183/high.webp",
           "set_id": "sv09",
           "set_name": "Journey Together",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Iono%27s+Bellibolt+ex+183",
           "data_source": "https://api.tcgdex.net/v2/en/cards/sv09-183",
-          "rank": 4
+          "rank": 4,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Iono's Bellibolt ex #183 Pokemon Journey Together",
+            "search_url": "https://www.pricecharting.com/search-products?q=Iono%27s+Bellibolt+ex+%23183+Pokemon+Journey+Together&type=prices"
+          }
         },
         {
           "tcgdex_id": "sv09-186",
@@ -350,21 +460,31 @@
           "rarity": "Special illustration rare",
           "price7d": 37.73,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/sv/sv09/186/high.webp",
           "set_id": "sv09",
           "set_name": "Journey Together",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Hop%27s+Zacian+ex+186",
           "data_source": "https://api.tcgdex.net/v2/en/cards/sv09-186",
-          "rank": 5
+          "rank": 5,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Hop's Zacian ex #186 Pokemon Journey Together",
+            "search_url": "https://www.pricecharting.com/search-products?q=Hop%27s+Zacian+ex+%23186+Pokemon+Journey+Together&type=prices"
+          }
         }
       ],
       "coverage": 5,
       "set_id": "sv09",
       "price_source": "TCGdex Cardmarket AVG7",
       "image_source": "TCGdex exact card asset",
-      "pricing_updated": "2026-08-19T08:02:25.615Z",
-      "scan_status": "ok"
+      "pricing_updated": "2026-08-19T08:02:24.851Z",
+      "scan_status": "ok",
+      "pricecharting": {
+        "status": "pending_api",
+        "query": "Lillie's Clefairy ex #184 Pokemon Journey Together",
+        "search_url": "https://www.pricecharting.com/search-products?q=Lillie%27s+Clefairy+ex+%23184+Pokemon+Journey+Together&type=prices"
+      }
     },
     "Lost Origin": {
       "card": "Giratina V",
@@ -381,13 +501,18 @@
           "rarity": "Ultra Rare",
           "price7d": 815.46,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/swsh/swsh11/186/high.webp",
           "set_id": "swsh11",
           "set_name": "Lost Origin",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Giratina+V+186",
           "data_source": "https://api.tcgdex.net/v2/en/cards/swsh11-186",
-          "rank": 1
+          "rank": 1,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Giratina V #186 Pokemon Lost Origin",
+            "search_url": "https://www.pricecharting.com/search-products?q=Giratina+V+%23186+Pokemon+Lost+Origin&type=prices"
+          }
         },
         {
           "tcgdex_id": "swsh11-180",
@@ -396,13 +521,18 @@
           "rarity": "Ultra Rare",
           "price7d": 207.56,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/swsh/swsh11/180/high.webp",
           "set_id": "swsh11",
           "set_name": "Lost Origin",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Aerodactyl+V+180",
           "data_source": "https://api.tcgdex.net/v2/en/cards/swsh11-180",
-          "rank": 2
+          "rank": 2,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Aerodactyl V #180 Pokemon Lost Origin",
+            "search_url": "https://www.pricecharting.com/search-products?q=Aerodactyl+V+%23180+Pokemon+Lost+Origin&type=prices"
+          }
         },
         {
           "tcgdex_id": "swsh11-177",
@@ -411,13 +541,18 @@
           "rarity": "Ultra Rare",
           "price7d": 32.98,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/swsh/swsh11/177/high.webp",
           "set_id": "swsh11",
           "set_name": "Lost Origin",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Rotom+V+177",
           "data_source": "https://api.tcgdex.net/v2/en/cards/swsh11-177",
-          "rank": 3
+          "rank": 3,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Rotom V #177 Pokemon Lost Origin",
+            "search_url": "https://www.pricecharting.com/search-products?q=Rotom+V+%23177+Pokemon+Lost+Origin&type=prices"
+          }
         },
         {
           "tcgdex_id": "swsh11-212",
@@ -426,13 +561,18 @@
           "rarity": "Secret Rare",
           "price7d": 28.4,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/swsh/swsh11/212/high.webp",
           "set_id": "swsh11",
           "set_name": "Lost Origin",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Giratina+VSTAR+212",
           "data_source": "https://api.tcgdex.net/v2/en/cards/swsh11-212",
-          "rank": 4
+          "rank": 4,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Giratina VSTAR #212 Pokemon Lost Origin",
+            "search_url": "https://www.pricecharting.com/search-products?q=Giratina+VSTAR+%23212+Pokemon+Lost+Origin&type=prices"
+          }
         },
         {
           "tcgdex_id": "swsh11-184",
@@ -441,21 +581,31 @@
           "rarity": "Ultra Rare",
           "price7d": 17.7,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/swsh/swsh11/184/high.webp",
           "set_id": "swsh11",
           "set_name": "Lost Origin",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Galarian+Perrserker+V+184",
           "data_source": "https://api.tcgdex.net/v2/en/cards/swsh11-184",
-          "rank": 5
+          "rank": 5,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Galarian Perrserker V #184 Pokemon Lost Origin",
+            "search_url": "https://www.pricecharting.com/search-products?q=Galarian+Perrserker+V+%23184+Pokemon+Lost+Origin&type=prices"
+          }
         }
       ],
       "coverage": 5,
       "set_id": "swsh11",
       "price_source": "TCGdex Cardmarket AVG7",
       "image_source": "TCGdex exact card asset",
-      "pricing_updated": "2026-08-19T08:02:25.615Z",
-      "scan_status": "ok"
+      "pricing_updated": "2026-08-19T08:02:24.851Z",
+      "scan_status": "ok",
+      "pricecharting": {
+        "status": "pending_api",
+        "query": "Giratina V #186 Pokemon Lost Origin",
+        "search_url": "https://www.pricecharting.com/search-products?q=Giratina+V+%23186+Pokemon+Lost+Origin&type=prices"
+      }
     },
     "Perfect Order": {
       "card": "Meowth ex",
@@ -472,13 +622,18 @@
           "rarity": "Special illustration rare",
           "price7d": 107.07,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/me/me03/121/high.webp",
           "set_id": "me03",
           "set_name": "Perfect Order",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Meowth+ex+121",
           "data_source": "https://api.tcgdex.net/v2/en/cards/me03-121",
-          "rank": 1
+          "rank": 1,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Meowth ex #121 Pokemon Perfect Order",
+            "search_url": "https://www.pricecharting.com/search-products?q=Meowth+ex+%23121+Pokemon+Perfect+Order&type=prices"
+          }
         },
         {
           "tcgdex_id": "me03-124",
@@ -487,13 +642,18 @@
           "rarity": "Mega Hyper Rare",
           "price7d": 104.25,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.457Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/me/me03/124/high.webp",
           "set_id": "me03",
           "set_name": "Perfect Order",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Mega+Zygarde+ex+124",
           "data_source": "https://api.tcgdex.net/v2/en/cards/me03-124",
-          "rank": 2
+          "rank": 2,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Mega Zygarde ex #124 Pokemon Perfect Order",
+            "search_url": "https://www.pricecharting.com/search-products?q=Mega+Zygarde+ex+%23124+Pokemon+Perfect+Order&type=prices"
+          }
         },
         {
           "tcgdex_id": "me03-123",
@@ -502,13 +662,18 @@
           "rarity": "Special illustration rare",
           "price7d": 48.02,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.457Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/me/me03/123/high.webp",
           "set_id": "me03",
           "set_name": "Perfect Order",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Rosa%27s+Encouragement+123",
           "data_source": "https://api.tcgdex.net/v2/en/cards/me03-123",
-          "rank": 3
+          "rank": 3,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Rosa's Encouragement #123 Pokemon Perfect Order",
+            "search_url": "https://www.pricecharting.com/search-products?q=Rosa%27s+Encouragement+%23123+Pokemon+Perfect+Order&type=prices"
+          }
         },
         {
           "tcgdex_id": "me03-120",
@@ -517,13 +682,18 @@
           "rarity": "Special illustration rare",
           "price7d": 45.71,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/me/me03/120/high.webp",
           "set_id": "me03",
           "set_name": "Perfect Order",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Mega+Zygarde+ex+120",
           "data_source": "https://api.tcgdex.net/v2/en/cards/me03-120",
-          "rank": 4
+          "rank": 4,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Mega Zygarde ex #120 Pokemon Perfect Order",
+            "search_url": "https://www.pricecharting.com/search-products?q=Mega+Zygarde+ex+%23120+Pokemon+Perfect+Order&type=prices"
+          }
         },
         {
           "tcgdex_id": "me03-119",
@@ -532,21 +702,31 @@
           "rarity": "Special illustration rare",
           "price7d": 41.84,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/me/me03/119/high.webp",
           "set_id": "me03",
           "set_name": "Perfect Order",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Mega+Clefable+ex+119",
           "data_source": "https://api.tcgdex.net/v2/en/cards/me03-119",
-          "rank": 5
+          "rank": 5,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Mega Clefable ex #119 Pokemon Perfect Order",
+            "search_url": "https://www.pricecharting.com/search-products?q=Mega+Clefable+ex+%23119+Pokemon+Perfect+Order&type=prices"
+          }
         }
       ],
       "coverage": 5,
       "set_id": "me03",
       "price_source": "TCGdex Cardmarket AVG7",
       "image_source": "TCGdex exact card asset",
-      "pricing_updated": "2026-08-19T08:02:25.615Z",
-      "scan_status": "ok"
+      "pricing_updated": "2026-08-19T08:02:24.851Z",
+      "scan_status": "ok",
+      "pricecharting": {
+        "status": "pending_api",
+        "query": "Meowth ex #121 Pokemon Perfect Order",
+        "search_url": "https://www.pricecharting.com/search-products?q=Meowth+ex+%23121+Pokemon+Perfect+Order&type=prices"
+      }
     },
     "Phantasmal Flames": {
       "card": "Mega Charizard X ex",
@@ -563,13 +743,18 @@
           "rarity": "Special illustration rare",
           "price7d": 935.26,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/me/me02/125/high.webp",
           "set_id": "me02",
           "set_name": "Phantasmal Flames",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Mega+Charizard+X+ex+125",
           "data_source": "https://api.tcgdex.net/v2/en/cards/me02-125",
-          "rank": 1
+          "rank": 1,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Mega Charizard X ex #125 Pokemon Phantasmal Flames",
+            "search_url": "https://www.pricecharting.com/search-products?q=Mega+Charizard+X+ex+%23125+Pokemon+Phantasmal+Flames&type=prices"
+          }
         },
         {
           "tcgdex_id": "me02-130",
@@ -578,13 +763,18 @@
           "rarity": "Mega Hyper Rare",
           "price7d": 254.47,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/me/me02/130/high.webp",
           "set_id": "me02",
           "set_name": "Phantasmal Flames",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Mega+Charizard+X+ex+130",
           "data_source": "https://api.tcgdex.net/v2/en/cards/me02-130",
-          "rank": 2
+          "rank": 2,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Mega Charizard X ex #130 Pokemon Phantasmal Flames",
+            "search_url": "https://www.pricecharting.com/search-products?q=Mega+Charizard+X+ex+%23130+Pokemon+Phantasmal+Flames&type=prices"
+          }
         },
         {
           "tcgdex_id": "me02-109",
@@ -593,13 +783,18 @@
           "rarity": "Ultra Rare",
           "price7d": 35.03,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/me/me02/109/high.webp",
           "set_id": "me02",
           "set_name": "Phantasmal Flames",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Mega+Charizard+X+ex+109",
           "data_source": "https://api.tcgdex.net/v2/en/cards/me02-109",
-          "rank": 3
+          "rank": 3,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Mega Charizard X ex #109 Pokemon Phantasmal Flames",
+            "search_url": "https://www.pricecharting.com/search-products?q=Mega+Charizard+X+ex+%23109+Pokemon+Phantasmal+Flames&type=prices"
+          }
         },
         {
           "tcgdex_id": "me02-106",
@@ -608,13 +803,18 @@
           "rarity": "Illustration rare",
           "price7d": 22.98,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/me/me02/106/high.webp",
           "set_id": "me02",
           "set_name": "Phantasmal Flames",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Meowth+106",
           "data_source": "https://api.tcgdex.net/v2/en/cards/me02-106",
-          "rank": 4
+          "rank": 4,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Meowth #106 Pokemon Phantasmal Flames",
+            "search_url": "https://www.pricecharting.com/search-products?q=Meowth+%23106+Pokemon+Phantasmal+Flames&type=prices"
+          }
         },
         {
           "tcgdex_id": "me02-129",
@@ -623,21 +823,31 @@
           "rarity": "Special illustration rare",
           "price7d": 22.54,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/me/me02/129/high.webp",
           "set_id": "me02",
           "set_name": "Phantasmal Flames",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Dawn+129",
           "data_source": "https://api.tcgdex.net/v2/en/cards/me02-129",
-          "rank": 5
+          "rank": 5,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Dawn #129 Pokemon Phantasmal Flames",
+            "search_url": "https://www.pricecharting.com/search-products?q=Dawn+%23129+Pokemon+Phantasmal+Flames&type=prices"
+          }
         }
       ],
       "coverage": 5,
       "set_id": "me02",
       "price_source": "TCGdex Cardmarket AVG7",
       "image_source": "TCGdex exact card asset",
-      "pricing_updated": "2026-08-19T08:02:25.615Z",
-      "scan_status": "ok"
+      "pricing_updated": "2026-08-19T08:02:24.851Z",
+      "scan_status": "ok",
+      "pricecharting": {
+        "status": "pending_api",
+        "query": "Mega Charizard X ex #125 Pokemon Phantasmal Flames",
+        "search_url": "https://www.pricecharting.com/search-products?q=Mega+Charizard+X+ex+%23125+Pokemon+Phantasmal+Flames&type=prices"
+      }
     },
     "Pitch Black": {
       "card": "Mega Darkrai ex",
@@ -654,13 +864,18 @@
           "rarity": "Special illustration rare",
           "price7d": 262.82,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.457Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/me/me05/116/high.webp",
           "set_id": "me05",
           "set_name": "Pitch Black",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Mega+Darkrai+ex+116",
           "data_source": "https://api.tcgdex.net/v2/en/cards/me05-116",
-          "rank": 1
+          "rank": 1,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Mega Darkrai ex #116 Pokemon Pitch Black",
+            "search_url": "https://www.pricecharting.com/search-products?q=Mega+Darkrai+ex+%23116+Pokemon+Pitch+Black&type=prices"
+          }
         },
         {
           "tcgdex_id": "me05-120",
@@ -669,13 +884,18 @@
           "rarity": "Mega Hyper Rare",
           "price7d": 155.7,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.615Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/me/me05/120/high.webp",
           "set_id": "me05",
           "set_name": "Pitch Black",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Mega+Darkrai+ex+120",
           "data_source": "https://api.tcgdex.net/v2/en/cards/me05-120",
-          "rank": 2
+          "rank": 2,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Mega Darkrai ex #120 Pokemon Pitch Black",
+            "search_url": "https://www.pricecharting.com/search-products?q=Mega+Darkrai+ex+%23120+Pokemon+Pitch+Black&type=prices"
+          }
         },
         {
           "tcgdex_id": "me05-117",
@@ -684,13 +904,18 @@
           "rarity": "Special illustration rare",
           "price7d": 64.29,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.457Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/me/me05/117/high.webp",
           "set_id": "me05",
           "set_name": "Pitch Black",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Morpeko+ex+117",
           "data_source": "https://api.tcgdex.net/v2/en/cards/me05-117",
-          "rank": 3
+          "rank": 3,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Morpeko ex #117 Pokemon Pitch Black",
+            "search_url": "https://www.pricecharting.com/search-products?q=Morpeko+ex+%23117+Pokemon+Pitch+Black&type=prices"
+          }
         },
         {
           "tcgdex_id": "me05-114",
@@ -699,13 +924,18 @@
           "rarity": "Special illustration rare",
           "price7d": 54.05,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.457Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/me/me05/114/high.webp",
           "set_id": "me05",
           "set_name": "Pitch Black",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Mega+Zeraora+ex+114",
           "data_source": "https://api.tcgdex.net/v2/en/cards/me05-114",
-          "rank": 4
+          "rank": 4,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Mega Zeraora ex #114 Pokemon Pitch Black",
+            "search_url": "https://www.pricecharting.com/search-products?q=Mega+Zeraora+ex+%23114+Pokemon+Pitch+Black&type=prices"
+          }
         },
         {
           "tcgdex_id": "me05-115",
@@ -714,23 +944,42 @@
           "rarity": "Special illustration rare",
           "price7d": 36.0,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-19T08:02:25.457Z",
+          "pricing_updated": "2026-08-19T08:02:24.851Z",
           "img": "https://assets.tcgdex.net/en/me/me05/115/high.webp",
           "set_id": "me05",
           "set_name": "Pitch Black",
           "url": "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString=Mega+Chandelure+ex+115",
           "data_source": "https://api.tcgdex.net/v2/en/cards/me05-115",
-          "rank": 5
+          "rank": 5,
+          "pricecharting": {
+            "status": "pending_api",
+            "query": "Mega Chandelure ex #115 Pokemon Pitch Black",
+            "search_url": "https://www.pricecharting.com/search-products?q=Mega+Chandelure+ex+%23115+Pokemon+Pitch+Black&type=prices"
+          }
         }
       ],
       "coverage": 5,
       "set_id": "me05",
       "price_source": "TCGdex Cardmarket AVG7",
       "image_source": "TCGdex exact card asset",
-      "pricing_updated": "2026-08-19T08:02:25.457Z",
-      "scan_status": "ok"
+      "pricing_updated": "2026-08-19T08:02:24.851Z",
+      "scan_status": "ok",
+      "pricecharting": {
+        "status": "pending_api",
+        "query": "Mega Darkrai ex #116 Pokemon Pitch Black",
+        "search_url": "https://www.pricecharting.com/search-products?q=Mega+Darkrai+ex+%23116+Pokemon+Pitch+Black&type=prices"
+      }
     }
   },
   "unmatched_sets": [],
-  "errors": []
+  "errors": [],
+  "pricecharting": {
+    "source": "PriceCharting",
+    "api_enabled": false,
+    "enriched_cards": 0,
+    "pending_or_unmatched": 40,
+    "errors": [],
+    "currency": "USD",
+    "note": "Raw and graded card values. Cardmarket remains the sealed-product benchmark."
+  }
 }
