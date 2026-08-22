@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T16:43:23+00:00",
+  "generated_at": "2026-08-22T22:41:07+00:00",
   "method": "Top pulls rebuilt from exact TCGdex card IDs. Prices use Cardmarket AVG7 from each exact card response; images use the exact TCGdex card asset.",
   "sets": {
     "Astral Radiance": {
@@ -521,7 +521,7 @@
           "rarity": "Ultra Rare",
           "price7d": 207.56,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-21T08:03:04.459Z",
+          "pricing_updated": "2026-08-21T08:03:04.342Z",
           "img": "https://assets.tcgdex.net/en/swsh/swsh11/180/high.webp",
           "set_id": "swsh11",
           "set_name": "Lost Origin",
@@ -541,7 +541,7 @@
           "rarity": "Ultra Rare",
           "price7d": 32.98,
           "price_field": "avg7",
-          "pricing_updated": "2026-08-21T08:03:04.459Z",
+          "pricing_updated": "2026-08-21T08:03:04.342Z",
           "img": "https://assets.tcgdex.net/en/swsh/swsh11/177/high.webp",
           "set_id": "swsh11",
           "set_name": "Lost Origin",
