@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T23:04:50+00:00",
+  "generated_at": "2026-11-20T12:56:57+00:00",
   "products": [
     {
       "id": "chaos-half",
@@ -20,7 +20,7 @@
           "ship": "Free delivery over €25",
           "note": "Factory sealed, 18 packs. Page says in stock and ships in 2–4 days.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:03:27+00:00",
+          "last_checked": "2026-11-20T12:55:22+00:00",
           "scan_status": "redirected_non_product_url"
         },
         {
@@ -30,7 +30,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "45 units shown in stock when checked; free same-day store pickup.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:03:31+00:00",
+          "last_checked": "2026-11-20T12:55:27+00:00",
           "scan_status": "ok"
         },
         {
@@ -40,17 +40,7 @@
           "ship": "Free delivery over €25",
           "note": "Add-to-cart listing; prices include VAT.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:03:33+00:00",
-          "scan_status": "ok"
-        },
-        {
-          "store": "PowerPlay",
-          "price": 100.0,
-          "url": "https://www.powerplaymt.com/product-page/chaos-rising-half-booster-box",
-          "ship": "Free delivery over €50",
-          "note": "In-stock local listing.",
-          "direct_product_url": true,
-          "last_checked": "2026-11-19T23:03:35+00:00",
+          "last_checked": "2026-11-20T12:55:29+00:00",
           "scan_status": "ok"
         },
         {
@@ -60,7 +50,7 @@
           "ship": "Free delivery over €250",
           "note": "English category; Add to basket when checked.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:03:37+00:00",
+          "last_checked": "2026-11-20T12:55:33+00:00",
           "scan_status": "fetch_error"
         }
       ],
@@ -85,7 +75,7 @@
           "ship": "Free delivery over €25",
           "note": "Product block says in stock / ships in 2–4 days, but the FAQ on the same page still describes Pitch Black as delayed preorder. Verify before checkout.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:03:38+00:00",
+          "last_checked": "2026-11-20T12:55:34+00:00",
           "scan_status": "fetch_error"
         },
         {
@@ -95,7 +85,7 @@
           "ship": "Free delivery over €25",
           "note": "Add-to-cart listing when checked.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:03:39+00:00",
+          "last_checked": "2026-11-20T12:55:36+00:00",
           "scan_status": "fetch_error"
         }
       ],
@@ -120,7 +110,7 @@
           "ship": "Free delivery over €25",
           "note": "Product block says in stock / ships in 2–4 days, but the FAQ on the same page still describes Pitch Black as delayed preorder. Verify before checkout.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:03:40+00:00",
+          "last_checked": "2026-11-20T12:55:36+00:00",
           "scan_status": "fetch_error"
         },
         {
@@ -130,7 +120,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:03:41+00:00",
+          "last_checked": "2026-11-20T12:55:38+00:00",
           "scan_status": "fetch_error"
         }
       ],
@@ -155,7 +145,7 @@
           "ship": "Free delivery over €25",
           "note": "In stock; ships in 2–4 days.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:03:42+00:00",
+          "last_checked": "2026-11-20T12:55:38+00:00",
           "scan_status": "fetch_error"
         },
         {
@@ -165,7 +155,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:03:46+00:00",
+          "last_checked": "2026-11-20T12:55:43+00:00",
           "scan_status": "ok"
         }
       ],
@@ -190,7 +180,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:03:52+00:00",
+          "last_checked": "2026-11-20T12:55:48+00:00",
           "scan_status": "ok"
         }
       ],
@@ -215,8 +205,8 @@
           "ship": "Free delivery over €50",
           "note": "In-stock local listing.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:03:53+00:00",
-          "scan_status": "ok"
+          "last_checked": "2026-11-20T12:55:49+00:00",
+          "scan_status": "fetch_error"
         }
       ],
       "fallback": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27900%27%20height%3D%27650%27%3E%0A%20%20%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20stop-color%3D%27%23173963%27/%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%23673d83%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%27900%27%20height%3D%27650%27%20rx%3D%2736%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%27145%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Cpath%20d%3D%27M305%20270%20A145%20145%200%200%201%20595%20270%27%20fill%3D%27%23e84b4b%27/%3E%0A%20%20%20%20%3Crect%20x%3D%27305%27%20y%3D%27256%27%20width%3D%27290%27%20height%3D%2728%27%20fill%3D%27%23273142%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2747%27%20fill%3D%27%23273142%27/%3E%3Ccircle%20cx%3D%27450%27%20cy%3D%27270%27%20r%3D%2728%27%20fill%3D%27%23f6f7fb%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27525%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27900%27%20font-size%3D%2731%27%3EPerfect%20Order%20Half%20Booster%20Box%20%2818%20Packs%29%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%27450%27%20y%3D%27565%27%20fill%3D%27%23d8e4f6%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-weight%3D%27700%27%20font-size%3D%2718%27%3EPerfect%20Order%20%E2%80%A2%20Half%20Booster%20Box%3C/text%3E%0A%20%20%20%20%3C/svg%3E"
@@ -240,7 +230,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "72 in stock when checked: San Ġwann 25, Tarxien 25, Birkirkara 22. Pickup free.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:03:57+00:00",
+          "last_checked": "2026-11-20T12:55:53+00:00",
           "scan_status": "ok"
         }
       ],
@@ -265,7 +255,7 @@
           "ship": "Free delivery over €50",
           "note": "In-stock local listing.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:03:59+00:00",
+          "last_checked": "2026-11-20T12:55:55+00:00",
           "scan_status": "ok"
         },
         {
@@ -275,7 +265,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock on 19 Aug 2026.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:00+00:00",
+          "last_checked": "2026-11-20T12:55:56+00:00",
           "scan_status": "fetch_error"
         }
       ],
@@ -300,7 +290,7 @@
           "ship": "Free delivery over €25",
           "note": "Add-to-cart listing when checked.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:02+00:00",
+          "last_checked": "2026-11-20T12:56:00+00:00",
           "scan_status": "ok"
         }
       ],
@@ -325,7 +315,7 @@
           "ship": "Free delivery over €250",
           "note": "English; Add to basket.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:02+00:00",
+          "last_checked": "2026-11-20T12:56:02+00:00",
           "scan_status": "ok"
         },
         {
@@ -335,7 +325,7 @@
           "ship": "Free delivery over €25",
           "note": "Add to cart.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:04+00:00",
+          "last_checked": "2026-11-20T12:56:05+00:00",
           "scan_status": "ok"
         },
         {
@@ -345,7 +335,7 @@
           "ship": "Check checkout",
           "note": "Add to cart on 19 Aug 2026. Category page does not explicitly state language; verify English before buying.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:05+00:00",
+          "last_checked": "2026-11-20T12:56:05+00:00",
           "scan_status": "fetch_error"
         }
       ],
@@ -370,7 +360,7 @@
           "ship": "Free delivery over €250",
           "note": "English; Add to basket.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:05+00:00",
+          "last_checked": "2026-11-20T12:56:07+00:00",
           "scan_status": "ok"
         }
       ],
@@ -395,7 +385,7 @@
           "ship": "Check checkout",
           "note": "Add-to-cart listing. Exotique does not state product language on the category page; verify English before buying.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:05+00:00",
+          "last_checked": "2026-11-20T12:56:08+00:00",
           "scan_status": "fetch_error"
         }
       ],
@@ -420,7 +410,7 @@
           "ship": "Free delivery over €50",
           "note": "In-stock local listing.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:07+00:00",
+          "last_checked": "2026-11-20T12:56:09+00:00",
           "scan_status": "ok"
         },
         {
@@ -430,7 +420,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock on 19 Aug 2026.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:08+00:00",
+          "last_checked": "2026-11-20T12:56:11+00:00",
           "scan_status": "fetch_error"
         }
       ],
@@ -455,7 +445,7 @@
           "ship": "Free delivery over €25",
           "note": "ONE PER PERSON shown directly in the product title.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:10+00:00",
+          "last_checked": "2026-11-20T12:56:13+00:00",
           "scan_status": "fetch_error"
         }
       ],
@@ -480,7 +470,7 @@
           "ship": "Free delivery over €50",
           "note": "In-stock local listing.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:11+00:00",
+          "last_checked": "2026-11-20T12:56:14+00:00",
           "scan_status": "ok"
         }
       ],
@@ -505,7 +495,7 @@
           "ship": "Free delivery over €50",
           "note": "In-stock local listing.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:13+00:00",
+          "last_checked": "2026-11-20T12:56:15+00:00",
           "scan_status": "ok"
         }
       ],
@@ -530,7 +520,7 @@
           "ship": "Free delivery over €50",
           "note": "In-stock local listing.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:14+00:00",
+          "last_checked": "2026-11-20T12:56:17+00:00",
           "scan_status": "ok"
         }
       ],
@@ -555,7 +545,7 @@
           "ship": "Free delivery over €50",
           "note": "In-stock local listing.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:15+00:00",
+          "last_checked": "2026-11-20T12:56:18+00:00",
           "scan_status": "fetch_error"
         }
       ],
@@ -580,7 +570,7 @@
           "ship": "Free delivery over €25",
           "note": "Add to cart.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:17+00:00",
+          "last_checked": "2026-11-20T12:56:20+00:00",
           "scan_status": "fetch_error"
         }
       ],
@@ -605,7 +595,7 @@
           "ship": "Free delivery over €25",
           "note": "Add to cart.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:19+00:00",
+          "last_checked": "2026-11-20T12:56:22+00:00",
           "scan_status": "ok"
         },
         {
@@ -615,7 +605,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:21+00:00",
+          "last_checked": "2026-11-20T12:56:24+00:00",
           "scan_status": "fetch_error"
         }
       ],
@@ -640,7 +630,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:25+00:00",
+          "last_checked": "2026-11-20T12:56:29+00:00",
           "scan_status": "ok"
         }
       ],
@@ -669,7 +659,7 @@
           "ship": "Free delivery over €25",
           "note": "Pawmot premium checklane; Add to cart.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:27+00:00",
+          "last_checked": "2026-11-20T12:56:31+00:00",
           "scan_status": "ok"
         },
         {
@@ -679,7 +669,7 @@
           "ship": "Free delivery over €50",
           "note": "Selectable variants; available listing.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:27+00:00",
+          "last_checked": "2026-11-20T12:56:32+00:00",
           "scan_status": "ok"
         },
         {
@@ -689,7 +679,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:31+00:00",
+          "last_checked": "2026-11-20T12:56:36+00:00",
           "scan_status": "ok"
         }
       ],
@@ -714,7 +704,7 @@
           "ship": "Free delivery over €250",
           "note": "English; Add to basket.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:32+00:00",
+          "last_checked": "2026-11-20T12:56:36+00:00",
           "scan_status": "ok"
         }
       ],
@@ -739,7 +729,7 @@
           "ship": "Free delivery over €250",
           "note": "English; Add to basket.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:32+00:00",
+          "last_checked": "2026-11-20T12:56:39+00:00",
           "scan_status": "ok"
         }
       ],
@@ -764,7 +754,7 @@
           "ship": "Free delivery over €250",
           "note": "English; Add to basket.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:32+00:00",
+          "last_checked": "2026-11-20T12:56:40+00:00",
           "scan_status": "ok"
         }
       ],
@@ -789,7 +779,7 @@
           "ship": "Free delivery over €250",
           "note": "English; Add to basket.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:34+00:00",
+          "last_checked": "2026-11-20T12:56:42+00:00",
           "scan_status": "fetch_error"
         }
       ],
@@ -814,7 +804,7 @@
           "ship": "Free delivery over €25",
           "note": "Add to cart.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:36+00:00",
+          "last_checked": "2026-11-20T12:56:44+00:00",
           "scan_status": "ok"
         },
         {
@@ -824,7 +814,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "Generic World Championships Deck 2024 listing; exact deck variant not specified.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:40+00:00",
+          "last_checked": "2026-11-20T12:56:48+00:00",
           "scan_status": "ok"
         }
       ],
@@ -853,7 +843,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:42+00:00",
+          "last_checked": "2026-11-20T12:56:50+00:00",
           "scan_status": "fetch_error"
         }
       ]
@@ -877,7 +867,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:46+00:00",
+          "last_checked": "2026-11-20T12:56:54+00:00",
           "scan_status": "ok"
         }
       ]
@@ -901,7 +891,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:48+00:00",
+          "last_checked": "2026-11-20T12:56:56+00:00",
           "scan_status": "fetch_error"
         }
       ]
@@ -925,7 +915,7 @@
           "ship": "Free delivery over €50",
           "note": "Add to cart on 19 Aug 2026.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:48+00:00",
+          "last_checked": "2026-11-20T12:56:56+00:00",
           "scan_status": "ok"
         }
       ]
@@ -949,7 +939,7 @@
           "ship": "Free delivery over €50; 2–3 days",
           "note": "In stock.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:50+00:00",
+          "last_checked": "2026-11-20T12:56:57+00:00",
           "scan_status": "fetch_error"
         }
       ]
@@ -973,7 +963,7 @@
           "ship": "Free delivery over €50",
           "note": "Selectable variants; add to cart.",
           "direct_product_url": true,
-          "last_checked": "2026-11-19T23:04:50+00:00",
+          "last_checked": "2026-11-20T12:56:57+00:00",
           "scan_status": "ok"
         }
       ]
@@ -1563,7 +1553,9 @@
   ],
   "scan_summary": {
     "checked_listings": 48,
-    "changes": [],
+    "changes": [
+      "Chaos Rising Half Booster Box (18 Packs) / PowerPlay: removed (out of stock)"
+    ],
     "scanner_version": "1.1-direct-links"
   }
 }
